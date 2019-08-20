@@ -1,1 +1,2 @@
-# Python code for file process.
+# Python code for file process:
+## Compare bounding boxes in two files.
