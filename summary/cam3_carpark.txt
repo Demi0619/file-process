@@ -1,2207 +1,2207 @@
-frame	 1 	detect	 person 	 2 	times
-frame	 2 	detect	 person 	 1 	times
-frame	 3 	detect	 person 	 1 	times
-frame	 4 	detect	 person 	 2 	times
-frame	 5 	detect	 person 	 1 	times
-frame	 6 	detect	 person 	 2 	times
-frame	 7 	detect	 person 	 1 	times
-frame	 8 	detect	 person 	 1 	times
-frame	 9 	detect	 person 	 1 	times
-frame	 10 	detect	 person 	 1 	times
-frame	 11 	detect	 person 	 1 	times
-frame	 12 	detect	 person 	 1 	times
-frame	 13 	detect	 person 	 1 	times
-frame	 14 	detect	 person 	 1 	times
-frame	 15 	detect	 person 	 2 	times
-frame	 16 	detect	 person 	 1 	times
-frame	 17 	detect	 person 	 1 	times
-frame	 18 	detect	 person 	 2 	times
-frame	 19 	detect	 person 	 2 	times
-frame	 20 	detect	 person 	 2 	times
-frame	 21 	detect	 person 	 2 	times
-frame	 22 	detect	 person 	 2 	times
-frame	 23 	detect	 person 	 2 	times
-frame	 24 	detect	 person 	 2 	times
-frame	 25 	detect	 person 	 2 	times
-frame	 26 	detect	 person 	 2 	times
-frame	 27 	detect	 person 	 2 	times
-frame	 28 	detect	 person 	 2 	times
-frame	 29 	detect	 person 	 2 	times
-frame	 30 	detect	 person 	 2 	times
-frame	 31 	detect	 person 	 2 	times
-frame	 32 	detect	 person 	 1 	times
-frame	 33 	detect	 person 	 1 	times
-frame	 34 	detect	 person 	 2 	times
-frame	 35 	detect	 person 	 2 	times
-frame	 36 	detect	 person 	 3 	times
-frame	 37 	detect	 person 	 2 	times
-frame	 38 	detect	 person 	 2 	times
-frame	 39 	detect	 person 	 2 	times
-frame	 41 	detect	 person 	 1 	times
-frame	 42 	detect	 person 	 1 	times
-frame	 43 	detect	 person 	 1 	times
-frame	 48 	detect	 person 	 1 	times
-frame	 54 	detect	 person 	 1 	times
-frame	 78 	detect	 person 	 1 	times
-frame	 79 	detect	 person 	 1 	times
-frame	 80 	detect	 person 	 1 	times
-frame	 84 	detect	 person 	 1 	times
-frame	 85 	detect	 person 	 1 	times
-frame	 86 	detect	 person 	 1 	times
-frame	 90 	detect	 person 	 1 	times
-frame	 96 	detect	 person 	 2 	times
-frame	 97 	detect	 person 	 3 	times
-frame	 98 	detect	 person 	 2 	times
-frame	 99 	detect	 person 	 2 	times
-frame	 100 	detect	 person 	 2 	times
-frame	 102 	detect	 person 	 1 	times
-frame	 103 	detect	 person 	 1 	times
-frame	 107 	detect	 person 	 2 	times
-frame	 108 	detect	 person 	 1 	times
-frame	 109 	detect	 person 	 1 	times
-frame	 110 	detect	 person 	 1 	times
-frame	 112 	detect	 person 	 2 	times
-frame	 113 	detect	 person 	 2 	times
-frame	 114 	detect	 person 	 1 	times
-frame	 115 	detect	 person 	 2 	times
-frame	 116 	detect	 person 	 2 	times
-frame	 117 	detect	 person 	 1 	times
-frame	 118 	detect	 person 	 2 	times
-frame	 119 	detect	 person 	 2 	times
-frame	 120 	detect	 person 	 1 	times
-frame	 121 	detect	 person 	 2 	times
-frame	 122 	detect	 person 	 2 	times
-frame	 123 	detect	 person 	 3 	times
-frame	 124 	detect	 person 	 4 	times
-frame	 125 	detect	 person 	 3 	times
-frame	 126 	detect	 person 	 3 	times
-frame	 127 	detect	 person 	 4 	times
-frame	 128 	detect	 person 	 5 	times
-frame	 129 	detect	 person 	 2 	times
-frame	 130 	detect	 person 	 3 	times
-frame	 131 	detect	 person 	 5 	times
-frame	 132 	detect	 person 	 3 	times
-frame	 133 	detect	 person 	 5 	times
-frame	 134 	detect	 person 	 6 	times
-frame	 135 	detect	 person 	 3 	times
-frame	 136 	detect	 person 	 4 	times
-frame	 137 	detect	 person 	 4 	times
-frame	 138 	detect	 person 	 4 	times
-frame	 139 	detect	 person 	 2 	times
-frame	 140 	detect	 person 	 2 	times
-frame	 141 	detect	 person 	 2 	times
-frame	 170 	detect	 person 	 1 	times
-frame	 142 	detect	 person 	 1 	times
-frame	 171 	detect	 person 	 1 	times
-frame	 173 	detect	 person 	 1 	times
-frame	 174 	detect	 person 	 2 	times
-frame	 181 	detect	 person 	 1 	times
-frame	 183 	detect	 person 	 1 	times
-frame	 176 	detect	 person 	 1 	times
-frame	 187 	detect	 person 	 1 	times
-frame	 188 	detect	 person 	 1 	times
-frame	 189 	detect	 person 	 1 	times
-frame	 190 	detect	 person 	 1 	times
-frame	 191 	detect	 person 	 1 	times
-frame	 192 	detect	 person 	 2 	times
-frame	 193 	detect	 person 	 2 	times
-frame	 194 	detect	 person 	 2 	times
-frame	 195 	detect	 person 	 1 	times
-frame	 196 	detect	 person 	 3 	times
-frame	 197 	detect	 person 	 1 	times
-frame	 198 	detect	 person 	 1 	times
-frame	 199 	detect	 person 	 2 	times
-frame	 200 	detect	 person 	 3 	times
-frame	 201 	detect	 person 	 2 	times
-frame	 202 	detect	 person 	 4 	times
-frame	 203 	detect	 person 	 4 	times
-frame	 204 	detect	 person 	 2 	times
-frame	 205 	detect	 person 	 5 	times
-frame	 206 	detect	 person 	 6 	times
-frame	 207 	detect	 person 	 4 	times
-frame	 208 	detect	 person 	 5 	times
-frame	 209 	detect	 person 	 3 	times
-frame	 210 	detect	 person 	 6 	times
-frame	 211 	detect	 person 	 5 	times
-frame	 212 	detect	 person 	 5 	times
-frame	 213 	detect	 person 	 5 	times
-frame	 214 	detect	 person 	 5 	times
-frame	 215 	detect	 person 	 3 	times
-frame	 216 	detect	 person 	 2 	times
-frame	 217 	detect	 person 	 1 	times
-frame	 218 	detect	 person 	 2 	times
-frame	 219 	detect	 person 	 1 	times
-frame	 220 	detect	 person 	 1 	times
-frame	 221 	detect	 person 	 1 	times
-frame	 222 	detect	 person 	 4 	times
-frame	 223 	detect	 person 	 2 	times
-frame	 224 	detect	 person 	 2 	times
-frame	 225 	detect	 person 	 2 	times
-frame	 226 	detect	 person 	 2 	times
-frame	 227 	detect	 person 	 2 	times
-frame	 228 	detect	 person 	 2 	times
-frame	 229 	detect	 person 	 1 	times
-frame	 230 	detect	 person 	 4 	times
-frame	 231 	detect	 person 	 3 	times
-frame	 232 	detect	 person 	 6 	times
-frame	 233 	detect	 person 	 4 	times
-frame	 234 	detect	 person 	 3 	times
-frame	 235 	detect	 person 	 2 	times
-frame	 236 	detect	 person 	 2 	times
-frame	 237 	detect	 person 	 3 	times
-frame	 238 	detect	 person 	 3 	times
-frame	 239 	detect	 person 	 3 	times
-frame	 240 	detect	 person 	 2 	times
-frame	 241 	detect	 person 	 2 	times
-frame	 242 	detect	 person 	 1 	times
-frame	 243 	detect	 person 	 1 	times
-frame	 244 	detect	 person 	 1 	times
-frame	 245 	detect	 person 	 1 	times
-frame	 246 	detect	 person 	 1 	times
-frame	 247 	detect	 person 	 2 	times
-frame	 248 	detect	 person 	 2 	times
-frame	 249 	detect	 person 	 1 	times
-frame	 250 	detect	 person 	 1 	times
-frame	 251 	detect	 person 	 1 	times
-frame	 252 	detect	 person 	 1 	times
-frame	 255 	detect	 person 	 1 	times
-frame	 256 	detect	 person 	 1 	times
-frame	 258 	detect	 person 	 1 	times
-frame	 259 	detect	 person 	 1 	times
-frame	 260 	detect	 person 	 1 	times
-frame	 261 	detect	 person 	 1 	times
-frame	 262 	detect	 person 	 2 	times
-frame	 263 	detect	 person 	 1 	times
-frame	 264 	detect	 person 	 2 	times
-frame	 265 	detect	 person 	 2 	times
-frame	 266 	detect	 person 	 2 	times
-frame	 267 	detect	 person 	 2 	times
-frame	 268 	detect	 person 	 2 	times
-frame	 269 	detect	 person 	 2 	times
-frame	 270 	detect	 person 	 2 	times
-frame	 271 	detect	 person 	 2 	times
-frame	 272 	detect	 person 	 2 	times
-frame	 273 	detect	 person 	 2 	times
-frame	 274 	detect	 person 	 2 	times
-frame	 275 	detect	 person 	 2 	times
-frame	 276 	detect	 person 	 2 	times
-frame	 277 	detect	 person 	 2 	times
-frame	 278 	detect	 person 	 2 	times
-frame	 279 	detect	 person 	 2 	times
-frame	 280 	detect	 person 	 2 	times
-frame	 281 	detect	 person 	 2 	times
-frame	 282 	detect	 person 	 2 	times
-frame	 283 	detect	 person 	 2 	times
-frame	 284 	detect	 person 	 2 	times
-frame	 285 	detect	 person 	 2 	times
-frame	 286 	detect	 person 	 2 	times
-frame	 287 	detect	 person 	 2 	times
-frame	 288 	detect	 person 	 2 	times
-frame	 289 	detect	 person 	 1 	times
-frame	 290 	detect	 person 	 1 	times
-frame	 293 	detect	 person 	 1 	times
-frame	 295 	detect	 person 	 1 	times
-frame	 296 	detect	 person 	 1 	times
-frame	 303 	detect	 person 	 1 	times
-frame	 304 	detect	 person 	 1 	times
-frame	 305 	detect	 person 	 2 	times
-frame	 306 	detect	 person 	 2 	times
-frame	 307 	detect	 person 	 1 	times
-frame	 308 	detect	 person 	 1 	times
-frame	 309 	detect	 person 	 1 	times
-frame	 310 	detect	 person 	 1 	times
-frame	 311 	detect	 person 	 1 	times
-frame	 312 	detect	 person 	 2 	times
-frame	 313 	detect	 person 	 2 	times
-frame	 314 	detect	 person 	 1 	times
-frame	 315 	detect	 person 	 2 	times
-frame	 316 	detect	 person 	 3 	times
-frame	 317 	detect	 person 	 3 	times
-frame	 318 	detect	 person 	 3 	times
-frame	 319 	detect	 person 	 2 	times
-frame	 320 	detect	 person 	 1 	times
-frame	 321 	detect	 person 	 2 	times
-frame	 324 	detect	 person 	 2 	times
-frame	 325 	detect	 person 	 1 	times
-frame	 326 	detect	 person 	 1 	times
-frame	 327 	detect	 person 	 1 	times
-frame	 328 	detect	 person 	 2 	times
-frame	 329 	detect	 person 	 1 	times
-frame	 330 	detect	 person 	 1 	times
-frame	 331 	detect	 person 	 2 	times
-frame	 332 	detect	 person 	 1 	times
-frame	 333 	detect	 person 	 2 	times
-frame	 334 	detect	 person 	 1 	times
-frame	 335 	detect	 person 	 2 	times
-frame	 336 	detect	 person 	 1 	times
-frame	 337 	detect	 person 	 2 	times
-frame	 338 	detect	 person 	 2 	times
-frame	 339 	detect	 person 	 2 	times
-frame	 340 	detect	 person 	 2 	times
-frame	 342 	detect	 person 	 1 	times
-frame	 343 	detect	 person 	 1 	times
-frame	 344 	detect	 person 	 3 	times
-frame	 345 	detect	 person 	 3 	times
-frame	 346 	detect	 person 	 1 	times
-frame	 347 	detect	 person 	 2 	times
-frame	 348 	detect	 person 	 2 	times
-frame	 349 	detect	 person 	 3 	times
-frame	 350 	detect	 person 	 1 	times
-frame	 355 	detect	 person 	 3 	times
-frame	 356 	detect	 person 	 3 	times
-frame	 357 	detect	 person 	 2 	times
-frame	 358 	detect	 person 	 3 	times
-frame	 359 	detect	 person 	 4 	times
-frame	 360 	detect	 person 	 1 	times
-frame	 361 	detect	 person 	 3 	times
-frame	 362 	detect	 person 	 2 	times
-frame	 363 	detect	 person 	 2 	times
-frame	 364 	detect	 person 	 2 	times
-frame	 365 	detect	 person 	 4 	times
-frame	 366 	detect	 person 	 1 	times
-frame	 367 	detect	 person 	 3 	times
-frame	 368 	detect	 person 	 2 	times
-frame	 369 	detect	 person 	 1 	times
-frame	 370 	detect	 person 	 1 	times
-frame	 371 	detect	 person 	 1 	times
-frame	 372 	detect	 person 	 1 	times
-frame	 373 	detect	 person 	 2 	times
-frame	 374 	detect	 person 	 2 	times
-frame	 375 	detect	 person 	 2 	times
-frame	 376 	detect	 person 	 1 	times
-frame	 377 	detect	 person 	 2 	times
-frame	 378 	detect	 person 	 2 	times
-frame	 379 	detect	 person 	 2 	times
-frame	 380 	detect	 person 	 2 	times
-frame	 381 	detect	 person 	 2 	times
-frame	 382 	detect	 person 	 1 	times
-frame	 383 	detect	 person 	 2 	times
-frame	 384 	detect	 person 	 1 	times
-frame	 385 	detect	 person 	 2 	times
-frame	 386 	detect	 person 	 2 	times
-frame	 387 	detect	 person 	 2 	times
-frame	 389 	detect	 person 	 1 	times
-frame	 390 	detect	 person 	 1 	times
-frame	 391 	detect	 person 	 1 	times
-frame	 392 	detect	 person 	 1 	times
-frame	 393 	detect	 person 	 1 	times
-frame	 395 	detect	 person 	 1 	times
-frame	 396 	detect	 person 	 2 	times
-frame	 397 	detect	 person 	 1 	times
-frame	 398 	detect	 person 	 1 	times
-frame	 399 	detect	 person 	 1 	times
-frame	 400 	detect	 person 	 1 	times
-frame	 401 	detect	 person 	 1 	times
-frame	 402 	detect	 person 	 1 	times
-frame	 403 	detect	 person 	 1 	times
-frame	 404 	detect	 person 	 1 	times
-frame	 405 	detect	 person 	 1 	times
-frame	 406 	detect	 person 	 2 	times
-frame	 407 	detect	 person 	 2 	times
-frame	 408 	detect	 person 	 2 	times
-frame	 409 	detect	 person 	 2 	times
-frame	 410 	detect	 person 	 1 	times
-frame	 411 	detect	 person 	 2 	times
-frame	 412 	detect	 person 	 1 	times
-frame	 413 	detect	 person 	 3 	times
-frame	 414 	detect	 person 	 2 	times
-frame	 415 	detect	 person 	 2 	times
-frame	 416 	detect	 person 	 2 	times
-frame	 417 	detect	 person 	 2 	times
-frame	 420 	detect	 person 	 1 	times
-frame	 421 	detect	 person 	 1 	times
-frame	 418 	detect	 person 	 1 	times
-frame	 422 	detect	 person 	 4 	times
-frame	 423 	detect	 person 	 3 	times
-frame	 424 	detect	 person 	 4 	times
-frame	 425 	detect	 person 	 3 	times
-frame	 426 	detect	 person 	 4 	times
-frame	 427 	detect	 person 	 3 	times
-frame	 428 	detect	 person 	 3 	times
-frame	 429 	detect	 person 	 2 	times
-frame	 430 	detect	 person 	 2 	times
-frame	 431 	detect	 person 	 2 	times
-frame	 432 	detect	 person 	 2 	times
-frame	 433 	detect	 person 	 3 	times
-frame	 434 	detect	 person 	 3 	times
-frame	 435 	detect	 person 	 1 	times
-frame	 436 	detect	 person 	 1 	times
-frame	 437 	detect	 person 	 2 	times
-frame	 438 	detect	 person 	 2 	times
-frame	 439 	detect	 person 	 2 	times
-frame	 440 	detect	 person 	 3 	times
-frame	 441 	detect	 person 	 1 	times
-frame	 442 	detect	 person 	 1 	times
-frame	 443 	detect	 person 	 2 	times
-frame	 444 	detect	 person 	 1 	times
-frame	 445 	detect	 person 	 1 	times
-frame	 446 	detect	 person 	 2 	times
-frame	 447 	detect	 person 	 3 	times
-frame	 448 	detect	 person 	 1 	times
-frame	 449 	detect	 person 	 1 	times
-frame	 450 	detect	 person 	 2 	times
-frame	 451 	detect	 person 	 3 	times
-frame	 452 	detect	 person 	 3 	times
-frame	 453 	detect	 person 	 2 	times
-frame	 454 	detect	 person 	 4 	times
-frame	 455 	detect	 person 	 5 	times
-frame	 456 	detect	 person 	 4 	times
-frame	 457 	detect	 person 	 2 	times
-frame	 458 	detect	 person 	 2 	times
-frame	 459 	detect	 person 	 3 	times
-frame	 460 	detect	 person 	 2 	times
-frame	 461 	detect	 person 	 2 	times
-frame	 462 	detect	 person 	 3 	times
-frame	 463 	detect	 person 	 3 	times
-frame	 464 	detect	 person 	 3 	times
-frame	 465 	detect	 person 	 2 	times
-frame	 466 	detect	 person 	 3 	times
-frame	 467 	detect	 person 	 2 	times
-frame	 468 	detect	 person 	 1 	times
-frame	 469 	detect	 person 	 3 	times
-frame	 470 	detect	 person 	 3 	times
-frame	 471 	detect	 person 	 3 	times
-frame	 472 	detect	 person 	 3 	times
-frame	 473 	detect	 person 	 5 	times
-frame	 474 	detect	 person 	 3 	times
-frame	 475 	detect	 person 	 2 	times
-frame	 476 	detect	 person 	 3 	times
-frame	 477 	detect	 person 	 5 	times
-frame	 478 	detect	 person 	 1 	times
-frame	 479 	detect	 person 	 2 	times
-frame	 480 	detect	 person 	 3 	times
-frame	 481 	detect	 person 	 3 	times
-frame	 482 	detect	 person 	 3 	times
-frame	 483 	detect	 person 	 3 	times
-frame	 484 	detect	 person 	 2 	times
-frame	 485 	detect	 person 	 2 	times
-frame	 486 	detect	 person 	 2 	times
-frame	 487 	detect	 person 	 1 	times
-frame	 488 	detect	 person 	 1 	times
-frame	 489 	detect	 person 	 2 	times
-frame	 491 	detect	 person 	 1 	times
-frame	 492 	detect	 person 	 1 	times
-frame	 493 	detect	 person 	 1 	times
-frame	 494 	detect	 person 	 3 	times
-frame	 495 	detect	 person 	 2 	times
-frame	 496 	detect	 person 	 2 	times
-frame	 497 	detect	 person 	 2 	times
-frame	 498 	detect	 person 	 2 	times
-frame	 499 	detect	 person 	 2 	times
-frame	 500 	detect	 person 	 1 	times
-frame	 501 	detect	 person 	 1 	times
-frame	 502 	detect	 person 	 1 	times
-frame	 503 	detect	 person 	 1 	times
-frame	 504 	detect	 person 	 2 	times
-frame	 505 	detect	 person 	 1 	times
-frame	 506 	detect	 person 	 3 	times
-frame	 507 	detect	 person 	 2 	times
-frame	 508 	detect	 person 	 2 	times
-frame	 509 	detect	 person 	 2 	times
-frame	 510 	detect	 person 	 1 	times
-frame	 511 	detect	 person 	 1 	times
-frame	 512 	detect	 person 	 1 	times
-frame	 513 	detect	 person 	 1 	times
-frame	 515 	detect	 person 	 1 	times
-frame	 521 	detect	 person 	 1 	times
-frame	 522 	detect	 person 	 2 	times
-frame	 523 	detect	 person 	 1 	times
-frame	 524 	detect	 person 	 3 	times
-frame	 525 	detect	 person 	 2 	times
-frame	 526 	detect	 person 	 2 	times
-frame	 527 	detect	 person 	 2 	times
-frame	 528 	detect	 person 	 2 	times
-frame	 529 	detect	 person 	 1 	times
-frame	 530 	detect	 person 	 3 	times
-frame	 531 	detect	 person 	 4 	times
-frame	 532 	detect	 person 	 2 	times
-frame	 533 	detect	 person 	 1 	times
-frame	 535 	detect	 person 	 2 	times
-frame	 536 	detect	 person 	 2 	times
-frame	 538 	detect	 person 	 1 	times
-frame	 539 	detect	 person 	 1 	times
-frame	 540 	detect	 person 	 1 	times
-frame	 541 	detect	 person 	 2 	times
-frame	 542 	detect	 person 	 1 	times
-frame	 543 	detect	 person 	 2 	times
-frame	 546 	detect	 person 	 1 	times
-frame	 548 	detect	 person 	 2 	times
-frame	 550 	detect	 person 	 1 	times
-frame	 551 	detect	 person 	 1 	times
-frame	 556 	detect	 person 	 1 	times
-frame	 561 	detect	 person 	 1 	times
-frame	 564 	detect	 person 	 2 	times
-frame	 567 	detect	 person 	 1 	times
-frame	 568 	detect	 person 	 3 	times
-frame	 569 	detect	 person 	 1 	times
-frame	 570 	detect	 person 	 2 	times
-frame	 571 	detect	 person 	 1 	times
-frame	 572 	detect	 person 	 2 	times
-frame	 573 	detect	 person 	 1 	times
-frame	 574 	detect	 person 	 1 	times
-frame	 576 	detect	 person 	 1 	times
-frame	 577 	detect	 person 	 1 	times
-frame	 578 	detect	 person 	 1 	times
-frame	 579 	detect	 person 	 1 	times
-frame	 580 	detect	 person 	 1 	times
-frame	 581 	detect	 person 	 1 	times
-frame	 582 	detect	 person 	 1 	times
-frame	 584 	detect	 person 	 1 	times
-frame	 586 	detect	 person 	 1 	times
-frame	 591 	detect	 person 	 1 	times
-frame	 592 	detect	 person 	 1 	times
-frame	 597 	detect	 person 	 1 	times
-frame	 602 	detect	 person 	 1 	times
-frame	 599 	detect	 person 	 1 	times
-frame	 603 	detect	 person 	 1 	times
-frame	 604 	detect	 person 	 2 	times
-frame	 605 	detect	 person 	 2 	times
-frame	 606 	detect	 person 	 1 	times
-frame	 607 	detect	 person 	 1 	times
-frame	 609 	detect	 person 	 3 	times
-frame	 610 	detect	 person 	 3 	times
-frame	 611 	detect	 person 	 2 	times
-frame	 613 	detect	 person 	 2 	times
-frame	 614 	detect	 person 	 1 	times
-frame	 616 	detect	 person 	 2 	times
-frame	 617 	detect	 person 	 1 	times
-frame	 618 	detect	 person 	 2 	times
-frame	 619 	detect	 person 	 1 	times
-frame	 620 	detect	 person 	 1 	times
-frame	 621 	detect	 person 	 1 	times
-frame	 622 	detect	 person 	 1 	times
-frame	 623 	detect	 person 	 1 	times
-frame	 624 	detect	 person 	 1 	times
-frame	 625 	detect	 person 	 1 	times
-frame	 626 	detect	 person 	 2 	times
-frame	 629 	detect	 person 	 1 	times
-frame	 634 	detect	 person 	 1 	times
-frame	 630 	detect	 person 	 1 	times
-frame	 641 	detect	 person 	 1 	times
-frame	 642 	detect	 person 	 1 	times
-frame	 842 	detect	 person 	 1 	times
-frame	 647 	detect	 person 	 1 	times
-frame	 884 	detect	 person 	 1 	times
-frame	 897 	detect	 person 	 1 	times
-frame	 903 	detect	 person 	 1 	times
-frame	 913 	detect	 person 	 1 	times
-frame	 914 	detect	 person 	 1 	times
-frame	 923 	detect	 person 	 1 	times
-frame	 924 	detect	 person 	 1 	times
-frame	 947 	detect	 person 	 1 	times
-frame	 933 	detect	 person 	 1 	times
-frame	 1030 	detect	 person 	 1 	times
-frame	 1031 	detect	 person 	 1 	times
-frame	 1032 	detect	 person 	 1 	times
-frame	 1033 	detect	 person 	 2 	times
-frame	 1034 	detect	 person 	 1 	times
-frame	 1035 	detect	 person 	 2 	times
-frame	 1036 	detect	 person 	 1 	times
-frame	 1037 	detect	 person 	 1 	times
-frame	 1038 	detect	 person 	 2 	times
-frame	 1039 	detect	 person 	 1 	times
-frame	 1040 	detect	 person 	 1 	times
-frame	 1042 	detect	 person 	 1 	times
-frame	 1043 	detect	 person 	 2 	times
-frame	 1044 	detect	 person 	 2 	times
-frame	 1045 	detect	 person 	 1 	times
-frame	 1046 	detect	 person 	 2 	times
-frame	 1047 	detect	 person 	 2 	times
-frame	 1048 	detect	 person 	 2 	times
-frame	 1049 	detect	 person 	 2 	times
-frame	 1050 	detect	 person 	 2 	times
-frame	 1051 	detect	 person 	 2 	times
-frame	 1052 	detect	 person 	 2 	times
-frame	 1053 	detect	 person 	 2 	times
-frame	 1054 	detect	 person 	 2 	times
-frame	 1055 	detect	 person 	 2 	times
-frame	 1056 	detect	 person 	 2 	times
-frame	 1057 	detect	 person 	 2 	times
-frame	 1058 	detect	 person 	 2 	times
-frame	 1059 	detect	 person 	 2 	times
-frame	 1060 	detect	 person 	 2 	times
-frame	 1061 	detect	 person 	 2 	times
-frame	 1062 	detect	 person 	 2 	times
-frame	 1063 	detect	 person 	 1 	times
-frame	 1064 	detect	 person 	 2 	times
-frame	 1065 	detect	 person 	 1 	times
-frame	 1066 	detect	 person 	 2 	times
-frame	 1067 	detect	 person 	 2 	times
-frame	 1068 	detect	 person 	 2 	times
-frame	 1069 	detect	 person 	 2 	times
-frame	 1070 	detect	 person 	 2 	times
-frame	 1071 	detect	 person 	 2 	times
-frame	 1072 	detect	 person 	 2 	times
-frame	 1073 	detect	 person 	 2 	times
-frame	 1074 	detect	 person 	 2 	times
-frame	 1075 	detect	 person 	 2 	times
-frame	 1076 	detect	 person 	 2 	times
-frame	 1077 	detect	 person 	 2 	times
-frame	 1078 	detect	 person 	 2 	times
-frame	 1079 	detect	 person 	 2 	times
-frame	 1080 	detect	 person 	 2 	times
-frame	 1081 	detect	 person 	 2 	times
-frame	 1082 	detect	 person 	 2 	times
-frame	 1083 	detect	 person 	 2 	times
-frame	 1084 	detect	 person 	 2 	times
-frame	 1085 	detect	 person 	 2 	times
-frame	 1086 	detect	 person 	 2 	times
-frame	 1087 	detect	 person 	 2 	times
-frame	 1088 	detect	 person 	 2 	times
-frame	 1089 	detect	 person 	 2 	times
-frame	 1090 	detect	 person 	 2 	times
-frame	 1091 	detect	 person 	 2 	times
-frame	 1092 	detect	 person 	 2 	times
-frame	 1093 	detect	 person 	 2 	times
-frame	 1094 	detect	 person 	 2 	times
-frame	 1095 	detect	 person 	 2 	times
-frame	 1096 	detect	 person 	 1 	times
-frame	 1097 	detect	 person 	 1 	times
-frame	 1098 	detect	 person 	 1 	times
-frame	 1099 	detect	 person 	 1 	times
-frame	 1100 	detect	 person 	 1 	times
-frame	 1102 	detect	 person 	 1 	times
-frame	 1106 	detect	 person 	 1 	times
-frame	 1104 	detect	 person 	 1 	times
-frame	 1467 	detect	 person 	 1 	times
-frame	 1502 	detect	 person 	 1 	times
-frame	 1545 	detect	 person 	 1 	times
-frame	 1549 	detect	 person 	 1 	times
-frame	 1557 	detect	 person 	 1 	times
-frame	 1562 	detect	 person 	 1 	times
-frame	 1582 	detect	 person 	 1 	times
-frame	 1620 	detect	 person 	 1 	times
-frame	 1623 	detect	 person 	 1 	times
-frame	 1610 	detect	 person 	 1 	times
-frame	 1634 	detect	 person 	 1 	times
-frame	 311 	detect	 bicycle 	 1 	times
-frame	 312 	detect	 bicycle 	 1 	times
-frame	 316 	detect	 bicycle 	 1 	times
-frame	 317 	detect	 bicycle 	 1 	times
-frame	 324 	detect	 bicycle 	 1 	times
-frame	 332 	detect	 bicycle 	 1 	times
-frame	 333 	detect	 bicycle 	 1 	times
-frame	 334 	detect	 bicycle 	 1 	times
-frame	 335 	detect	 bicycle 	 1 	times
-frame	 336 	detect	 bicycle 	 1 	times
-frame	 337 	detect	 bicycle 	 1 	times
-frame	 340 	detect	 bicycle 	 1 	times
-frame	 342 	detect	 bicycle 	 1 	times
-frame	 355 	detect	 bicycle 	 1 	times
-frame	 356 	detect	 bicycle 	 1 	times
-frame	 358 	detect	 bicycle 	 1 	times
-frame	 359 	detect	 bicycle 	 2 	times
-frame	 360 	detect	 bicycle 	 2 	times
-frame	 361 	detect	 bicycle 	 1 	times
-frame	 362 	detect	 bicycle 	 1 	times
-frame	 363 	detect	 bicycle 	 1 	times
-frame	 371 	detect	 bicycle 	 1 	times
-frame	 374 	detect	 bicycle 	 1 	times
-frame	 375 	detect	 bicycle 	 1 	times
-frame	 382 	detect	 bicycle 	 1 	times
-frame	 401 	detect	 bicycle 	 1 	times
-frame	 402 	detect	 bicycle 	 1 	times
-frame	 409 	detect	 bicycle 	 1 	times
-frame	 421 	detect	 bicycle 	 1 	times
-frame	 422 	detect	 bicycle 	 1 	times
-frame	 423 	detect	 bicycle 	 1 	times
-frame	 424 	detect	 bicycle 	 1 	times
-frame	 444 	detect	 bicycle 	 1 	times
-frame	 445 	detect	 bicycle 	 1 	times
-frame	 447 	detect	 bicycle 	 1 	times
-frame	 462 	detect	 bicycle 	 1 	times
-frame	 1 	detect	 car 	 5 	times
-frame	 2 	detect	 car 	 4 	times
-frame	 3 	detect	 car 	 4 	times
-frame	 4 	detect	 car 	 4 	times
-frame	 5 	detect	 car 	 4 	times
-frame	 6 	detect	 car 	 4 	times
-frame	 7 	detect	 car 	 4 	times
-frame	 8 	detect	 car 	 4 	times
-frame	 9 	detect	 car 	 3 	times
-frame	 10 	detect	 car 	 3 	times
-frame	 11 	detect	 car 	 4 	times
-frame	 12 	detect	 car 	 4 	times
-frame	 13 	detect	 car 	 4 	times
-frame	 14 	detect	 car 	 4 	times
-frame	 15 	detect	 car 	 4 	times
-frame	 16 	detect	 car 	 4 	times
-frame	 17 	detect	 car 	 4 	times
-frame	 18 	detect	 car 	 4 	times
-frame	 19 	detect	 car 	 4 	times
-frame	 20 	detect	 car 	 4 	times
-frame	 21 	detect	 car 	 3 	times
-frame	 22 	detect	 car 	 4 	times
-frame	 23 	detect	 car 	 5 	times
-frame	 24 	detect	 car 	 4 	times
-frame	 25 	detect	 car 	 6 	times
-frame	 26 	detect	 car 	 4 	times
-frame	 27 	detect	 car 	 3 	times
-frame	 28 	detect	 car 	 6 	times
-frame	 29 	detect	 car 	 5 	times
-frame	 30 	detect	 car 	 5 	times
-frame	 31 	detect	 car 	 4 	times
-frame	 32 	detect	 car 	 4 	times
-frame	 33 	detect	 car 	 3 	times
-frame	 34 	detect	 car 	 3 	times
-frame	 35 	detect	 car 	 3 	times
-frame	 36 	detect	 car 	 4 	times
-frame	 37 	detect	 car 	 5 	times
-frame	 38 	detect	 car 	 3 	times
-frame	 39 	detect	 car 	 3 	times
-frame	 40 	detect	 car 	 3 	times
-frame	 41 	detect	 car 	 3 	times
-frame	 42 	detect	 car 	 3 	times
-frame	 43 	detect	 car 	 4 	times
-frame	 44 	detect	 car 	 4 	times
-frame	 45 	detect	 car 	 4 	times
-frame	 46 	detect	 car 	 3 	times
-frame	 47 	detect	 car 	 3 	times
-frame	 48 	detect	 car 	 5 	times
-frame	 49 	detect	 car 	 4 	times
-frame	 50 	detect	 car 	 3 	times
-frame	 51 	detect	 car 	 4 	times
-frame	 52 	detect	 car 	 4 	times
-frame	 53 	detect	 car 	 4 	times
-frame	 54 	detect	 car 	 4 	times
-frame	 55 	detect	 car 	 5 	times
-frame	 56 	detect	 car 	 3 	times
-frame	 57 	detect	 car 	 4 	times
-frame	 58 	detect	 car 	 4 	times
-frame	 59 	detect	 car 	 3 	times
-frame	 60 	detect	 car 	 3 	times
-frame	 61 	detect	 car 	 3 	times
-frame	 62 	detect	 car 	 3 	times
-frame	 63 	detect	 car 	 2 	times
-frame	 64 	detect	 car 	 2 	times
-frame	 65 	detect	 car 	 2 	times
-frame	 66 	detect	 car 	 4 	times
-frame	 67 	detect	 car 	 3 	times
-frame	 68 	detect	 car 	 3 	times
-frame	 69 	detect	 car 	 2 	times
-frame	 70 	detect	 car 	 2 	times
-frame	 71 	detect	 car 	 3 	times
-frame	 72 	detect	 car 	 4 	times
-frame	 73 	detect	 car 	 3 	times
-frame	 74 	detect	 car 	 3 	times
-frame	 75 	detect	 car 	 4 	times
-frame	 76 	detect	 car 	 3 	times
-frame	 77 	detect	 car 	 3 	times
-frame	 78 	detect	 car 	 3 	times
-frame	 79 	detect	 car 	 4 	times
-frame	 80 	detect	 car 	 3 	times
-frame	 81 	detect	 car 	 4 	times
-frame	 82 	detect	 car 	 5 	times
-frame	 83 	detect	 car 	 5 	times
-frame	 84 	detect	 car 	 4 	times
-frame	 85 	detect	 car 	 3 	times
-frame	 86 	detect	 car 	 3 	times
-frame	 87 	detect	 car 	 3 	times
-frame	 88 	detect	 car 	 3 	times
-frame	 89 	detect	 car 	 4 	times
-frame	 90 	detect	 car 	 5 	times
-frame	 91 	detect	 car 	 5 	times
-frame	 92 	detect	 car 	 5 	times
-frame	 93 	detect	 car 	 4 	times
-frame	 94 	detect	 car 	 4 	times
-frame	 95 	detect	 car 	 3 	times
-frame	 96 	detect	 car 	 3 	times
-frame	 97 	detect	 car 	 4 	times
-frame	 98 	detect	 car 	 3 	times
-frame	 99 	detect	 car 	 6 	times
-frame	 100 	detect	 car 	 4 	times
-frame	 101 	detect	 car 	 4 	times
-frame	 102 	detect	 car 	 4 	times
-frame	 103 	detect	 car 	 5 	times
-frame	 104 	detect	 car 	 4 	times
-frame	 105 	detect	 car 	 4 	times
-frame	 106 	detect	 car 	 3 	times
-frame	 107 	detect	 car 	 3 	times
-frame	 108 	detect	 car 	 4 	times
-frame	 109 	detect	 car 	 4 	times
-frame	 110 	detect	 car 	 5 	times
-frame	 111 	detect	 car 	 5 	times
-frame	 112 	detect	 car 	 4 	times
-frame	 113 	detect	 car 	 5 	times
-frame	 114 	detect	 car 	 4 	times
-frame	 115 	detect	 car 	 4 	times
-frame	 116 	detect	 car 	 5 	times
-frame	 117 	detect	 car 	 4 	times
-frame	 118 	detect	 car 	 3 	times
-frame	 119 	detect	 car 	 4 	times
-frame	 120 	detect	 car 	 2 	times
-frame	 121 	detect	 car 	 2 	times
-frame	 122 	detect	 car 	 3 	times
-frame	 123 	detect	 car 	 2 	times
-frame	 124 	detect	 car 	 2 	times
-frame	 125 	detect	 car 	 3 	times
-frame	 126 	detect	 car 	 3 	times
-frame	 127 	detect	 car 	 2 	times
-frame	 128 	detect	 car 	 2 	times
-frame	 129 	detect	 car 	 2 	times
-frame	 130 	detect	 car 	 2 	times
-frame	 131 	detect	 car 	 2 	times
-frame	 132 	detect	 car 	 3 	times
-frame	 133 	detect	 car 	 2 	times
-frame	 134 	detect	 car 	 2 	times
-frame	 135 	detect	 car 	 3 	times
-frame	 136 	detect	 car 	 2 	times
-frame	 137 	detect	 car 	 2 	times
-frame	 138 	detect	 car 	 3 	times
-frame	 139 	detect	 car 	 3 	times
-frame	 140 	detect	 car 	 2 	times
-frame	 141 	detect	 car 	 2 	times
-frame	 142 	detect	 car 	 3 	times
-frame	 143 	detect	 car 	 3 	times
-frame	 144 	detect	 car 	 3 	times
-frame	 145 	detect	 car 	 2 	times
-frame	 146 	detect	 car 	 2 	times
-frame	 147 	detect	 car 	 2 	times
-frame	 148 	detect	 car 	 3 	times
-frame	 149 	detect	 car 	 3 	times
-frame	 150 	detect	 car 	 4 	times
-frame	 151 	detect	 car 	 3 	times
-frame	 152 	detect	 car 	 3 	times
-frame	 153 	detect	 car 	 3 	times
-frame	 154 	detect	 car 	 3 	times
-frame	 155 	detect	 car 	 2 	times
-frame	 156 	detect	 car 	 3 	times
-frame	 157 	detect	 car 	 2 	times
-frame	 158 	detect	 car 	 3 	times
-frame	 159 	detect	 car 	 2 	times
-frame	 160 	detect	 car 	 4 	times
-frame	 161 	detect	 car 	 3 	times
-frame	 162 	detect	 car 	 4 	times
-frame	 163 	detect	 car 	 4 	times
-frame	 164 	detect	 car 	 3 	times
-frame	 165 	detect	 car 	 3 	times
-frame	 166 	detect	 car 	 2 	times
-frame	 167 	detect	 car 	 3 	times
-frame	 168 	detect	 car 	 3 	times
-frame	 169 	detect	 car 	 4 	times
-frame	 170 	detect	 car 	 4 	times
-frame	 171 	detect	 car 	 3 	times
-frame	 172 	detect	 car 	 2 	times
-frame	 173 	detect	 car 	 3 	times
-frame	 174 	detect	 car 	 2 	times
-frame	 175 	detect	 car 	 2 	times
-frame	 176 	detect	 car 	 5 	times
-frame	 177 	detect	 car 	 4 	times
-frame	 178 	detect	 car 	 4 	times
-frame	 179 	detect	 car 	 5 	times
-frame	 180 	detect	 car 	 5 	times
-frame	 181 	detect	 car 	 5 	times
-frame	 182 	detect	 car 	 3 	times
-frame	 183 	detect	 car 	 3 	times
-frame	 184 	detect	 car 	 3 	times
-frame	 185 	detect	 car 	 3 	times
-frame	 186 	detect	 car 	 3 	times
-frame	 187 	detect	 car 	 2 	times
-frame	 188 	detect	 car 	 3 	times
-frame	 189 	detect	 car 	 4 	times
-frame	 190 	detect	 car 	 3 	times
-frame	 191 	detect	 car 	 3 	times
-frame	 192 	detect	 car 	 5 	times
-frame	 193 	detect	 car 	 4 	times
-frame	 194 	detect	 car 	 2 	times
-frame	 195 	detect	 car 	 3 	times
-frame	 196 	detect	 car 	 2 	times
-frame	 197 	detect	 car 	 3 	times
-frame	 198 	detect	 car 	 3 	times
-frame	 199 	detect	 car 	 3 	times
-frame	 200 	detect	 car 	 4 	times
-frame	 201 	detect	 car 	 2 	times
-frame	 202 	detect	 car 	 3 	times
-frame	 203 	detect	 car 	 2 	times
-frame	 204 	detect	 car 	 2 	times
-frame	 205 	detect	 car 	 2 	times
-frame	 206 	detect	 car 	 2 	times
-frame	 207 	detect	 car 	 2 	times
-frame	 208 	detect	 car 	 3 	times
-frame	 209 	detect	 car 	 3 	times
-frame	 210 	detect	 car 	 2 	times
-frame	 211 	detect	 car 	 2 	times
-frame	 212 	detect	 car 	 2 	times
-frame	 213 	detect	 car 	 2 	times
-frame	 214 	detect	 car 	 2 	times
-frame	 215 	detect	 car 	 3 	times
-frame	 216 	detect	 car 	 3 	times
-frame	 217 	detect	 car 	 3 	times
-frame	 218 	detect	 car 	 2 	times
-frame	 219 	detect	 car 	 3 	times
-frame	 220 	detect	 car 	 3 	times
-frame	 221 	detect	 car 	 1 	times
-frame	 222 	detect	 car 	 3 	times
-frame	 223 	detect	 car 	 2 	times
-frame	 224 	detect	 car 	 1 	times
-frame	 225 	detect	 car 	 1 	times
-frame	 226 	detect	 car 	 1 	times
-frame	 227 	detect	 car 	 2 	times
-frame	 228 	detect	 car 	 2 	times
-frame	 229 	detect	 car 	 2 	times
-frame	 230 	detect	 car 	 2 	times
-frame	 231 	detect	 car 	 2 	times
-frame	 232 	detect	 car 	 1 	times
-frame	 233 	detect	 car 	 1 	times
-frame	 234 	detect	 car 	 2 	times
-frame	 235 	detect	 car 	 2 	times
-frame	 236 	detect	 car 	 2 	times
-frame	 237 	detect	 car 	 2 	times
-frame	 238 	detect	 car 	 3 	times
-frame	 239 	detect	 car 	 2 	times
-frame	 240 	detect	 car 	 2 	times
-frame	 241 	detect	 car 	 2 	times
-frame	 242 	detect	 car 	 3 	times
-frame	 243 	detect	 car 	 2 	times
-frame	 244 	detect	 car 	 2 	times
-frame	 245 	detect	 car 	 4 	times
-frame	 246 	detect	 car 	 3 	times
-frame	 247 	detect	 car 	 3 	times
-frame	 248 	detect	 car 	 2 	times
-frame	 249 	detect	 car 	 3 	times
-frame	 250 	detect	 car 	 2 	times
-frame	 251 	detect	 car 	 4 	times
-frame	 252 	detect	 car 	 2 	times
-frame	 253 	detect	 car 	 2 	times
-frame	 254 	detect	 car 	 2 	times
-frame	 255 	detect	 car 	 2 	times
-frame	 256 	detect	 car 	 2 	times
-frame	 257 	detect	 car 	 3 	times
-frame	 258 	detect	 car 	 4 	times
-frame	 259 	detect	 car 	 3 	times
-frame	 260 	detect	 car 	 3 	times
-frame	 261 	detect	 car 	 3 	times
-frame	 262 	detect	 car 	 2 	times
-frame	 263 	detect	 car 	 2 	times
-frame	 264 	detect	 car 	 2 	times
-frame	 265 	detect	 car 	 2 	times
-frame	 266 	detect	 car 	 2 	times
-frame	 267 	detect	 car 	 3 	times
-frame	 268 	detect	 car 	 2 	times
-frame	 269 	detect	 car 	 3 	times
-frame	 270 	detect	 car 	 2 	times
-frame	 271 	detect	 car 	 2 	times
-frame	 272 	detect	 car 	 3 	times
-frame	 273 	detect	 car 	 2 	times
-frame	 274 	detect	 car 	 2 	times
-frame	 275 	detect	 car 	 3 	times
-frame	 276 	detect	 car 	 2 	times
-frame	 277 	detect	 car 	 2 	times
-frame	 278 	detect	 car 	 3 	times
-frame	 279 	detect	 car 	 2 	times
-frame	 280 	detect	 car 	 1 	times
-frame	 281 	detect	 car 	 2 	times
-frame	 282 	detect	 car 	 1 	times
-frame	 283 	detect	 car 	 1 	times
-frame	 284 	detect	 car 	 1 	times
-frame	 285 	detect	 car 	 1 	times
-frame	 286 	detect	 car 	 1 	times
-frame	 287 	detect	 car 	 1 	times
-frame	 288 	detect	 car 	 1 	times
-frame	 289 	detect	 car 	 1 	times
-frame	 290 	detect	 car 	 1 	times
-frame	 291 	detect	 car 	 1 	times
-frame	 292 	detect	 car 	 1 	times
-frame	 293 	detect	 car 	 1 	times
-frame	 294 	detect	 car 	 1 	times
-frame	 295 	detect	 car 	 1 	times
-frame	 296 	detect	 car 	 1 	times
-frame	 297 	detect	 car 	 1 	times
-frame	 298 	detect	 car 	 1 	times
-frame	 299 	detect	 car 	 1 	times
-frame	 300 	detect	 car 	 1 	times
-frame	 301 	detect	 car 	 1 	times
-frame	 302 	detect	 car 	 1 	times
-frame	 303 	detect	 car 	 1 	times
-frame	 304 	detect	 car 	 1 	times
-frame	 305 	detect	 car 	 1 	times
-frame	 306 	detect	 car 	 1 	times
-frame	 307 	detect	 car 	 1 	times
-frame	 308 	detect	 car 	 1 	times
-frame	 309 	detect	 car 	 1 	times
-frame	 310 	detect	 car 	 1 	times
-frame	 311 	detect	 car 	 1 	times
-frame	 312 	detect	 car 	 1 	times
-frame	 313 	detect	 car 	 1 	times
-frame	 314 	detect	 car 	 1 	times
-frame	 315 	detect	 car 	 1 	times
-frame	 316 	detect	 car 	 1 	times
-frame	 317 	detect	 car 	 1 	times
-frame	 318 	detect	 car 	 1 	times
-frame	 319 	detect	 car 	 1 	times
-frame	 320 	detect	 car 	 1 	times
-frame	 321 	detect	 car 	 1 	times
-frame	 322 	detect	 car 	 1 	times
-frame	 323 	detect	 car 	 1 	times
-frame	 324 	detect	 car 	 1 	times
-frame	 325 	detect	 car 	 1 	times
-frame	 326 	detect	 car 	 1 	times
-frame	 327 	detect	 car 	 1 	times
-frame	 328 	detect	 car 	 1 	times
-frame	 329 	detect	 car 	 1 	times
-frame	 330 	detect	 car 	 1 	times
-frame	 331 	detect	 car 	 1 	times
-frame	 332 	detect	 car 	 1 	times
-frame	 333 	detect	 car 	 1 	times
-frame	 334 	detect	 car 	 1 	times
-frame	 335 	detect	 car 	 1 	times
-frame	 336 	detect	 car 	 1 	times
-frame	 337 	detect	 car 	 1 	times
-frame	 338 	detect	 car 	 1 	times
-frame	 339 	detect	 car 	 1 	times
-frame	 340 	detect	 car 	 1 	times
-frame	 341 	detect	 car 	 1 	times
-frame	 342 	detect	 car 	 1 	times
-frame	 343 	detect	 car 	 1 	times
-frame	 344 	detect	 car 	 1 	times
-frame	 345 	detect	 car 	 1 	times
-frame	 346 	detect	 car 	 1 	times
-frame	 347 	detect	 car 	 1 	times
-frame	 348 	detect	 car 	 1 	times
-frame	 350 	detect	 car 	 1 	times
-frame	 351 	detect	 car 	 1 	times
-frame	 352 	detect	 car 	 1 	times
-frame	 353 	detect	 car 	 2 	times
-frame	 354 	detect	 car 	 1 	times
-frame	 371 	detect	 car 	 1 	times
-frame	 372 	detect	 car 	 1 	times
-frame	 373 	detect	 car 	 1 	times
-frame	 374 	detect	 car 	 1 	times
-frame	 375 	detect	 car 	 1 	times
-frame	 376 	detect	 car 	 1 	times
-frame	 377 	detect	 car 	 1 	times
-frame	 378 	detect	 car 	 1 	times
-frame	 379 	detect	 car 	 1 	times
-frame	 380 	detect	 car 	 2 	times
-frame	 381 	detect	 car 	 1 	times
-frame	 382 	detect	 car 	 1 	times
-frame	 383 	detect	 car 	 1 	times
-frame	 384 	detect	 car 	 1 	times
-frame	 385 	detect	 car 	 1 	times
-frame	 386 	detect	 car 	 1 	times
-frame	 387 	detect	 car 	 1 	times
-frame	 388 	detect	 car 	 1 	times
-frame	 389 	detect	 car 	 1 	times
-frame	 390 	detect	 car 	 1 	times
-frame	 391 	detect	 car 	 1 	times
-frame	 392 	detect	 car 	 1 	times
-frame	 393 	detect	 car 	 1 	times
-frame	 394 	detect	 car 	 1 	times
-frame	 395 	detect	 car 	 1 	times
-frame	 396 	detect	 car 	 1 	times
-frame	 397 	detect	 car 	 1 	times
-frame	 398 	detect	 car 	 1 	times
-frame	 399 	detect	 car 	 1 	times
-frame	 400 	detect	 car 	 1 	times
-frame	 401 	detect	 car 	 1 	times
-frame	 402 	detect	 car 	 1 	times
-frame	 403 	detect	 car 	 1 	times
-frame	 404 	detect	 car 	 1 	times
-frame	 405 	detect	 car 	 1 	times
-frame	 406 	detect	 car 	 1 	times
-frame	 407 	detect	 car 	 1 	times
-frame	 408 	detect	 car 	 1 	times
-frame	 409 	detect	 car 	 1 	times
-frame	 410 	detect	 car 	 1 	times
-frame	 411 	detect	 car 	 1 	times
-frame	 412 	detect	 car 	 1 	times
-frame	 413 	detect	 car 	 1 	times
-frame	 414 	detect	 car 	 1 	times
-frame	 415 	detect	 car 	 1 	times
-frame	 416 	detect	 car 	 1 	times
-frame	 417 	detect	 car 	 1 	times
-frame	 418 	detect	 car 	 1 	times
-frame	 419 	detect	 car 	 1 	times
-frame	 420 	detect	 car 	 2 	times
-frame	 421 	detect	 car 	 1 	times
-frame	 422 	detect	 car 	 1 	times
-frame	 425 	detect	 car 	 1 	times
-frame	 427 	detect	 car 	 1 	times
-frame	 426 	detect	 car 	 1 	times
-frame	 428 	detect	 car 	 1 	times
-frame	 429 	detect	 car 	 1 	times
-frame	 430 	detect	 car 	 1 	times
-frame	 431 	detect	 car 	 2 	times
-frame	 432 	detect	 car 	 1 	times
-frame	 433 	detect	 car 	 1 	times
-frame	 434 	detect	 car 	 1 	times
-frame	 435 	detect	 car 	 2 	times
-frame	 436 	detect	 car 	 1 	times
-frame	 439 	detect	 car 	 1 	times
-frame	 441 	detect	 car 	 1 	times
-frame	 443 	detect	 car 	 1 	times
-frame	 446 	detect	 car 	 1 	times
-frame	 447 	detect	 car 	 1 	times
-frame	 444 	detect	 car 	 1 	times
-frame	 449 	detect	 car 	 1 	times
-frame	 450 	detect	 car 	 1 	times
-frame	 452 	detect	 car 	 1 	times
-frame	 453 	detect	 car 	 1 	times
-frame	 454 	detect	 car 	 1 	times
-frame	 455 	detect	 car 	 1 	times
-frame	 457 	detect	 car 	 1 	times
-frame	 459 	detect	 car 	 1 	times
-frame	 460 	detect	 car 	 1 	times
-frame	 461 	detect	 car 	 1 	times
-frame	 462 	detect	 car 	 1 	times
-frame	 463 	detect	 car 	 1 	times
-frame	 464 	detect	 car 	 1 	times
-frame	 465 	detect	 car 	 1 	times
-frame	 466 	detect	 car 	 1 	times
-frame	 467 	detect	 car 	 1 	times
-frame	 468 	detect	 car 	 1 	times
-frame	 469 	detect	 car 	 1 	times
-frame	 470 	detect	 car 	 2 	times
-frame	 471 	detect	 car 	 1 	times
-frame	 472 	detect	 car 	 1 	times
-frame	 473 	detect	 car 	 1 	times
-frame	 474 	detect	 car 	 2 	times
-frame	 475 	detect	 car 	 2 	times
-frame	 476 	detect	 car 	 1 	times
-frame	 477 	detect	 car 	 2 	times
-frame	 478 	detect	 car 	 1 	times
-frame	 479 	detect	 car 	 2 	times
-frame	 480 	detect	 car 	 1 	times
-frame	 481 	detect	 car 	 1 	times
-frame	 482 	detect	 car 	 1 	times
-frame	 483 	detect	 car 	 1 	times
-frame	 484 	detect	 car 	 1 	times
-frame	 485 	detect	 car 	 1 	times
-frame	 486 	detect	 car 	 1 	times
-frame	 487 	detect	 car 	 2 	times
-frame	 488 	detect	 car 	 1 	times
-frame	 489 	detect	 car 	 1 	times
-frame	 490 	detect	 car 	 1 	times
-frame	 491 	detect	 car 	 1 	times
-frame	 492 	detect	 car 	 1 	times
-frame	 493 	detect	 car 	 1 	times
-frame	 494 	detect	 car 	 1 	times
-frame	 495 	detect	 car 	 1 	times
-frame	 496 	detect	 car 	 2 	times
-frame	 497 	detect	 car 	 2 	times
-frame	 498 	detect	 car 	 1 	times
-frame	 499 	detect	 car 	 1 	times
-frame	 500 	detect	 car 	 1 	times
-frame	 501 	detect	 car 	 1 	times
-frame	 502 	detect	 car 	 1 	times
-frame	 503 	detect	 car 	 1 	times
-frame	 504 	detect	 car 	 2 	times
-frame	 505 	detect	 car 	 1 	times
-frame	 506 	detect	 car 	 1 	times
-frame	 507 	detect	 car 	 2 	times
-frame	 508 	detect	 car 	 1 	times
-frame	 509 	detect	 car 	 1 	times
-frame	 510 	detect	 car 	 2 	times
-frame	 511 	detect	 car 	 1 	times
-frame	 512 	detect	 car 	 1 	times
-frame	 513 	detect	 car 	 2 	times
-frame	 514 	detect	 car 	 1 	times
-frame	 515 	detect	 car 	 2 	times
-frame	 516 	detect	 car 	 2 	times
-frame	 517 	detect	 car 	 1 	times
-frame	 518 	detect	 car 	 1 	times
-frame	 519 	detect	 car 	 1 	times
-frame	 520 	detect	 car 	 1 	times
-frame	 521 	detect	 car 	 1 	times
-frame	 522 	detect	 car 	 1 	times
-frame	 523 	detect	 car 	 1 	times
-frame	 524 	detect	 car 	 1 	times
-frame	 525 	detect	 car 	 1 	times
-frame	 526 	detect	 car 	 1 	times
-frame	 527 	detect	 car 	 2 	times
-frame	 528 	detect	 car 	 1 	times
-frame	 529 	detect	 car 	 2 	times
-frame	 530 	detect	 car 	 1 	times
-frame	 531 	detect	 car 	 2 	times
-frame	 532 	detect	 car 	 1 	times
-frame	 533 	detect	 car 	 2 	times
-frame	 534 	detect	 car 	 1 	times
-frame	 535 	detect	 car 	 2 	times
-frame	 536 	detect	 car 	 2 	times
-frame	 537 	detect	 car 	 1 	times
-frame	 538 	detect	 car 	 2 	times
-frame	 539 	detect	 car 	 1 	times
-frame	 540 	detect	 car 	 3 	times
-frame	 541 	detect	 car 	 1 	times
-frame	 542 	detect	 car 	 2 	times
-frame	 543 	detect	 car 	 1 	times
-frame	 544 	detect	 car 	 2 	times
-frame	 545 	detect	 car 	 1 	times
-frame	 546 	detect	 car 	 1 	times
-frame	 547 	detect	 car 	 1 	times
-frame	 548 	detect	 car 	 1 	times
-frame	 549 	detect	 car 	 1 	times
-frame	 550 	detect	 car 	 1 	times
-frame	 551 	detect	 car 	 1 	times
-frame	 552 	detect	 car 	 3 	times
-frame	 553 	detect	 car 	 1 	times
-frame	 554 	detect	 car 	 1 	times
-frame	 555 	detect	 car 	 1 	times
-frame	 556 	detect	 car 	 1 	times
-frame	 557 	detect	 car 	 2 	times
-frame	 558 	detect	 car 	 1 	times
-frame	 559 	detect	 car 	 1 	times
-frame	 560 	detect	 car 	 1 	times
-frame	 561 	detect	 car 	 2 	times
-frame	 562 	detect	 car 	 2 	times
-frame	 563 	detect	 car 	 1 	times
-frame	 564 	detect	 car 	 2 	times
-frame	 565 	detect	 car 	 2 	times
-frame	 566 	detect	 car 	 1 	times
-frame	 567 	detect	 car 	 1 	times
-frame	 568 	detect	 car 	 2 	times
-frame	 569 	detect	 car 	 1 	times
-frame	 570 	detect	 car 	 1 	times
-frame	 571 	detect	 car 	 1 	times
-frame	 572 	detect	 car 	 2 	times
-frame	 573 	detect	 car 	 1 	times
-frame	 574 	detect	 car 	 1 	times
-frame	 575 	detect	 car 	 2 	times
-frame	 576 	detect	 car 	 2 	times
-frame	 577 	detect	 car 	 1 	times
-frame	 578 	detect	 car 	 1 	times
-frame	 579 	detect	 car 	 2 	times
-frame	 580 	detect	 car 	 2 	times
-frame	 581 	detect	 car 	 1 	times
-frame	 582 	detect	 car 	 2 	times
-frame	 583 	detect	 car 	 1 	times
-frame	 584 	detect	 car 	 1 	times
-frame	 585 	detect	 car 	 1 	times
-frame	 586 	detect	 car 	 1 	times
-frame	 587 	detect	 car 	 2 	times
-frame	 588 	detect	 car 	 2 	times
-frame	 589 	detect	 car 	 1 	times
-frame	 590 	detect	 car 	 2 	times
-frame	 591 	detect	 car 	 2 	times
-frame	 592 	detect	 car 	 1 	times
-frame	 593 	detect	 car 	 1 	times
-frame	 594 	detect	 car 	 1 	times
-frame	 595 	detect	 car 	 3 	times
-frame	 596 	detect	 car 	 2 	times
-frame	 597 	detect	 car 	 1 	times
-frame	 598 	detect	 car 	 1 	times
-frame	 599 	detect	 car 	 1 	times
-frame	 600 	detect	 car 	 1 	times
-frame	 601 	detect	 car 	 1 	times
-frame	 602 	detect	 car 	 1 	times
-frame	 603 	detect	 car 	 1 	times
-frame	 604 	detect	 car 	 1 	times
-frame	 605 	detect	 car 	 1 	times
-frame	 606 	detect	 car 	 1 	times
-frame	 607 	detect	 car 	 1 	times
-frame	 608 	detect	 car 	 2 	times
-frame	 609 	detect	 car 	 2 	times
-frame	 610 	detect	 car 	 1 	times
-frame	 611 	detect	 car 	 2 	times
-frame	 612 	detect	 car 	 1 	times
-frame	 613 	detect	 car 	 1 	times
-frame	 614 	detect	 car 	 1 	times
-frame	 615 	detect	 car 	 1 	times
-frame	 616 	detect	 car 	 1 	times
-frame	 617 	detect	 car 	 2 	times
-frame	 618 	detect	 car 	 2 	times
-frame	 619 	detect	 car 	 2 	times
-frame	 620 	detect	 car 	 2 	times
-frame	 621 	detect	 car 	 1 	times
-frame	 622 	detect	 car 	 2 	times
-frame	 623 	detect	 car 	 2 	times
-frame	 624 	detect	 car 	 2 	times
-frame	 625 	detect	 car 	 1 	times
-frame	 626 	detect	 car 	 2 	times
-frame	 627 	detect	 car 	 2 	times
-frame	 628 	detect	 car 	 2 	times
-frame	 629 	detect	 car 	 3 	times
-frame	 630 	detect	 car 	 3 	times
-frame	 631 	detect	 car 	 2 	times
-frame	 632 	detect	 car 	 3 	times
-frame	 633 	detect	 car 	 2 	times
-frame	 634 	detect	 car 	 2 	times
-frame	 635 	detect	 car 	 3 	times
-frame	 636 	detect	 car 	 2 	times
-frame	 637 	detect	 car 	 2 	times
-frame	 638 	detect	 car 	 4 	times
-frame	 639 	detect	 car 	 3 	times
-frame	 640 	detect	 car 	 3 	times
-frame	 641 	detect	 car 	 3 	times
-frame	 642 	detect	 car 	 3 	times
-frame	 643 	detect	 car 	 4 	times
-frame	 644 	detect	 car 	 3 	times
-frame	 645 	detect	 car 	 2 	times
-frame	 646 	detect	 car 	 4 	times
-frame	 647 	detect	 car 	 3 	times
-frame	 648 	detect	 car 	 3 	times
-frame	 649 	detect	 car 	 5 	times
-frame	 650 	detect	 car 	 2 	times
-frame	 651 	detect	 car 	 2 	times
-frame	 652 	detect	 car 	 2 	times
-frame	 653 	detect	 car 	 2 	times
-frame	 654 	detect	 car 	 3 	times
-frame	 655 	detect	 car 	 2 	times
-frame	 656 	detect	 car 	 2 	times
-frame	 657 	detect	 car 	 3 	times
-frame	 658 	detect	 car 	 3 	times
-frame	 659 	detect	 car 	 4 	times
-frame	 660 	detect	 car 	 2 	times
-frame	 661 	detect	 car 	 3 	times
-frame	 662 	detect	 car 	 4 	times
-frame	 663 	detect	 car 	 5 	times
-frame	 664 	detect	 car 	 4 	times
-frame	 665 	detect	 car 	 5 	times
-frame	 666 	detect	 car 	 4 	times
-frame	 667 	detect	 car 	 4 	times
-frame	 668 	detect	 car 	 6 	times
-frame	 669 	detect	 car 	 4 	times
-frame	 670 	detect	 car 	 2 	times
-frame	 671 	detect	 car 	 5 	times
-frame	 672 	detect	 car 	 3 	times
-frame	 673 	detect	 car 	 3 	times
-frame	 674 	detect	 car 	 3 	times
-frame	 675 	detect	 car 	 2 	times
-frame	 676 	detect	 car 	 1 	times
-frame	 677 	detect	 car 	 1 	times
-frame	 693 	detect	 car 	 1 	times
-frame	 700 	detect	 car 	 1 	times
-frame	 701 	detect	 car 	 2 	times
-frame	 702 	detect	 car 	 2 	times
-frame	 703 	detect	 car 	 2 	times
-frame	 704 	detect	 car 	 2 	times
-frame	 705 	detect	 car 	 2 	times
-frame	 706 	detect	 car 	 2 	times
-frame	 707 	detect	 car 	 2 	times
-frame	 708 	detect	 car 	 2 	times
-frame	 709 	detect	 car 	 2 	times
-frame	 710 	detect	 car 	 2 	times
-frame	 711 	detect	 car 	 2 	times
-frame	 712 	detect	 car 	 2 	times
-frame	 713 	detect	 car 	 2 	times
-frame	 714 	detect	 car 	 2 	times
-frame	 715 	detect	 car 	 1 	times
-frame	 716 	detect	 car 	 2 	times
-frame	 717 	detect	 car 	 2 	times
-frame	 718 	detect	 car 	 2 	times
-frame	 719 	detect	 car 	 2 	times
-frame	 720 	detect	 car 	 2 	times
-frame	 721 	detect	 car 	 2 	times
-frame	 722 	detect	 car 	 2 	times
-frame	 723 	detect	 car 	 2 	times
-frame	 724 	detect	 car 	 2 	times
-frame	 725 	detect	 car 	 2 	times
-frame	 726 	detect	 car 	 2 	times
-frame	 727 	detect	 car 	 2 	times
-frame	 728 	detect	 car 	 2 	times
-frame	 729 	detect	 car 	 2 	times
-frame	 730 	detect	 car 	 3 	times
-frame	 731 	detect	 car 	 3 	times
-frame	 732 	detect	 car 	 3 	times
-frame	 733 	detect	 car 	 4 	times
-frame	 734 	detect	 car 	 5 	times
-frame	 735 	detect	 car 	 5 	times
-frame	 736 	detect	 car 	 4 	times
-frame	 737 	detect	 car 	 4 	times
-frame	 738 	detect	 car 	 5 	times
-frame	 739 	detect	 car 	 4 	times
-frame	 740 	detect	 car 	 4 	times
-frame	 741 	detect	 car 	 3 	times
-frame	 742 	detect	 car 	 3 	times
-frame	 743 	detect	 car 	 2 	times
-frame	 744 	detect	 car 	 3 	times
-frame	 745 	detect	 car 	 3 	times
-frame	 746 	detect	 car 	 3 	times
-frame	 747 	detect	 car 	 2 	times
-frame	 748 	detect	 car 	 3 	times
-frame	 749 	detect	 car 	 5 	times
-frame	 750 	detect	 car 	 2 	times
-frame	 751 	detect	 car 	 2 	times
-frame	 752 	detect	 car 	 2 	times
-frame	 753 	detect	 car 	 3 	times
-frame	 754 	detect	 car 	 2 	times
-frame	 755 	detect	 car 	 3 	times
-frame	 756 	detect	 car 	 2 	times
-frame	 757 	detect	 car 	 2 	times
-frame	 758 	detect	 car 	 4 	times
-frame	 759 	detect	 car 	 4 	times
-frame	 760 	detect	 car 	 4 	times
-frame	 761 	detect	 car 	 3 	times
-frame	 762 	detect	 car 	 3 	times
-frame	 763 	detect	 car 	 3 	times
-frame	 764 	detect	 car 	 2 	times
-frame	 765 	detect	 car 	 4 	times
-frame	 766 	detect	 car 	 3 	times
-frame	 767 	detect	 car 	 5 	times
-frame	 768 	detect	 car 	 5 	times
-frame	 769 	detect	 car 	 4 	times
-frame	 770 	detect	 car 	 5 	times
-frame	 771 	detect	 car 	 6 	times
-frame	 772 	detect	 car 	 3 	times
-frame	 773 	detect	 car 	 4 	times
-frame	 774 	detect	 car 	 4 	times
-frame	 775 	detect	 car 	 5 	times
-frame	 776 	detect	 car 	 6 	times
-frame	 777 	detect	 car 	 7 	times
-frame	 778 	detect	 car 	 6 	times
-frame	 779 	detect	 car 	 4 	times
-frame	 780 	detect	 car 	 7 	times
-frame	 781 	detect	 car 	 5 	times
-frame	 782 	detect	 car 	 4 	times
-frame	 783 	detect	 car 	 3 	times
-frame	 784 	detect	 car 	 4 	times
-frame	 785 	detect	 car 	 4 	times
-frame	 786 	detect	 car 	 5 	times
-frame	 787 	detect	 car 	 5 	times
-frame	 788 	detect	 car 	 3 	times
-frame	 789 	detect	 car 	 6 	times
-frame	 790 	detect	 car 	 3 	times
-frame	 791 	detect	 car 	 4 	times
-frame	 792 	detect	 car 	 4 	times
-frame	 793 	detect	 car 	 6 	times
-frame	 794 	detect	 car 	 3 	times
-frame	 795 	detect	 car 	 3 	times
-frame	 796 	detect	 car 	 4 	times
-frame	 797 	detect	 car 	 4 	times
-frame	 798 	detect	 car 	 3 	times
-frame	 799 	detect	 car 	 4 	times
-frame	 800 	detect	 car 	 4 	times
-frame	 801 	detect	 car 	 5 	times
-frame	 802 	detect	 car 	 5 	times
-frame	 803 	detect	 car 	 4 	times
-frame	 804 	detect	 car 	 4 	times
-frame	 805 	detect	 car 	 3 	times
-frame	 806 	detect	 car 	 4 	times
-frame	 807 	detect	 car 	 4 	times
-frame	 808 	detect	 car 	 3 	times
-frame	 809 	detect	 car 	 3 	times
-frame	 810 	detect	 car 	 3 	times
-frame	 811 	detect	 car 	 2 	times
-frame	 812 	detect	 car 	 3 	times
-frame	 813 	detect	 car 	 4 	times
-frame	 814 	detect	 car 	 4 	times
-frame	 815 	detect	 car 	 3 	times
-frame	 816 	detect	 car 	 3 	times
-frame	 817 	detect	 car 	 3 	times
-frame	 818 	detect	 car 	 3 	times
-frame	 819 	detect	 car 	 2 	times
-frame	 820 	detect	 car 	 3 	times
-frame	 821 	detect	 car 	 3 	times
-frame	 822 	detect	 car 	 3 	times
-frame	 823 	detect	 car 	 3 	times
-frame	 824 	detect	 car 	 3 	times
-frame	 825 	detect	 car 	 2 	times
-frame	 826 	detect	 car 	 3 	times
-frame	 827 	detect	 car 	 3 	times
-frame	 828 	detect	 car 	 2 	times
-frame	 829 	detect	 car 	 3 	times
-frame	 830 	detect	 car 	 2 	times
-frame	 831 	detect	 car 	 2 	times
-frame	 832 	detect	 car 	 4 	times
-frame	 833 	detect	 car 	 3 	times
-frame	 834 	detect	 car 	 2 	times
-frame	 835 	detect	 car 	 3 	times
-frame	 836 	detect	 car 	 3 	times
-frame	 837 	detect	 car 	 3 	times
-frame	 838 	detect	 car 	 2 	times
-frame	 839 	detect	 car 	 2 	times
-frame	 840 	detect	 car 	 4 	times
-frame	 841 	detect	 car 	 2 	times
-frame	 842 	detect	 car 	 2 	times
-frame	 843 	detect	 car 	 2 	times
-frame	 844 	detect	 car 	 4 	times
-frame	 845 	detect	 car 	 2 	times
-frame	 846 	detect	 car 	 2 	times
-frame	 847 	detect	 car 	 3 	times
-frame	 848 	detect	 car 	 3 	times
-frame	 849 	detect	 car 	 3 	times
-frame	 850 	detect	 car 	 3 	times
-frame	 851 	detect	 car 	 2 	times
-frame	 852 	detect	 car 	 3 	times
-frame	 853 	detect	 car 	 3 	times
-frame	 854 	detect	 car 	 2 	times
-frame	 855 	detect	 car 	 3 	times
-frame	 856 	detect	 car 	 2 	times
-frame	 857 	detect	 car 	 4 	times
-frame	 858 	detect	 car 	 4 	times
-frame	 859 	detect	 car 	 3 	times
-frame	 860 	detect	 car 	 3 	times
-frame	 861 	detect	 car 	 4 	times
-frame	 862 	detect	 car 	 5 	times
-frame	 863 	detect	 car 	 4 	times
-frame	 864 	detect	 car 	 4 	times
-frame	 865 	detect	 car 	 4 	times
-frame	 866 	detect	 car 	 6 	times
-frame	 867 	detect	 car 	 6 	times
-frame	 868 	detect	 car 	 5 	times
-frame	 869 	detect	 car 	 5 	times
-frame	 870 	detect	 car 	 4 	times
-frame	 871 	detect	 car 	 4 	times
-frame	 872 	detect	 car 	 3 	times
-frame	 873 	detect	 car 	 4 	times
-frame	 874 	detect	 car 	 5 	times
-frame	 875 	detect	 car 	 4 	times
-frame	 876 	detect	 car 	 4 	times
-frame	 877 	detect	 car 	 3 	times
-frame	 878 	detect	 car 	 4 	times
-frame	 879 	detect	 car 	 5 	times
-frame	 880 	detect	 car 	 3 	times
-frame	 881 	detect	 car 	 4 	times
-frame	 882 	detect	 car 	 3 	times
-frame	 883 	detect	 car 	 3 	times
-frame	 884 	detect	 car 	 3 	times
-frame	 885 	detect	 car 	 3 	times
-frame	 886 	detect	 car 	 3 	times
-frame	 887 	detect	 car 	 3 	times
-frame	 888 	detect	 car 	 4 	times
-frame	 889 	detect	 car 	 4 	times
-frame	 890 	detect	 car 	 3 	times
-frame	 891 	detect	 car 	 3 	times
-frame	 892 	detect	 car 	 4 	times
-frame	 893 	detect	 car 	 3 	times
-frame	 894 	detect	 car 	 4 	times
-frame	 895 	detect	 car 	 3 	times
-frame	 896 	detect	 car 	 3 	times
-frame	 897 	detect	 car 	 4 	times
-frame	 898 	detect	 car 	 4 	times
-frame	 899 	detect	 car 	 3 	times
-frame	 900 	detect	 car 	 3 	times
-frame	 901 	detect	 car 	 3 	times
-frame	 902 	detect	 car 	 3 	times
-frame	 903 	detect	 car 	 3 	times
-frame	 904 	detect	 car 	 3 	times
-frame	 905 	detect	 car 	 4 	times
-frame	 906 	detect	 car 	 4 	times
-frame	 907 	detect	 car 	 3 	times
-frame	 908 	detect	 car 	 4 	times
-frame	 909 	detect	 car 	 5 	times
-frame	 910 	detect	 car 	 4 	times
-frame	 911 	detect	 car 	 4 	times
-frame	 912 	detect	 car 	 4 	times
-frame	 913 	detect	 car 	 3 	times
-frame	 914 	detect	 car 	 5 	times
-frame	 915 	detect	 car 	 4 	times
-frame	 916 	detect	 car 	 4 	times
-frame	 917 	detect	 car 	 4 	times
-frame	 918 	detect	 car 	 5 	times
-frame	 919 	detect	 car 	 3 	times
-frame	 920 	detect	 car 	 3 	times
-frame	 921 	detect	 car 	 2 	times
-frame	 922 	detect	 car 	 2 	times
-frame	 923 	detect	 car 	 3 	times
-frame	 924 	detect	 car 	 3 	times
-frame	 925 	detect	 car 	 2 	times
-frame	 926 	detect	 car 	 3 	times
-frame	 927 	detect	 car 	 3 	times
-frame	 928 	detect	 car 	 2 	times
-frame	 929 	detect	 car 	 3 	times
-frame	 930 	detect	 car 	 3 	times
-frame	 931 	detect	 car 	 2 	times
-frame	 932 	detect	 car 	 2 	times
-frame	 933 	detect	 car 	 3 	times
-frame	 934 	detect	 car 	 2 	times
-frame	 935 	detect	 car 	 2 	times
-frame	 936 	detect	 car 	 2 	times
-frame	 937 	detect	 car 	 3 	times
-frame	 938 	detect	 car 	 4 	times
-frame	 939 	detect	 car 	 3 	times
-frame	 940 	detect	 car 	 4 	times
-frame	 941 	detect	 car 	 4 	times
-frame	 942 	detect	 car 	 4 	times
-frame	 943 	detect	 car 	 5 	times
-frame	 944 	detect	 car 	 4 	times
-frame	 945 	detect	 car 	 4 	times
-frame	 946 	detect	 car 	 3 	times
-frame	 947 	detect	 car 	 4 	times
-frame	 948 	detect	 car 	 3 	times
-frame	 949 	detect	 car 	 4 	times
-frame	 950 	detect	 car 	 4 	times
-frame	 951 	detect	 car 	 4 	times
-frame	 952 	detect	 car 	 4 	times
-frame	 953 	detect	 car 	 4 	times
-frame	 954 	detect	 car 	 4 	times
-frame	 955 	detect	 car 	 4 	times
-frame	 956 	detect	 car 	 4 	times
-frame	 957 	detect	 car 	 4 	times
-frame	 958 	detect	 car 	 4 	times
-frame	 959 	detect	 car 	 5 	times
-frame	 960 	detect	 car 	 4 	times
-frame	 961 	detect	 car 	 4 	times
-frame	 962 	detect	 car 	 4 	times
-frame	 963 	detect	 car 	 4 	times
-frame	 964 	detect	 car 	 4 	times
-frame	 965 	detect	 car 	 4 	times
-frame	 966 	detect	 car 	 4 	times
-frame	 967 	detect	 car 	 4 	times
-frame	 968 	detect	 car 	 4 	times
-frame	 969 	detect	 car 	 4 	times
-frame	 970 	detect	 car 	 5 	times
-frame	 971 	detect	 car 	 5 	times
-frame	 972 	detect	 car 	 5 	times
-frame	 973 	detect	 car 	 4 	times
-frame	 974 	detect	 car 	 5 	times
-frame	 975 	detect	 car 	 4 	times
-frame	 976 	detect	 car 	 4 	times
-frame	 977 	detect	 car 	 5 	times
-frame	 978 	detect	 car 	 4 	times
-frame	 979 	detect	 car 	 4 	times
-frame	 980 	detect	 car 	 3 	times
-frame	 981 	detect	 car 	 4 	times
-frame	 982 	detect	 car 	 4 	times
-frame	 983 	detect	 car 	 4 	times
-frame	 984 	detect	 car 	 5 	times
-frame	 985 	detect	 car 	 5 	times
-frame	 986 	detect	 car 	 5 	times
-frame	 987 	detect	 car 	 5 	times
-frame	 988 	detect	 car 	 4 	times
-frame	 989 	detect	 car 	 4 	times
-frame	 990 	detect	 car 	 4 	times
-frame	 991 	detect	 car 	 4 	times
-frame	 992 	detect	 car 	 4 	times
-frame	 993 	detect	 car 	 4 	times
-frame	 994 	detect	 car 	 4 	times
-frame	 995 	detect	 car 	 4 	times
-frame	 996 	detect	 car 	 2 	times
-frame	 997 	detect	 car 	 3 	times
-frame	 998 	detect	 car 	 2 	times
-frame	 999 	detect	 car 	 2 	times
-frame	 1000 	detect	 car 	 2 	times
-frame	 1001 	detect	 car 	 2 	times
-frame	 1002 	detect	 car 	 2 	times
-frame	 1003 	detect	 car 	 2 	times
-frame	 1004 	detect	 car 	 2 	times
-frame	 1005 	detect	 car 	 2 	times
-frame	 1006 	detect	 car 	 2 	times
-frame	 1007 	detect	 car 	 1 	times
-frame	 1008 	detect	 car 	 2 	times
-frame	 1009 	detect	 car 	 1 	times
-frame	 1010 	detect	 car 	 1 	times
-frame	 1011 	detect	 car 	 1 	times
-frame	 1012 	detect	 car 	 2 	times
-frame	 1013 	detect	 car 	 2 	times
-frame	 1014 	detect	 car 	 2 	times
-frame	 1015 	detect	 car 	 2 	times
-frame	 1016 	detect	 car 	 2 	times
-frame	 1017 	detect	 car 	 1 	times
-frame	 1018 	detect	 car 	 2 	times
-frame	 1019 	detect	 car 	 2 	times
-frame	 1020 	detect	 car 	 1 	times
-frame	 1088 	detect	 car 	 1 	times
-frame	 1119 	detect	 car 	 1 	times
-frame	 1126 	detect	 car 	 2 	times
-frame	 1127 	detect	 car 	 1 	times
-frame	 1128 	detect	 car 	 1 	times
-frame	 1130 	detect	 car 	 1 	times
-frame	 1129 	detect	 car 	 1 	times
-frame	 1131 	detect	 car 	 1 	times
-frame	 1132 	detect	 car 	 2 	times
-frame	 1133 	detect	 car 	 2 	times
-frame	 1134 	detect	 car 	 2 	times
-frame	 1135 	detect	 car 	 1 	times
-frame	 1136 	detect	 car 	 1 	times
-frame	 1139 	detect	 car 	 1 	times
-frame	 1259 	detect	 car 	 1 	times
-frame	 1272 	detect	 car 	 1 	times
-frame	 1292 	detect	 car 	 1 	times
-frame	 1294 	detect	 car 	 1 	times
-frame	 1295 	detect	 car 	 1 	times
-frame	 1440 	detect	 car 	 1 	times
-frame	 1475 	detect	 car 	 1 	times
-frame	 1306 	detect	 car 	 1 	times
-frame	 1492 	detect	 car 	 1 	times
-frame	 1521 	detect	 car 	 1 	times
-frame	 1518 	detect	 car 	 1 	times
-frame	 1525 	detect	 car 	 1 	times
-frame	 1526 	detect	 car 	 1 	times
-frame	 1530 	detect	 car 	 1 	times
-frame	 1533 	detect	 car 	 1 	times
-frame	 1552 	detect	 car 	 1 	times
-frame	 1535 	detect	 car 	 1 	times
-frame	 1571 	detect	 car 	 1 	times
-frame	 1584 	detect	 car 	 1 	times
-frame	 1592 	detect	 car 	 1 	times
-frame	 1593 	detect	 car 	 1 	times
-frame	 1594 	detect	 car 	 1 	times
-frame	 1607 	detect	 car 	 2 	times
-frame	 1609 	detect	 car 	 2 	times
-frame	 1611 	detect	 car 	 1 	times
-frame	 1612 	detect	 car 	 2 	times
-frame	 1618 	detect	 car 	 1 	times
-frame	 1615 	detect	 car 	 1 	times
-frame	 1619 	detect	 car 	 3 	times
-frame	 1620 	detect	 car 	 3 	times
-frame	 1621 	detect	 car 	 2 	times
-frame	 1622 	detect	 car 	 4 	times
-frame	 1623 	detect	 car 	 2 	times
-frame	 1624 	detect	 car 	 2 	times
-frame	 1625 	detect	 car 	 4 	times
-frame	 1626 	detect	 car 	 1 	times
-frame	 1627 	detect	 car 	 3 	times
-frame	 1628 	detect	 car 	 1 	times
-frame	 1630 	detect	 car 	 2 	times
-frame	 1631 	detect	 car 	 4 	times
-frame	 1632 	detect	 car 	 2 	times
-frame	 1634 	detect	 car 	 1 	times
-frame	 1637 	detect	 car 	 1 	times
-frame	 1635 	detect	 car 	 1 	times
-frame	 1638 	detect	 car 	 1 	times
-frame	 1639 	detect	 car 	 2 	times
-frame	 1640 	detect	 car 	 1 	times
-frame	 1643 	detect	 car 	 1 	times
-frame	 1647 	detect	 car 	 1 	times
-frame	 1648 	detect	 car 	 1 	times
-frame	 1649 	detect	 car 	 1 	times
-frame	 1650 	detect	 car 	 1 	times
-frame	 1651 	detect	 car 	 2 	times
-frame	 1652 	detect	 car 	 2 	times
-frame	 366 	detect	 motorbike 	 1 	times
-frame	 371 	detect	 motorbike 	 1 	times
-frame	 419 	detect	 motorbike 	 1 	times
-frame	 451 	detect	 motorbike 	 1 	times
-frame	 603 	detect	 motorbike 	 1 	times
-frame	 604 	detect	 motorbike 	 1 	times
-frame	 605 	detect	 motorbike 	 1 	times
-frame	 606 	detect	 motorbike 	 1 	times
-frame	 607 	detect	 motorbike 	 1 	times
-frame	 626 	detect	 motorbike 	 1 	times
-frame	 797 	detect	 motorbike 	 1 	times
-frame	 814 	detect	 motorbike 	 1 	times
-frame	 817 	detect	 motorbike 	 1 	times
-frame	 818 	detect	 motorbike 	 1 	times
-frame	 819 	detect	 motorbike 	 2 	times
-frame	 820 	detect	 motorbike 	 1 	times
-frame	 839 	detect	 motorbike 	 1 	times
-frame	 847 	detect	 motorbike 	 1 	times
-frame	 873 	detect	 motorbike 	 1 	times
-frame	 874 	detect	 motorbike 	 1 	times
-frame	 875 	detect	 motorbike 	 1 	times
-frame	 876 	detect	 motorbike 	 1 	times
-frame	 882 	detect	 motorbike 	 1 	times
-frame	 883 	detect	 motorbike 	 1 	times
-frame	 884 	detect	 motorbike 	 1 	times
-frame	 887 	detect	 motorbike 	 1 	times
-frame	 888 	detect	 motorbike 	 1 	times
-frame	 890 	detect	 motorbike 	 1 	times
-frame	 892 	detect	 motorbike 	 1 	times
-frame	 893 	detect	 motorbike 	 1 	times
-frame	 894 	detect	 motorbike 	 1 	times
-frame	 895 	detect	 motorbike 	 1 	times
-frame	 896 	detect	 motorbike 	 1 	times
-frame	 897 	detect	 motorbike 	 1 	times
-frame	 898 	detect	 motorbike 	 1 	times
-frame	 899 	detect	 motorbike 	 1 	times
-frame	 901 	detect	 motorbike 	 1 	times
-frame	 902 	detect	 motorbike 	 1 	times
-frame	 903 	detect	 motorbike 	 1 	times
-frame	 904 	detect	 motorbike 	 1 	times
-frame	 905 	detect	 motorbike 	 1 	times
-frame	 906 	detect	 motorbike 	 1 	times
-frame	 907 	detect	 motorbike 	 1 	times
-frame	 908 	detect	 motorbike 	 1 	times
-frame	 909 	detect	 motorbike 	 1 	times
-frame	 910 	detect	 motorbike 	 1 	times
-frame	 911 	detect	 motorbike 	 1 	times
-frame	 912 	detect	 motorbike 	 2 	times
-frame	 913 	detect	 motorbike 	 1 	times
-frame	 914 	detect	 motorbike 	 1 	times
-frame	 915 	detect	 motorbike 	 1 	times
-frame	 916 	detect	 motorbike 	 1 	times
-frame	 917 	detect	 motorbike 	 1 	times
-frame	 918 	detect	 motorbike 	 1 	times
-frame	 919 	detect	 motorbike 	 1 	times
-frame	 920 	detect	 motorbike 	 1 	times
-frame	 921 	detect	 motorbike 	 1 	times
-frame	 922 	detect	 motorbike 	 1 	times
-frame	 923 	detect	 motorbike 	 1 	times
-frame	 924 	detect	 motorbike 	 1 	times
-frame	 925 	detect	 motorbike 	 1 	times
-frame	 926 	detect	 motorbike 	 1 	times
-frame	 927 	detect	 motorbike 	 1 	times
-frame	 928 	detect	 motorbike 	 1 	times
-frame	 929 	detect	 motorbike 	 1 	times
-frame	 930 	detect	 motorbike 	 2 	times
-frame	 931 	detect	 motorbike 	 1 	times
-frame	 932 	detect	 motorbike 	 1 	times
-frame	 933 	detect	 motorbike 	 1 	times
-frame	 934 	detect	 motorbike 	 1 	times
-frame	 935 	detect	 motorbike 	 1 	times
-frame	 936 	detect	 motorbike 	 1 	times
-frame	 937 	detect	 motorbike 	 1 	times
-frame	 938 	detect	 motorbike 	 1 	times
-frame	 939 	detect	 motorbike 	 1 	times
-frame	 940 	detect	 motorbike 	 1 	times
-frame	 941 	detect	 motorbike 	 1 	times
-frame	 942 	detect	 motorbike 	 1 	times
-frame	 943 	detect	 motorbike 	 1 	times
-frame	 944 	detect	 motorbike 	 1 	times
-frame	 945 	detect	 motorbike 	 1 	times
-frame	 946 	detect	 motorbike 	 1 	times
-frame	 947 	detect	 motorbike 	 1 	times
-frame	 948 	detect	 motorbike 	 1 	times
-frame	 950 	detect	 motorbike 	 1 	times
-frame	 951 	detect	 motorbike 	 1 	times
-frame	 953 	detect	 motorbike 	 1 	times
-frame	 954 	detect	 motorbike 	 1 	times
-frame	 958 	detect	 motorbike 	 1 	times
-frame	 959 	detect	 motorbike 	 1 	times
-frame	 961 	detect	 motorbike 	 1 	times
-frame	 962 	detect	 motorbike 	 1 	times
-frame	 963 	detect	 motorbike 	 1 	times
-frame	 964 	detect	 motorbike 	 1 	times
-frame	 965 	detect	 motorbike 	 1 	times
-frame	 966 	detect	 motorbike 	 1 	times
-frame	 967 	detect	 motorbike 	 1 	times
-frame	 968 	detect	 motorbike 	 1 	times
-frame	 969 	detect	 motorbike 	 1 	times
-frame	 970 	detect	 motorbike 	 1 	times
-frame	 971 	detect	 motorbike 	 1 	times
-frame	 974 	detect	 motorbike 	 1 	times
-frame	 987 	detect	 motorbike 	 1 	times
-frame	 989 	detect	 motorbike 	 1 	times
-frame	 782 	detect	 bus 	 1 	times
-frame	 1009 	detect	 bus 	 1 	times
-frame	 1569 	detect	 bus 	 1 	times
-frame	 1578 	detect	 bus 	 1 	times
-frame	 1577 	detect	 bus 	 1 	times
-frame	 1580 	detect	 bus 	 2 	times
-frame	 1581 	detect	 bus 	 1 	times
-frame	 1582 	detect	 bus 	 1 	times
-frame	 1587 	detect	 bus 	 1 	times
-frame	 1594 	detect	 bus 	 1 	times
-frame	 1601 	detect	 bus 	 1 	times
-frame	 1604 	detect	 bus 	 1 	times
-frame	 1617 	detect	 bus 	 1 	times
-frame	 1618 	detect	 bus 	 1 	times
-frame	 1609 	detect	 bus 	 1 	times
-frame	 1620 	detect	 bus 	 1 	times
-frame	 1621 	detect	 bus 	 1 	times
-frame	 1619 	detect	 bus 	 1 	times
-frame	 1622 	detect	 bus 	 2 	times
-frame	 1623 	detect	 bus 	 1 	times
-frame	 1624 	detect	 bus 	 2 	times
-frame	 1625 	detect	 bus 	 2 	times
-frame	 1626 	detect	 bus 	 1 	times
-frame	 1627 	detect	 bus 	 2 	times
-frame	 1628 	detect	 bus 	 1 	times
-frame	 1630 	detect	 bus 	 1 	times
-frame	 1629 	detect	 bus 	 1 	times
-frame	 1631 	detect	 bus 	 2 	times
-frame	 1632 	detect	 bus 	 2 	times
-frame	 1633 	detect	 bus 	 2 	times
-frame	 1634 	detect	 bus 	 2 	times
-frame	 1635 	detect	 bus 	 2 	times
-frame	 1636 	detect	 bus 	 2 	times
-frame	 1637 	detect	 bus 	 2 	times
-frame	 1638 	detect	 bus 	 2 	times
-frame	 1639 	detect	 bus 	 1 	times
-frame	 1640 	detect	 bus 	 1 	times
-frame	 1641 	detect	 bus 	 1 	times
-frame	 1643 	detect	 bus 	 1 	times
-frame	 1642 	detect	 bus 	 1 	times
-frame	 1645 	detect	 bus 	 1 	times
-frame	 1053 	detect	 train 	 1 	times
-frame	 38 	detect	 truck 	 1 	times
-frame	 40 	detect	 truck 	 1 	times
-frame	 45 	detect	 truck 	 1 	times
-frame	 46 	detect	 truck 	 2 	times
-frame	 47 	detect	 truck 	 1 	times
-frame	 48 	detect	 truck 	 1 	times
-frame	 50 	detect	 truck 	 2 	times
-frame	 51 	detect	 truck 	 1 	times
-frame	 52 	detect	 truck 	 2 	times
-frame	 53 	detect	 truck 	 2 	times
-frame	 54 	detect	 truck 	 1 	times
-frame	 55 	detect	 truck 	 2 	times
-frame	 56 	detect	 truck 	 2 	times
-frame	 57 	detect	 truck 	 2 	times
-frame	 58 	detect	 truck 	 2 	times
-frame	 59 	detect	 truck 	 2 	times
-frame	 60 	detect	 truck 	 2 	times
-frame	 61 	detect	 truck 	 2 	times
-frame	 62 	detect	 truck 	 2 	times
-frame	 63 	detect	 truck 	 2 	times
-frame	 64 	detect	 truck 	 2 	times
-frame	 65 	detect	 truck 	 2 	times
-frame	 66 	detect	 truck 	 2 	times
-frame	 67 	detect	 truck 	 1 	times
-frame	 68 	detect	 truck 	 2 	times
-frame	 69 	detect	 truck 	 2 	times
-frame	 70 	detect	 truck 	 2 	times
-frame	 71 	detect	 truck 	 2 	times
-frame	 72 	detect	 truck 	 2 	times
-frame	 73 	detect	 truck 	 1 	times
-frame	 74 	detect	 truck 	 2 	times
-frame	 75 	detect	 truck 	 1 	times
-frame	 76 	detect	 truck 	 2 	times
-frame	 77 	detect	 truck 	 1 	times
-frame	 78 	detect	 truck 	 1 	times
-frame	 80 	detect	 truck 	 1 	times
-frame	 81 	detect	 truck 	 1 	times
-frame	 85 	detect	 truck 	 1 	times
-frame	 86 	detect	 truck 	 1 	times
-frame	 87 	detect	 truck 	 1 	times
-frame	 88 	detect	 truck 	 2 	times
-frame	 89 	detect	 truck 	 1 	times
-frame	 90 	detect	 truck 	 1 	times
-frame	 91 	detect	 truck 	 1 	times
-frame	 92 	detect	 truck 	 1 	times
-frame	 93 	detect	 truck 	 2 	times
-frame	 94 	detect	 truck 	 1 	times
-frame	 95 	detect	 truck 	 1 	times
-frame	 96 	detect	 truck 	 1 	times
-frame	 97 	detect	 truck 	 2 	times
-frame	 98 	detect	 truck 	 1 	times
-frame	 99 	detect	 truck 	 2 	times
-frame	 100 	detect	 truck 	 2 	times
-frame	 101 	detect	 truck 	 2 	times
-frame	 102 	detect	 truck 	 1 	times
-frame	 103 	detect	 truck 	 1 	times
-frame	 104 	detect	 truck 	 1 	times
-frame	 105 	detect	 truck 	 1 	times
-frame	 106 	detect	 truck 	 2 	times
-frame	 107 	detect	 truck 	 2 	times
-frame	 109 	detect	 truck 	 1 	times
-frame	 110 	detect	 truck 	 1 	times
-frame	 121 	detect	 truck 	 1 	times
-frame	 134 	detect	 truck 	 1 	times
-frame	 135 	detect	 truck 	 1 	times
-frame	 136 	detect	 truck 	 1 	times
-frame	 138 	detect	 truck 	 1 	times
-frame	 139 	detect	 truck 	 2 	times
-frame	 140 	detect	 truck 	 1 	times
-frame	 142 	detect	 truck 	 1 	times
-frame	 143 	detect	 truck 	 1 	times
-frame	 144 	detect	 truck 	 1 	times
-frame	 145 	detect	 truck 	 1 	times
-frame	 146 	detect	 truck 	 1 	times
-frame	 149 	detect	 truck 	 1 	times
-frame	 157 	detect	 truck 	 1 	times
-frame	 161 	detect	 truck 	 1 	times
-frame	 162 	detect	 truck 	 1 	times
-frame	 163 	detect	 truck 	 1 	times
-frame	 164 	detect	 truck 	 1 	times
-frame	 165 	detect	 truck 	 1 	times
-frame	 166 	detect	 truck 	 2 	times
-frame	 167 	detect	 truck 	 2 	times
-frame	 168 	detect	 truck 	 2 	times
-frame	 169 	detect	 truck 	 2 	times
-frame	 170 	detect	 truck 	 2 	times
-frame	 171 	detect	 truck 	 1 	times
-frame	 172 	detect	 truck 	 2 	times
-frame	 173 	detect	 truck 	 2 	times
-frame	 174 	detect	 truck 	 2 	times
-frame	 175 	detect	 truck 	 2 	times
-frame	 176 	detect	 truck 	 1 	times
-frame	 177 	detect	 truck 	 1 	times
-frame	 179 	detect	 truck 	 1 	times
-frame	 188 	detect	 truck 	 1 	times
-frame	 181 	detect	 truck 	 1 	times
-frame	 191 	detect	 truck 	 1 	times
-frame	 203 	detect	 truck 	 1 	times
-frame	 204 	detect	 truck 	 1 	times
-frame	 205 	detect	 truck 	 1 	times
-frame	 207 	detect	 truck 	 1 	times
-frame	 206 	detect	 truck 	 1 	times
-frame	 208 	detect	 truck 	 2 	times
-frame	 210 	detect	 truck 	 1 	times
-frame	 209 	detect	 truck 	 1 	times
-frame	 215 	detect	 truck 	 1 	times
-frame	 216 	detect	 truck 	 1 	times
-frame	 235 	detect	 truck 	 1 	times
-frame	 213 	detect	 truck 	 1 	times
-frame	 236 	detect	 truck 	 1 	times
-frame	 237 	detect	 truck 	 1 	times
-frame	 240 	detect	 truck 	 1 	times
-frame	 241 	detect	 truck 	 2 	times
-frame	 242 	detect	 truck 	 1 	times
-frame	 244 	detect	 truck 	 1 	times
-frame	 243 	detect	 truck 	 1 	times
-frame	 245 	detect	 truck 	 2 	times
-frame	 246 	detect	 truck 	 2 	times
-frame	 247 	detect	 truck 	 1 	times
-frame	 248 	detect	 truck 	 2 	times
-frame	 249 	detect	 truck 	 1 	times
-frame	 250 	detect	 truck 	 2 	times
-frame	 251 	detect	 truck 	 1 	times
-frame	 253 	detect	 truck 	 2 	times
-frame	 260 	detect	 truck 	 1 	times
-frame	 262 	detect	 truck 	 2 	times
-frame	 263 	detect	 truck 	 1 	times
-frame	 267 	detect	 truck 	 1 	times
-frame	 268 	detect	 truck 	 1 	times
-frame	 266 	detect	 truck 	 1 	times
-frame	 746 	detect	 truck 	 2 	times
-frame	 748 	detect	 truck 	 1 	times
-frame	 747 	detect	 truck 	 1 	times
-frame	 751 	detect	 truck 	 2 	times
-frame	 752 	detect	 truck 	 2 	times
-frame	 753 	detect	 truck 	 1 	times
-frame	 754 	detect	 truck 	 2 	times
-frame	 755 	detect	 truck 	 1 	times
-frame	 756 	detect	 truck 	 2 	times
-frame	 757 	detect	 truck 	 2 	times
-frame	 758 	detect	 truck 	 2 	times
-frame	 760 	detect	 truck 	 1 	times
-frame	 761 	detect	 truck 	 2 	times
-frame	 762 	detect	 truck 	 1 	times
-frame	 763 	detect	 truck 	 2 	times
-frame	 764 	detect	 truck 	 1 	times
-frame	 765 	detect	 truck 	 1 	times
-frame	 766 	detect	 truck 	 1 	times
-frame	 767 	detect	 truck 	 1 	times
-frame	 768 	detect	 truck 	 2 	times
-frame	 769 	detect	 truck 	 1 	times
-frame	 770 	detect	 truck 	 1 	times
-frame	 772 	detect	 truck 	 1 	times
-frame	 773 	detect	 truck 	 2 	times
-frame	 774 	detect	 truck 	 1 	times
-frame	 775 	detect	 truck 	 2 	times
-frame	 776 	detect	 truck 	 2 	times
-frame	 777 	detect	 truck 	 1 	times
-frame	 778 	detect	 truck 	 2 	times
-frame	 779 	detect	 truck 	 1 	times
-frame	 780 	detect	 truck 	 2 	times
-frame	 781 	detect	 truck 	 1 	times
-frame	 782 	detect	 truck 	 2 	times
-frame	 783 	detect	 truck 	 4 	times
-frame	 784 	detect	 truck 	 2 	times
-frame	 785 	detect	 truck 	 5 	times
-frame	 786 	detect	 truck 	 3 	times
-frame	 787 	detect	 truck 	 2 	times
-frame	 788 	detect	 truck 	 1 	times
-frame	 789 	detect	 truck 	 2 	times
-frame	 790 	detect	 truck 	 3 	times
-frame	 791 	detect	 truck 	 3 	times
-frame	 793 	detect	 truck 	 2 	times
-frame	 792 	detect	 truck 	 2 	times
-frame	 794 	detect	 truck 	 4 	times
-frame	 795 	detect	 truck 	 4 	times
-frame	 796 	detect	 truck 	 4 	times
-frame	 797 	detect	 truck 	 3 	times
-frame	 798 	detect	 truck 	 2 	times
-frame	 799 	detect	 truck 	 2 	times
-frame	 800 	detect	 truck 	 2 	times
-frame	 801 	detect	 truck 	 2 	times
-frame	 802 	detect	 truck 	 2 	times
-frame	 803 	detect	 truck 	 2 	times
-frame	 804 	detect	 truck 	 2 	times
-frame	 805 	detect	 truck 	 3 	times
-frame	 806 	detect	 truck 	 3 	times
-frame	 807 	detect	 truck 	 2 	times
-frame	 808 	detect	 truck 	 3 	times
-frame	 809 	detect	 truck 	 2 	times
-frame	 810 	detect	 truck 	 2 	times
-frame	 811 	detect	 truck 	 2 	times
-frame	 812 	detect	 truck 	 2 	times
-frame	 813 	detect	 truck 	 2 	times
-frame	 814 	detect	 truck 	 2 	times
-frame	 815 	detect	 truck 	 2 	times
-frame	 816 	detect	 truck 	 2 	times
-frame	 817 	detect	 truck 	 2 	times
-frame	 818 	detect	 truck 	 2 	times
-frame	 819 	detect	 truck 	 2 	times
-frame	 820 	detect	 truck 	 2 	times
-frame	 821 	detect	 truck 	 2 	times
-frame	 822 	detect	 truck 	 2 	times
-frame	 823 	detect	 truck 	 2 	times
-frame	 824 	detect	 truck 	 2 	times
-frame	 825 	detect	 truck 	 2 	times
-frame	 826 	detect	 truck 	 2 	times
-frame	 827 	detect	 truck 	 2 	times
-frame	 828 	detect	 truck 	 2 	times
-frame	 829 	detect	 truck 	 2 	times
-frame	 830 	detect	 truck 	 2 	times
-frame	 831 	detect	 truck 	 2 	times
-frame	 832 	detect	 truck 	 2 	times
-frame	 833 	detect	 truck 	 2 	times
-frame	 834 	detect	 truck 	 2 	times
-frame	 835 	detect	 truck 	 2 	times
-frame	 836 	detect	 truck 	 2 	times
-frame	 837 	detect	 truck 	 2 	times
-frame	 838 	detect	 truck 	 2 	times
-frame	 839 	detect	 truck 	 2 	times
-frame	 840 	detect	 truck 	 2 	times
-frame	 841 	detect	 truck 	 2 	times
-frame	 842 	detect	 truck 	 2 	times
-frame	 843 	detect	 truck 	 2 	times
-frame	 844 	detect	 truck 	 2 	times
-frame	 845 	detect	 truck 	 2 	times
-frame	 846 	detect	 truck 	 2 	times
-frame	 847 	detect	 truck 	 2 	times
-frame	 848 	detect	 truck 	 2 	times
-frame	 849 	detect	 truck 	 2 	times
-frame	 850 	detect	 truck 	 2 	times
-frame	 851 	detect	 truck 	 2 	times
-frame	 852 	detect	 truck 	 2 	times
-frame	 853 	detect	 truck 	 2 	times
-frame	 854 	detect	 truck 	 2 	times
-frame	 855 	detect	 truck 	 2 	times
-frame	 856 	detect	 truck 	 2 	times
-frame	 857 	detect	 truck 	 1 	times
-frame	 858 	detect	 truck 	 1 	times
-frame	 859 	detect	 truck 	 1 	times
-frame	 860 	detect	 truck 	 1 	times
-frame	 861 	detect	 truck 	 2 	times
-frame	 862 	detect	 truck 	 1 	times
-frame	 863 	detect	 truck 	 1 	times
-frame	 864 	detect	 truck 	 1 	times
-frame	 866 	detect	 truck 	 1 	times
-frame	 867 	detect	 truck 	 2 	times
-frame	 868 	detect	 truck 	 1 	times
-frame	 869 	detect	 truck 	 2 	times
-frame	 870 	detect	 truck 	 1 	times
-frame	 871 	detect	 truck 	 2 	times
-frame	 872 	detect	 truck 	 1 	times
-frame	 873 	detect	 truck 	 1 	times
-frame	 874 	detect	 truck 	 2 	times
-frame	 875 	detect	 truck 	 2 	times
-frame	 876 	detect	 truck 	 2 	times
-frame	 877 	detect	 truck 	 2 	times
-frame	 878 	detect	 truck 	 1 	times
-frame	 880 	detect	 truck 	 1 	times
-frame	 879 	detect	 truck 	 1 	times
-frame	 881 	detect	 truck 	 2 	times
-frame	 882 	detect	 truck 	 2 	times
-frame	 883 	detect	 truck 	 1 	times
-frame	 886 	detect	 truck 	 1 	times
-frame	 887 	detect	 truck 	 1 	times
-frame	 888 	detect	 truck 	 1 	times
-frame	 889 	detect	 truck 	 1 	times
-frame	 890 	detect	 truck 	 1 	times
-frame	 891 	detect	 truck 	 1 	times
-frame	 885 	detect	 truck 	 1 	times
-frame	 892 	detect	 truck 	 2 	times
-frame	 893 	detect	 truck 	 2 	times
-frame	 894 	detect	 truck 	 2 	times
-frame	 895 	detect	 truck 	 2 	times
-frame	 896 	detect	 truck 	 2 	times
-frame	 897 	detect	 truck 	 2 	times
-frame	 898 	detect	 truck 	 2 	times
-frame	 899 	detect	 truck 	 1 	times
-frame	 900 	detect	 truck 	 2 	times
-frame	 901 	detect	 truck 	 2 	times
-frame	 902 	detect	 truck 	 2 	times
-frame	 903 	detect	 truck 	 1 	times
-frame	 905 	detect	 truck 	 1 	times
-frame	 1007 	detect	 truck 	 2 	times
-frame	 1010 	detect	 truck 	 1 	times
-frame	 1011 	detect	 truck 	 2 	times
-frame	 1017 	detect	 truck 	 1 	times
-frame	 1014 	detect	 truck 	 1 	times
-frame	 1474 	detect	 truck 	 1 	times
-frame	 1475 	detect	 truck 	 1 	times
-frame	 1476 	detect	 truck 	 1 	times
-frame	 1478 	detect	 truck 	 1 	times
-frame	 1479 	detect	 truck 	 1 	times
-frame	 1480 	detect	 truck 	 1 	times
-frame	 1481 	detect	 truck 	 1 	times
-frame	 1483 	detect	 truck 	 1 	times
-frame	 1485 	detect	 truck 	 1 	times
-frame	 1462 	detect	 truck 	 1 	times
-frame	 1487 	detect	 truck 	 1 	times
-frame	 1488 	detect	 truck 	 1 	times
-frame	 1489 	detect	 truck 	 1 	times
-frame	 1490 	detect	 truck 	 1 	times
-frame	 1491 	detect	 truck 	 1 	times
-frame	 1492 	detect	 truck 	 1 	times
-frame	 1493 	detect	 truck 	 1 	times
-frame	 1494 	detect	 truck 	 1 	times
-frame	 1495 	detect	 truck 	 1 	times
-frame	 1496 	detect	 truck 	 1 	times
-frame	 1497 	detect	 truck 	 1 	times
-frame	 1499 	detect	 truck 	 1 	times
-frame	 1500 	detect	 truck 	 1 	times
-frame	 1506 	detect	 truck 	 1 	times
-frame	 1518 	detect	 truck 	 1 	times
-frame	 1486 	detect	 truck 	 1 	times
-frame	 1526 	detect	 truck 	 1 	times
-frame	 1532 	detect	 truck 	 1 	times
-frame	 1533 	detect	 truck 	 2 	times
-frame	 1536 	detect	 truck 	 1 	times
-frame	 1552 	detect	 truck 	 1 	times
-frame	 1564 	detect	 truck 	 1 	times
-frame	 1565 	detect	 truck 	 1 	times
-frame	 1567 	detect	 truck 	 1 	times
-frame	 1574 	detect	 truck 	 1 	times
-frame	 1575 	detect	 truck 	 1 	times
-frame	 1576 	detect	 truck 	 1 	times
-frame	 1577 	detect	 truck 	 1 	times
-frame	 1578 	detect	 truck 	 1 	times
-frame	 1581 	detect	 truck 	 1 	times
-frame	 1583 	detect	 truck 	 1 	times
-frame	 1585 	detect	 truck 	 1 	times
-frame	 1586 	detect	 truck 	 1 	times
-frame	 1587 	detect	 truck 	 1 	times
-frame	 1588 	detect	 truck 	 1 	times
-frame	 1598 	detect	 truck 	 1 	times
-frame	 1600 	detect	 truck 	 1 	times
-frame	 1601 	detect	 truck 	 1 	times
-frame	 1605 	detect	 truck 	 1 	times
-frame	 1606 	detect	 truck 	 1 	times
-frame	 1608 	detect	 truck 	 1 	times
-frame	 1610 	detect	 truck 	 1 	times
-frame	 1614 	detect	 truck 	 1 	times
-frame	 1615 	detect	 truck 	 1 	times
-frame	 1620 	detect	 truck 	 1 	times
-frame	 1621 	detect	 truck 	 1 	times
-frame	 1622 	detect	 truck 	 1 	times
-frame	 1623 	detect	 truck 	 1 	times
-frame	 1629 	detect	 truck 	 1 	times
-frame	 1645 	detect	 truck 	 1 	times
-frame	 146 	detect	 bench 	 1 	times
-frame	 147 	detect	 bench 	 1 	times
-frame	 155 	detect	 bench 	 1 	times
-frame	 183 	detect	 bench 	 1 	times
-frame	 185 	detect	 bench 	 1 	times
-frame	 186 	detect	 bench 	 1 	times
-frame	 189 	detect	 bench 	 1 	times
-frame	 191 	detect	 bench 	 1 	times
-frame	 193 	detect	 bench 	 1 	times
-frame	 194 	detect	 bench 	 1 	times
-frame	 196 	detect	 bench 	 1 	times
-frame	 197 	detect	 bench 	 1 	times
-frame	 199 	detect	 bench 	 1 	times
-frame	 203 	detect	 bench 	 1 	times
-frame	 204 	detect	 bench 	 1 	times
-frame	 284 	detect	 bench 	 1 	times
-frame	 285 	detect	 bench 	 1 	times
-frame	 286 	detect	 bench 	 1 	times
-frame	 287 	detect	 bench 	 1 	times
-frame	 288 	detect	 bench 	 1 	times
-frame	 289 	detect	 bench 	 1 	times
-frame	 290 	detect	 bench 	 1 	times
-frame	 292 	detect	 bench 	 1 	times
-frame	 399 	detect	 bench 	 1 	times
-frame	 400 	detect	 bench 	 1 	times
-frame	 404 	detect	 bench 	 1 	times
-frame	 407 	detect	 bench 	 1 	times
-frame	 408 	detect	 bench 	 1 	times
-frame	 409 	detect	 bench 	 1 	times
-frame	 410 	detect	 bench 	 1 	times
-frame	 411 	detect	 bench 	 1 	times
-frame	 412 	detect	 bench 	 1 	times
-frame	 413 	detect	 bench 	 1 	times
-frame	 414 	detect	 bench 	 1 	times
-frame	 415 	detect	 bench 	 1 	times
-frame	 416 	detect	 bench 	 1 	times
-frame	 417 	detect	 bench 	 1 	times
-frame	 418 	detect	 bench 	 1 	times
-frame	 419 	detect	 bench 	 1 	times
-frame	 420 	detect	 bench 	 1 	times
-frame	 421 	detect	 bench 	 1 	times
-frame	 422 	detect	 bench 	 1 	times
-frame	 423 	detect	 bench 	 1 	times
-frame	 424 	detect	 bench 	 1 	times
-frame	 425 	detect	 bench 	 1 	times
-frame	 427 	detect	 bench 	 1 	times
-frame	 428 	detect	 bench 	 1 	times
-frame	 431 	detect	 bench 	 1 	times
-frame	 432 	detect	 bench 	 1 	times
-frame	 433 	detect	 bench 	 1 	times
-frame	 434 	detect	 bench 	 1 	times
-frame	 435 	detect	 bench 	 1 	times
-frame	 1081 	detect	 backpack 	 1 	times
-frame	 1057 	detect	 handbag 	 1 	times
-frame	 1366 	detect	 tvmonitor 	 1 	times
-frame	 1393 	detect	 tvmonitor 	 1 	times
-frame	 1397 	detect	 tvmonitor 	 1 	times
-frame	 1439 	detect	 tvmonitor 	 1 	times
-frame	 1441 	detect	 tvmonitor 	 1 	times
-frame	 1442 	detect	 tvmonitor 	 1 	times
-frame	 1444 	detect	 tvmonitor 	 1 	times
-frame	 1445 	detect	 tvmonitor 	 1 	times
+frame	 1 	 person 	 1 	times
+frame	 2 	 person 	 1 	times
+frame	 3 	 person 	 1 	times
+frame	 4 	 person 	 2 	times
+frame	 5 	 person 	 1 	times
+frame	 6 	 person 	 2 	times
+frame	 7 	 person 	 1 	times
+frame	 8 	 person 	 1 	times
+frame	 9 	 person 	 1 	times
+frame	 10 	 person 	 1 	times
+frame	 11 	 person 	 1 	times
+frame	 12 	 person 	 1 	times
+frame	 13 	 person 	 1 	times
+frame	 14 	 person 	 1 	times
+frame	 15 	 person 	 1 	times
+frame	 16 	 person 	 1 	times
+frame	 17 	 person 	 1 	times
+frame	 18 	 person 	 2 	times
+frame	 19 	 person 	 1 	times
+frame	 20 	 person 	 2 	times
+frame	 21 	 person 	 1 	times
+frame	 22 	 person 	 1 	times
+frame	 23 	 person 	 1 	times
+frame	 24 	 person 	 2 	times
+frame	 25 	 person 	 2 	times
+frame	 26 	 person 	 2 	times
+frame	 27 	 person 	 1 	times
+frame	 28 	 person 	 2 	times
+frame	 29 	 person 	 2 	times
+frame	 30 	 person 	 1 	times
+frame	 31 	 person 	 2 	times
+frame	 32 	 person 	 1 	times
+frame	 33 	 person 	 1 	times
+frame	 34 	 person 	 2 	times
+frame	 35 	 person 	 2 	times
+frame	 36 	 person 	 3 	times
+frame	 37 	 person 	 2 	times
+frame	 38 	 person 	 2 	times
+frame	 39 	 person 	 2 	times
+frame	 41 	 person 	 1 	times
+frame	 42 	 person 	 1 	times
+frame	 43 	 person 	 1 	times
+frame	 48 	 person 	 1 	times
+frame	 54 	 person 	 1 	times
+frame	 78 	 person 	 1 	times
+frame	 79 	 person 	 1 	times
+frame	 80 	 person 	 1 	times
+frame	 84 	 person 	 1 	times
+frame	 85 	 person 	 1 	times
+frame	 86 	 person 	 1 	times
+frame	 90 	 person 	 1 	times
+frame	 96 	 person 	 2 	times
+frame	 97 	 person 	 3 	times
+frame	 98 	 person 	 2 	times
+frame	 99 	 person 	 2 	times
+frame	 100 	 person 	 2 	times
+frame	 102 	 person 	 1 	times
+frame	 103 	 person 	 1 	times
+frame	 107 	 person 	 2 	times
+frame	 108 	 person 	 1 	times
+frame	 109 	 person 	 1 	times
+frame	 110 	 person 	 1 	times
+frame	 112 	 person 	 2 	times
+frame	 113 	 person 	 2 	times
+frame	 114 	 person 	 1 	times
+frame	 115 	 person 	 2 	times
+frame	 116 	 person 	 2 	times
+frame	 117 	 person 	 1 	times
+frame	 118 	 person 	 2 	times
+frame	 119 	 person 	 2 	times
+frame	 120 	 person 	 1 	times
+frame	 121 	 person 	 2 	times
+frame	 122 	 person 	 2 	times
+frame	 123 	 person 	 3 	times
+frame	 124 	 person 	 4 	times
+frame	 125 	 person 	 3 	times
+frame	 126 	 person 	 3 	times
+frame	 127 	 person 	 4 	times
+frame	 128 	 person 	 5 	times
+frame	 129 	 person 	 2 	times
+frame	 130 	 person 	 3 	times
+frame	 131 	 person 	 5 	times
+frame	 132 	 person 	 3 	times
+frame	 133 	 person 	 5 	times
+frame	 134 	 person 	 6 	times
+frame	 135 	 person 	 3 	times
+frame	 136 	 person 	 4 	times
+frame	 137 	 person 	 4 	times
+frame	 138 	 person 	 4 	times
+frame	 139 	 person 	 2 	times
+frame	 140 	 person 	 2 	times
+frame	 141 	 person 	 2 	times
+frame	 170 	 person 	 1 	times
+frame	 142 	 person 	 1 	times
+frame	 171 	 person 	 1 	times
+frame	 173 	 person 	 1 	times
+frame	 174 	 person 	 2 	times
+frame	 181 	 person 	 1 	times
+frame	 183 	 person 	 1 	times
+frame	 176 	 person 	 1 	times
+frame	 187 	 person 	 1 	times
+frame	 188 	 person 	 1 	times
+frame	 189 	 person 	 1 	times
+frame	 190 	 person 	 1 	times
+frame	 191 	 person 	 1 	times
+frame	 192 	 person 	 2 	times
+frame	 193 	 person 	 2 	times
+frame	 194 	 person 	 2 	times
+frame	 195 	 person 	 1 	times
+frame	 196 	 person 	 3 	times
+frame	 197 	 person 	 1 	times
+frame	 198 	 person 	 1 	times
+frame	 199 	 person 	 2 	times
+frame	 200 	 person 	 3 	times
+frame	 201 	 person 	 2 	times
+frame	 202 	 person 	 4 	times
+frame	 203 	 person 	 4 	times
+frame	 204 	 person 	 2 	times
+frame	 205 	 person 	 5 	times
+frame	 206 	 person 	 6 	times
+frame	 207 	 person 	 4 	times
+frame	 208 	 person 	 5 	times
+frame	 209 	 person 	 3 	times
+frame	 210 	 person 	 6 	times
+frame	 211 	 person 	 5 	times
+frame	 212 	 person 	 5 	times
+frame	 213 	 person 	 5 	times
+frame	 214 	 person 	 5 	times
+frame	 215 	 person 	 3 	times
+frame	 216 	 person 	 2 	times
+frame	 217 	 person 	 1 	times
+frame	 218 	 person 	 2 	times
+frame	 219 	 person 	 1 	times
+frame	 220 	 person 	 1 	times
+frame	 221 	 person 	 1 	times
+frame	 222 	 person 	 4 	times
+frame	 223 	 person 	 2 	times
+frame	 224 	 person 	 2 	times
+frame	 225 	 person 	 2 	times
+frame	 226 	 person 	 2 	times
+frame	 227 	 person 	 2 	times
+frame	 228 	 person 	 2 	times
+frame	 229 	 person 	 1 	times
+frame	 230 	 person 	 4 	times
+frame	 231 	 person 	 3 	times
+frame	 232 	 person 	 6 	times
+frame	 233 	 person 	 4 	times
+frame	 234 	 person 	 3 	times
+frame	 235 	 person 	 2 	times
+frame	 236 	 person 	 2 	times
+frame	 237 	 person 	 3 	times
+frame	 238 	 person 	 3 	times
+frame	 239 	 person 	 3 	times
+frame	 240 	 person 	 2 	times
+frame	 241 	 person 	 2 	times
+frame	 242 	 person 	 1 	times
+frame	 243 	 person 	 1 	times
+frame	 244 	 person 	 1 	times
+frame	 245 	 person 	 1 	times
+frame	 246 	 person 	 1 	times
+frame	 247 	 person 	 2 	times
+frame	 248 	 person 	 2 	times
+frame	 249 	 person 	 1 	times
+frame	 250 	 person 	 1 	times
+frame	 251 	 person 	 1 	times
+frame	 252 	 person 	 1 	times
+frame	 255 	 person 	 1 	times
+frame	 256 	 person 	 1 	times
+frame	 258 	 person 	 1 	times
+frame	 259 	 person 	 1 	times
+frame	 260 	 person 	 1 	times
+frame	 261 	 person 	 1 	times
+frame	 262 	 person 	 2 	times
+frame	 263 	 person 	 1 	times
+frame	 264 	 person 	 2 	times
+frame	 265 	 person 	 2 	times
+frame	 266 	 person 	 2 	times
+frame	 267 	 person 	 2 	times
+frame	 268 	 person 	 2 	times
+frame	 269 	 person 	 2 	times
+frame	 270 	 person 	 2 	times
+frame	 271 	 person 	 2 	times
+frame	 272 	 person 	 2 	times
+frame	 273 	 person 	 2 	times
+frame	 274 	 person 	 2 	times
+frame	 275 	 person 	 2 	times
+frame	 276 	 person 	 2 	times
+frame	 277 	 person 	 2 	times
+frame	 278 	 person 	 2 	times
+frame	 279 	 person 	 2 	times
+frame	 280 	 person 	 2 	times
+frame	 281 	 person 	 2 	times
+frame	 282 	 person 	 2 	times
+frame	 283 	 person 	 2 	times
+frame	 284 	 person 	 2 	times
+frame	 285 	 person 	 2 	times
+frame	 286 	 person 	 2 	times
+frame	 287 	 person 	 2 	times
+frame	 288 	 person 	 2 	times
+frame	 289 	 person 	 1 	times
+frame	 290 	 person 	 1 	times
+frame	 293 	 person 	 1 	times
+frame	 295 	 person 	 1 	times
+frame	 296 	 person 	 1 	times
+frame	 303 	 person 	 1 	times
+frame	 304 	 person 	 1 	times
+frame	 305 	 person 	 2 	times
+frame	 306 	 person 	 2 	times
+frame	 307 	 person 	 1 	times
+frame	 308 	 person 	 1 	times
+frame	 309 	 person 	 1 	times
+frame	 310 	 person 	 1 	times
+frame	 311 	 person 	 1 	times
+frame	 312 	 person 	 2 	times
+frame	 313 	 person 	 2 	times
+frame	 314 	 person 	 1 	times
+frame	 315 	 person 	 2 	times
+frame	 316 	 person 	 3 	times
+frame	 317 	 person 	 3 	times
+frame	 318 	 person 	 3 	times
+frame	 319 	 person 	 2 	times
+frame	 320 	 person 	 1 	times
+frame	 321 	 person 	 2 	times
+frame	 324 	 person 	 2 	times
+frame	 325 	 person 	 1 	times
+frame	 326 	 person 	 1 	times
+frame	 327 	 person 	 1 	times
+frame	 328 	 person 	 2 	times
+frame	 329 	 person 	 1 	times
+frame	 330 	 person 	 1 	times
+frame	 331 	 person 	 2 	times
+frame	 332 	 person 	 1 	times
+frame	 333 	 person 	 2 	times
+frame	 334 	 person 	 1 	times
+frame	 335 	 person 	 2 	times
+frame	 336 	 person 	 1 	times
+frame	 337 	 person 	 2 	times
+frame	 338 	 person 	 2 	times
+frame	 339 	 person 	 2 	times
+frame	 340 	 person 	 2 	times
+frame	 342 	 person 	 1 	times
+frame	 343 	 person 	 1 	times
+frame	 344 	 person 	 3 	times
+frame	 345 	 person 	 3 	times
+frame	 346 	 person 	 1 	times
+frame	 347 	 person 	 2 	times
+frame	 348 	 person 	 2 	times
+frame	 349 	 person 	 3 	times
+frame	 350 	 person 	 1 	times
+frame	 355 	 person 	 3 	times
+frame	 356 	 person 	 3 	times
+frame	 357 	 person 	 2 	times
+frame	 358 	 person 	 3 	times
+frame	 359 	 person 	 4 	times
+frame	 360 	 person 	 1 	times
+frame	 361 	 person 	 3 	times
+frame	 362 	 person 	 2 	times
+frame	 363 	 person 	 2 	times
+frame	 364 	 person 	 2 	times
+frame	 365 	 person 	 4 	times
+frame	 366 	 person 	 1 	times
+frame	 367 	 person 	 3 	times
+frame	 368 	 person 	 2 	times
+frame	 369 	 person 	 1 	times
+frame	 370 	 person 	 1 	times
+frame	 371 	 person 	 1 	times
+frame	 372 	 person 	 1 	times
+frame	 373 	 person 	 2 	times
+frame	 374 	 person 	 2 	times
+frame	 375 	 person 	 2 	times
+frame	 376 	 person 	 1 	times
+frame	 377 	 person 	 2 	times
+frame	 378 	 person 	 2 	times
+frame	 379 	 person 	 2 	times
+frame	 380 	 person 	 2 	times
+frame	 381 	 person 	 2 	times
+frame	 382 	 person 	 1 	times
+frame	 383 	 person 	 2 	times
+frame	 384 	 person 	 1 	times
+frame	 385 	 person 	 2 	times
+frame	 386 	 person 	 2 	times
+frame	 387 	 person 	 2 	times
+frame	 389 	 person 	 1 	times
+frame	 390 	 person 	 1 	times
+frame	 391 	 person 	 1 	times
+frame	 392 	 person 	 1 	times
+frame	 393 	 person 	 1 	times
+frame	 395 	 person 	 1 	times
+frame	 396 	 person 	 2 	times
+frame	 397 	 person 	 1 	times
+frame	 398 	 person 	 1 	times
+frame	 399 	 person 	 1 	times
+frame	 400 	 person 	 1 	times
+frame	 401 	 person 	 1 	times
+frame	 402 	 person 	 1 	times
+frame	 403 	 person 	 1 	times
+frame	 404 	 person 	 1 	times
+frame	 405 	 person 	 1 	times
+frame	 406 	 person 	 2 	times
+frame	 407 	 person 	 2 	times
+frame	 408 	 person 	 2 	times
+frame	 409 	 person 	 2 	times
+frame	 410 	 person 	 1 	times
+frame	 411 	 person 	 2 	times
+frame	 412 	 person 	 1 	times
+frame	 413 	 person 	 3 	times
+frame	 414 	 person 	 2 	times
+frame	 415 	 person 	 2 	times
+frame	 416 	 person 	 2 	times
+frame	 417 	 person 	 2 	times
+frame	 420 	 person 	 1 	times
+frame	 421 	 person 	 1 	times
+frame	 418 	 person 	 1 	times
+frame	 422 	 person 	 4 	times
+frame	 423 	 person 	 3 	times
+frame	 424 	 person 	 4 	times
+frame	 425 	 person 	 3 	times
+frame	 426 	 person 	 4 	times
+frame	 427 	 person 	 3 	times
+frame	 428 	 person 	 3 	times
+frame	 429 	 person 	 2 	times
+frame	 430 	 person 	 2 	times
+frame	 431 	 person 	 2 	times
+frame	 432 	 person 	 2 	times
+frame	 433 	 person 	 3 	times
+frame	 434 	 person 	 3 	times
+frame	 435 	 person 	 1 	times
+frame	 436 	 person 	 1 	times
+frame	 437 	 person 	 2 	times
+frame	 438 	 person 	 2 	times
+frame	 439 	 person 	 2 	times
+frame	 440 	 person 	 3 	times
+frame	 441 	 person 	 1 	times
+frame	 442 	 person 	 1 	times
+frame	 443 	 person 	 2 	times
+frame	 444 	 person 	 1 	times
+frame	 445 	 person 	 1 	times
+frame	 446 	 person 	 2 	times
+frame	 447 	 person 	 3 	times
+frame	 448 	 person 	 1 	times
+frame	 449 	 person 	 1 	times
+frame	 450 	 person 	 2 	times
+frame	 451 	 person 	 3 	times
+frame	 452 	 person 	 3 	times
+frame	 453 	 person 	 2 	times
+frame	 454 	 person 	 4 	times
+frame	 455 	 person 	 5 	times
+frame	 456 	 person 	 4 	times
+frame	 457 	 person 	 2 	times
+frame	 458 	 person 	 2 	times
+frame	 459 	 person 	 3 	times
+frame	 460 	 person 	 2 	times
+frame	 461 	 person 	 2 	times
+frame	 462 	 person 	 3 	times
+frame	 463 	 person 	 3 	times
+frame	 464 	 person 	 3 	times
+frame	 465 	 person 	 2 	times
+frame	 466 	 person 	 3 	times
+frame	 467 	 person 	 2 	times
+frame	 468 	 person 	 1 	times
+frame	 469 	 person 	 3 	times
+frame	 470 	 person 	 3 	times
+frame	 471 	 person 	 3 	times
+frame	 472 	 person 	 3 	times
+frame	 473 	 person 	 5 	times
+frame	 474 	 person 	 3 	times
+frame	 475 	 person 	 2 	times
+frame	 476 	 person 	 3 	times
+frame	 477 	 person 	 5 	times
+frame	 478 	 person 	 1 	times
+frame	 479 	 person 	 2 	times
+frame	 480 	 person 	 3 	times
+frame	 481 	 person 	 3 	times
+frame	 482 	 person 	 3 	times
+frame	 483 	 person 	 3 	times
+frame	 484 	 person 	 2 	times
+frame	 485 	 person 	 2 	times
+frame	 486 	 person 	 2 	times
+frame	 487 	 person 	 1 	times
+frame	 488 	 person 	 1 	times
+frame	 489 	 person 	 2 	times
+frame	 491 	 person 	 1 	times
+frame	 492 	 person 	 1 	times
+frame	 493 	 person 	 1 	times
+frame	 494 	 person 	 3 	times
+frame	 495 	 person 	 2 	times
+frame	 496 	 person 	 2 	times
+frame	 497 	 person 	 2 	times
+frame	 498 	 person 	 2 	times
+frame	 499 	 person 	 2 	times
+frame	 500 	 person 	 1 	times
+frame	 501 	 person 	 1 	times
+frame	 502 	 person 	 1 	times
+frame	 503 	 person 	 1 	times
+frame	 504 	 person 	 2 	times
+frame	 505 	 person 	 1 	times
+frame	 506 	 person 	 3 	times
+frame	 507 	 person 	 2 	times
+frame	 508 	 person 	 2 	times
+frame	 509 	 person 	 2 	times
+frame	 510 	 person 	 1 	times
+frame	 511 	 person 	 1 	times
+frame	 512 	 person 	 1 	times
+frame	 513 	 person 	 1 	times
+frame	 515 	 person 	 1 	times
+frame	 521 	 person 	 1 	times
+frame	 522 	 person 	 2 	times
+frame	 523 	 person 	 1 	times
+frame	 524 	 person 	 3 	times
+frame	 525 	 person 	 2 	times
+frame	 526 	 person 	 2 	times
+frame	 527 	 person 	 2 	times
+frame	 528 	 person 	 2 	times
+frame	 529 	 person 	 1 	times
+frame	 530 	 person 	 3 	times
+frame	 531 	 person 	 4 	times
+frame	 532 	 person 	 2 	times
+frame	 533 	 person 	 1 	times
+frame	 535 	 person 	 2 	times
+frame	 536 	 person 	 2 	times
+frame	 538 	 person 	 1 	times
+frame	 539 	 person 	 1 	times
+frame	 540 	 person 	 1 	times
+frame	 541 	 person 	 2 	times
+frame	 542 	 person 	 1 	times
+frame	 543 	 person 	 2 	times
+frame	 546 	 person 	 1 	times
+frame	 548 	 person 	 2 	times
+frame	 550 	 person 	 1 	times
+frame	 551 	 person 	 1 	times
+frame	 556 	 person 	 1 	times
+frame	 561 	 person 	 1 	times
+frame	 564 	 person 	 2 	times
+frame	 567 	 person 	 1 	times
+frame	 568 	 person 	 3 	times
+frame	 569 	 person 	 1 	times
+frame	 570 	 person 	 2 	times
+frame	 571 	 person 	 1 	times
+frame	 572 	 person 	 2 	times
+frame	 573 	 person 	 1 	times
+frame	 574 	 person 	 1 	times
+frame	 576 	 person 	 1 	times
+frame	 577 	 person 	 1 	times
+frame	 578 	 person 	 1 	times
+frame	 579 	 person 	 1 	times
+frame	 580 	 person 	 1 	times
+frame	 581 	 person 	 1 	times
+frame	 582 	 person 	 1 	times
+frame	 584 	 person 	 1 	times
+frame	 586 	 person 	 1 	times
+frame	 591 	 person 	 1 	times
+frame	 592 	 person 	 1 	times
+frame	 597 	 person 	 1 	times
+frame	 602 	 person 	 1 	times
+frame	 599 	 person 	 1 	times
+frame	 603 	 person 	 1 	times
+frame	 604 	 person 	 2 	times
+frame	 605 	 person 	 2 	times
+frame	 606 	 person 	 1 	times
+frame	 607 	 person 	 1 	times
+frame	 609 	 person 	 3 	times
+frame	 610 	 person 	 3 	times
+frame	 611 	 person 	 2 	times
+frame	 613 	 person 	 2 	times
+frame	 614 	 person 	 1 	times
+frame	 616 	 person 	 2 	times
+frame	 617 	 person 	 1 	times
+frame	 618 	 person 	 2 	times
+frame	 619 	 person 	 1 	times
+frame	 620 	 person 	 1 	times
+frame	 621 	 person 	 1 	times
+frame	 622 	 person 	 1 	times
+frame	 623 	 person 	 1 	times
+frame	 624 	 person 	 1 	times
+frame	 625 	 person 	 1 	times
+frame	 626 	 person 	 2 	times
+frame	 629 	 person 	 1 	times
+frame	 634 	 person 	 1 	times
+frame	 630 	 person 	 1 	times
+frame	 641 	 person 	 1 	times
+frame	 642 	 person 	 1 	times
+frame	 842 	 person 	 1 	times
+frame	 647 	 person 	 1 	times
+frame	 884 	 person 	 1 	times
+frame	 897 	 person 	 1 	times
+frame	 903 	 person 	 1 	times
+frame	 913 	 person 	 1 	times
+frame	 914 	 person 	 1 	times
+frame	 923 	 person 	 1 	times
+frame	 924 	 person 	 1 	times
+frame	 947 	 person 	 1 	times
+frame	 933 	 person 	 1 	times
+frame	 1030 	 person 	 1 	times
+frame	 1031 	 person 	 1 	times
+frame	 1032 	 person 	 1 	times
+frame	 1033 	 person 	 2 	times
+frame	 1034 	 person 	 1 	times
+frame	 1035 	 person 	 2 	times
+frame	 1036 	 person 	 1 	times
+frame	 1037 	 person 	 1 	times
+frame	 1038 	 person 	 2 	times
+frame	 1039 	 person 	 1 	times
+frame	 1040 	 person 	 1 	times
+frame	 1042 	 person 	 1 	times
+frame	 1043 	 person 	 2 	times
+frame	 1044 	 person 	 2 	times
+frame	 1045 	 person 	 1 	times
+frame	 1046 	 person 	 2 	times
+frame	 1047 	 person 	 2 	times
+frame	 1048 	 person 	 2 	times
+frame	 1049 	 person 	 2 	times
+frame	 1050 	 person 	 2 	times
+frame	 1051 	 person 	 2 	times
+frame	 1052 	 person 	 2 	times
+frame	 1053 	 person 	 2 	times
+frame	 1054 	 person 	 2 	times
+frame	 1055 	 person 	 2 	times
+frame	 1056 	 person 	 2 	times
+frame	 1057 	 person 	 2 	times
+frame	 1058 	 person 	 2 	times
+frame	 1059 	 person 	 2 	times
+frame	 1060 	 person 	 2 	times
+frame	 1061 	 person 	 2 	times
+frame	 1062 	 person 	 2 	times
+frame	 1063 	 person 	 1 	times
+frame	 1064 	 person 	 2 	times
+frame	 1065 	 person 	 1 	times
+frame	 1066 	 person 	 2 	times
+frame	 1067 	 person 	 2 	times
+frame	 1068 	 person 	 2 	times
+frame	 1069 	 person 	 2 	times
+frame	 1070 	 person 	 2 	times
+frame	 1071 	 person 	 2 	times
+frame	 1072 	 person 	 2 	times
+frame	 1073 	 person 	 2 	times
+frame	 1074 	 person 	 2 	times
+frame	 1075 	 person 	 2 	times
+frame	 1076 	 person 	 2 	times
+frame	 1077 	 person 	 2 	times
+frame	 1078 	 person 	 2 	times
+frame	 1079 	 person 	 2 	times
+frame	 1080 	 person 	 2 	times
+frame	 1081 	 person 	 2 	times
+frame	 1082 	 person 	 2 	times
+frame	 1083 	 person 	 2 	times
+frame	 1084 	 person 	 2 	times
+frame	 1085 	 person 	 2 	times
+frame	 1086 	 person 	 2 	times
+frame	 1087 	 person 	 2 	times
+frame	 1088 	 person 	 2 	times
+frame	 1089 	 person 	 2 	times
+frame	 1090 	 person 	 2 	times
+frame	 1091 	 person 	 2 	times
+frame	 1092 	 person 	 2 	times
+frame	 1093 	 person 	 2 	times
+frame	 1094 	 person 	 2 	times
+frame	 1095 	 person 	 2 	times
+frame	 1096 	 person 	 1 	times
+frame	 1097 	 person 	 1 	times
+frame	 1098 	 person 	 1 	times
+frame	 1099 	 person 	 1 	times
+frame	 1100 	 person 	 1 	times
+frame	 1102 	 person 	 1 	times
+frame	 1106 	 person 	 1 	times
+frame	 1104 	 person 	 1 	times
+frame	 1467 	 person 	 1 	times
+frame	 1502 	 person 	 1 	times
+frame	 1545 	 person 	 1 	times
+frame	 1549 	 person 	 1 	times
+frame	 1557 	 person 	 1 	times
+frame	 1562 	 person 	 1 	times
+frame	 1582 	 person 	 1 	times
+frame	 1620 	 person 	 1 	times
+frame	 1623 	 person 	 1 	times
+frame	 1610 	 person 	 1 	times
+frame	 1634 	 person 	 1 	times
+frame	 311 	 bicycle 	 1 	times
+frame	 312 	 bicycle 	 1 	times
+frame	 316 	 bicycle 	 1 	times
+frame	 317 	 bicycle 	 1 	times
+frame	 324 	 bicycle 	 1 	times
+frame	 332 	 bicycle 	 1 	times
+frame	 333 	 bicycle 	 1 	times
+frame	 334 	 bicycle 	 1 	times
+frame	 335 	 bicycle 	 1 	times
+frame	 336 	 bicycle 	 1 	times
+frame	 337 	 bicycle 	 1 	times
+frame	 340 	 bicycle 	 1 	times
+frame	 342 	 bicycle 	 1 	times
+frame	 355 	 bicycle 	 1 	times
+frame	 356 	 bicycle 	 1 	times
+frame	 358 	 bicycle 	 1 	times
+frame	 359 	 bicycle 	 2 	times
+frame	 360 	 bicycle 	 2 	times
+frame	 361 	 bicycle 	 1 	times
+frame	 362 	 bicycle 	 1 	times
+frame	 363 	 bicycle 	 1 	times
+frame	 371 	 bicycle 	 1 	times
+frame	 374 	 bicycle 	 1 	times
+frame	 375 	 bicycle 	 1 	times
+frame	 382 	 bicycle 	 1 	times
+frame	 401 	 bicycle 	 1 	times
+frame	 402 	 bicycle 	 1 	times
+frame	 409 	 bicycle 	 1 	times
+frame	 421 	 bicycle 	 1 	times
+frame	 422 	 bicycle 	 1 	times
+frame	 423 	 bicycle 	 1 	times
+frame	 424 	 bicycle 	 1 	times
+frame	 444 	 bicycle 	 1 	times
+frame	 445 	 bicycle 	 1 	times
+frame	 447 	 bicycle 	 1 	times
+frame	 462 	 bicycle 	 1 	times
+frame	 1 	 car 	 5 	times
+frame	 2 	 car 	 4 	times
+frame	 3 	 car 	 4 	times
+frame	 4 	 car 	 4 	times
+frame	 5 	 car 	 4 	times
+frame	 6 	 car 	 4 	times
+frame	 7 	 car 	 4 	times
+frame	 8 	 car 	 4 	times
+frame	 9 	 car 	 3 	times
+frame	 10 	 car 	 3 	times
+frame	 11 	 car 	 4 	times
+frame	 12 	 car 	 3 	times
+frame	 13 	 car 	 5 	times
+frame	 14 	 car 	 4 	times
+frame	 15 	 car 	 4 	times
+frame	 16 	 car 	 4 	times
+frame	 17 	 car 	 4 	times
+frame	 18 	 car 	 5 	times
+frame	 19 	 car 	 4 	times
+frame	 20 	 car 	 4 	times
+frame	 21 	 car 	 3 	times
+frame	 22 	 car 	 4 	times
+frame	 23 	 car 	 4 	times
+frame	 24 	 car 	 4 	times
+frame	 25 	 car 	 5 	times
+frame	 26 	 car 	 4 	times
+frame	 27 	 car 	 3 	times
+frame	 28 	 car 	 4 	times
+frame	 29 	 car 	 4 	times
+frame	 30 	 car 	 4 	times
+frame	 31 	 car 	 4 	times
+frame	 32 	 car 	 4 	times
+frame	 33 	 car 	 3 	times
+frame	 34 	 car 	 3 	times
+frame	 35 	 car 	 3 	times
+frame	 36 	 car 	 4 	times
+frame	 37 	 car 	 5 	times
+frame	 38 	 car 	 3 	times
+frame	 39 	 car 	 3 	times
+frame	 40 	 car 	 3 	times
+frame	 41 	 car 	 4 	times
+frame	 42 	 car 	 3 	times
+frame	 43 	 car 	 4 	times
+frame	 44 	 car 	 4 	times
+frame	 45 	 car 	 4 	times
+frame	 46 	 car 	 3 	times
+frame	 47 	 car 	 4 	times
+frame	 48 	 car 	 6 	times
+frame	 49 	 car 	 5 	times
+frame	 50 	 car 	 3 	times
+frame	 51 	 car 	 4 	times
+frame	 52 	 car 	 4 	times
+frame	 53 	 car 	 4 	times
+frame	 54 	 car 	 4 	times
+frame	 55 	 car 	 5 	times
+frame	 56 	 car 	 3 	times
+frame	 57 	 car 	 3 	times
+frame	 58 	 car 	 3 	times
+frame	 59 	 car 	 3 	times
+frame	 60 	 car 	 3 	times
+frame	 61 	 car 	 3 	times
+frame	 62 	 car 	 3 	times
+frame	 63 	 car 	 2 	times
+frame	 64 	 car 	 2 	times
+frame	 65 	 car 	 2 	times
+frame	 66 	 car 	 4 	times
+frame	 67 	 car 	 3 	times
+frame	 68 	 car 	 3 	times
+frame	 69 	 car 	 2 	times
+frame	 70 	 car 	 2 	times
+frame	 71 	 car 	 3 	times
+frame	 72 	 car 	 3 	times
+frame	 73 	 car 	 3 	times
+frame	 74 	 car 	 3 	times
+frame	 75 	 car 	 3 	times
+frame	 76 	 car 	 3 	times
+frame	 77 	 car 	 3 	times
+frame	 78 	 car 	 3 	times
+frame	 79 	 car 	 4 	times
+frame	 80 	 car 	 3 	times
+frame	 81 	 car 	 4 	times
+frame	 82 	 car 	 4 	times
+frame	 83 	 car 	 4 	times
+frame	 84 	 car 	 3 	times
+frame	 85 	 car 	 3 	times
+frame	 86 	 car 	 3 	times
+frame	 87 	 car 	 3 	times
+frame	 88 	 car 	 3 	times
+frame	 89 	 car 	 4 	times
+frame	 90 	 car 	 4 	times
+frame	 91 	 car 	 4 	times
+frame	 92 	 car 	 4 	times
+frame	 93 	 car 	 4 	times
+frame	 94 	 car 	 4 	times
+frame	 95 	 car 	 3 	times
+frame	 96 	 car 	 3 	times
+frame	 97 	 car 	 3 	times
+frame	 98 	 car 	 3 	times
+frame	 99 	 car 	 4 	times
+frame	 100 	 car 	 4 	times
+frame	 101 	 car 	 4 	times
+frame	 102 	 car 	 4 	times
+frame	 103 	 car 	 4 	times
+frame	 104 	 car 	 4 	times
+frame	 105 	 car 	 4 	times
+frame	 106 	 car 	 3 	times
+frame	 107 	 car 	 3 	times
+frame	 108 	 car 	 3 	times
+frame	 109 	 car 	 3 	times
+frame	 110 	 car 	 4 	times
+frame	 111 	 car 	 4 	times
+frame	 112 	 car 	 3 	times
+frame	 113 	 car 	 4 	times
+frame	 114 	 car 	 3 	times
+frame	 115 	 car 	 3 	times
+frame	 116 	 car 	 4 	times
+frame	 117 	 car 	 4 	times
+frame	 118 	 car 	 3 	times
+frame	 119 	 car 	 4 	times
+frame	 120 	 car 	 2 	times
+frame	 121 	 car 	 2 	times
+frame	 122 	 car 	 3 	times
+frame	 123 	 car 	 2 	times
+frame	 124 	 car 	 2 	times
+frame	 125 	 car 	 2 	times
+frame	 126 	 car 	 2 	times
+frame	 127 	 car 	 2 	times
+frame	 128 	 car 	 2 	times
+frame	 129 	 car 	 2 	times
+frame	 130 	 car 	 2 	times
+frame	 131 	 car 	 2 	times
+frame	 132 	 car 	 2 	times
+frame	 133 	 car 	 2 	times
+frame	 134 	 car 	 2 	times
+frame	 135 	 car 	 2 	times
+frame	 136 	 car 	 2 	times
+frame	 137 	 car 	 2 	times
+frame	 138 	 car 	 2 	times
+frame	 139 	 car 	 2 	times
+frame	 140 	 car 	 2 	times
+frame	 141 	 car 	 2 	times
+frame	 142 	 car 	 2 	times
+frame	 143 	 car 	 2 	times
+frame	 144 	 car 	 2 	times
+frame	 145 	 car 	 2 	times
+frame	 146 	 car 	 2 	times
+frame	 147 	 car 	 2 	times
+frame	 148 	 car 	 2 	times
+frame	 149 	 car 	 3 	times
+frame	 150 	 car 	 3 	times
+frame	 151 	 car 	 2 	times
+frame	 152 	 car 	 2 	times
+frame	 153 	 car 	 2 	times
+frame	 154 	 car 	 2 	times
+frame	 155 	 car 	 2 	times
+frame	 156 	 car 	 2 	times
+frame	 157 	 car 	 2 	times
+frame	 158 	 car 	 2 	times
+frame	 159 	 car 	 2 	times
+frame	 160 	 car 	 3 	times
+frame	 161 	 car 	 2 	times
+frame	 162 	 car 	 3 	times
+frame	 163 	 car 	 3 	times
+frame	 164 	 car 	 3 	times
+frame	 165 	 car 	 3 	times
+frame	 166 	 car 	 2 	times
+frame	 167 	 car 	 3 	times
+frame	 168 	 car 	 3 	times
+frame	 169 	 car 	 4 	times
+frame	 170 	 car 	 4 	times
+frame	 171 	 car 	 3 	times
+frame	 172 	 car 	 2 	times
+frame	 173 	 car 	 2 	times
+frame	 174 	 car 	 2 	times
+frame	 175 	 car 	 3 	times
+frame	 176 	 car 	 5 	times
+frame	 177 	 car 	 3 	times
+frame	 178 	 car 	 4 	times
+frame	 179 	 car 	 4 	times
+frame	 180 	 car 	 4 	times
+frame	 181 	 car 	 5 	times
+frame	 182 	 car 	 3 	times
+frame	 183 	 car 	 3 	times
+frame	 184 	 car 	 4 	times
+frame	 185 	 car 	 3 	times
+frame	 186 	 car 	 3 	times
+frame	 187 	 car 	 2 	times
+frame	 188 	 car 	 3 	times
+frame	 189 	 car 	 3 	times
+frame	 190 	 car 	 3 	times
+frame	 191 	 car 	 3 	times
+frame	 192 	 car 	 4 	times
+frame	 193 	 car 	 3 	times
+frame	 194 	 car 	 2 	times
+frame	 195 	 car 	 2 	times
+frame	 196 	 car 	 2 	times
+frame	 197 	 car 	 3 	times
+frame	 198 	 car 	 3 	times
+frame	 199 	 car 	 3 	times
+frame	 200 	 car 	 3 	times
+frame	 201 	 car 	 2 	times
+frame	 202 	 car 	 3 	times
+frame	 203 	 car 	 2 	times
+frame	 204 	 car 	 2 	times
+frame	 205 	 car 	 2 	times
+frame	 206 	 car 	 2 	times
+frame	 207 	 car 	 2 	times
+frame	 208 	 car 	 2 	times
+frame	 209 	 car 	 2 	times
+frame	 210 	 car 	 2 	times
+frame	 211 	 car 	 2 	times
+frame	 212 	 car 	 2 	times
+frame	 213 	 car 	 2 	times
+frame	 214 	 car 	 2 	times
+frame	 215 	 car 	 2 	times
+frame	 216 	 car 	 3 	times
+frame	 217 	 car 	 2 	times
+frame	 218 	 car 	 2 	times
+frame	 219 	 car 	 2 	times
+frame	 220 	 car 	 2 	times
+frame	 221 	 car 	 1 	times
+frame	 222 	 car 	 2 	times
+frame	 223 	 car 	 2 	times
+frame	 224 	 car 	 1 	times
+frame	 225 	 car 	 1 	times
+frame	 226 	 car 	 1 	times
+frame	 227 	 car 	 2 	times
+frame	 228 	 car 	 2 	times
+frame	 229 	 car 	 2 	times
+frame	 230 	 car 	 2 	times
+frame	 231 	 car 	 2 	times
+frame	 232 	 car 	 1 	times
+frame	 233 	 car 	 1 	times
+frame	 234 	 car 	 2 	times
+frame	 235 	 car 	 2 	times
+frame	 236 	 car 	 2 	times
+frame	 237 	 car 	 2 	times
+frame	 238 	 car 	 2 	times
+frame	 239 	 car 	 2 	times
+frame	 240 	 car 	 2 	times
+frame	 241 	 car 	 2 	times
+frame	 242 	 car 	 2 	times
+frame	 243 	 car 	 2 	times
+frame	 244 	 car 	 2 	times
+frame	 245 	 car 	 3 	times
+frame	 246 	 car 	 2 	times
+frame	 247 	 car 	 2 	times
+frame	 248 	 car 	 3 	times
+frame	 249 	 car 	 3 	times
+frame	 250 	 car 	 2 	times
+frame	 251 	 car 	 3 	times
+frame	 252 	 car 	 3 	times
+frame	 253 	 car 	 3 	times
+frame	 254 	 car 	 2 	times
+frame	 255 	 car 	 3 	times
+frame	 256 	 car 	 2 	times
+frame	 257 	 car 	 2 	times
+frame	 258 	 car 	 3 	times
+frame	 259 	 car 	 2 	times
+frame	 260 	 car 	 2 	times
+frame	 261 	 car 	 2 	times
+frame	 262 	 car 	 2 	times
+frame	 263 	 car 	 2 	times
+frame	 264 	 car 	 2 	times
+frame	 265 	 car 	 2 	times
+frame	 266 	 car 	 2 	times
+frame	 267 	 car 	 2 	times
+frame	 268 	 car 	 2 	times
+frame	 269 	 car 	 2 	times
+frame	 270 	 car 	 2 	times
+frame	 271 	 car 	 2 	times
+frame	 272 	 car 	 2 	times
+frame	 273 	 car 	 2 	times
+frame	 274 	 car 	 2 	times
+frame	 275 	 car 	 2 	times
+frame	 276 	 car 	 2 	times
+frame	 277 	 car 	 2 	times
+frame	 278 	 car 	 2 	times
+frame	 279 	 car 	 2 	times
+frame	 280 	 car 	 1 	times
+frame	 281 	 car 	 2 	times
+frame	 282 	 car 	 1 	times
+frame	 283 	 car 	 1 	times
+frame	 284 	 car 	 1 	times
+frame	 285 	 car 	 1 	times
+frame	 286 	 car 	 1 	times
+frame	 287 	 car 	 1 	times
+frame	 288 	 car 	 1 	times
+frame	 289 	 car 	 1 	times
+frame	 290 	 car 	 1 	times
+frame	 291 	 car 	 1 	times
+frame	 292 	 car 	 1 	times
+frame	 293 	 car 	 1 	times
+frame	 294 	 car 	 1 	times
+frame	 295 	 car 	 1 	times
+frame	 296 	 car 	 1 	times
+frame	 297 	 car 	 1 	times
+frame	 298 	 car 	 1 	times
+frame	 299 	 car 	 1 	times
+frame	 300 	 car 	 1 	times
+frame	 301 	 car 	 1 	times
+frame	 302 	 car 	 1 	times
+frame	 303 	 car 	 1 	times
+frame	 304 	 car 	 1 	times
+frame	 305 	 car 	 1 	times
+frame	 306 	 car 	 1 	times
+frame	 307 	 car 	 1 	times
+frame	 308 	 car 	 1 	times
+frame	 309 	 car 	 1 	times
+frame	 310 	 car 	 1 	times
+frame	 311 	 car 	 1 	times
+frame	 312 	 car 	 1 	times
+frame	 313 	 car 	 1 	times
+frame	 314 	 car 	 1 	times
+frame	 315 	 car 	 1 	times
+frame	 316 	 car 	 1 	times
+frame	 317 	 car 	 1 	times
+frame	 318 	 car 	 1 	times
+frame	 319 	 car 	 1 	times
+frame	 320 	 car 	 1 	times
+frame	 321 	 car 	 1 	times
+frame	 322 	 car 	 1 	times
+frame	 323 	 car 	 1 	times
+frame	 324 	 car 	 1 	times
+frame	 325 	 car 	 1 	times
+frame	 326 	 car 	 1 	times
+frame	 327 	 car 	 1 	times
+frame	 328 	 car 	 1 	times
+frame	 329 	 car 	 1 	times
+frame	 330 	 car 	 1 	times
+frame	 331 	 car 	 1 	times
+frame	 332 	 car 	 1 	times
+frame	 333 	 car 	 1 	times
+frame	 334 	 car 	 1 	times
+frame	 335 	 car 	 1 	times
+frame	 336 	 car 	 1 	times
+frame	 337 	 car 	 1 	times
+frame	 338 	 car 	 1 	times
+frame	 339 	 car 	 1 	times
+frame	 340 	 car 	 1 	times
+frame	 341 	 car 	 1 	times
+frame	 342 	 car 	 1 	times
+frame	 343 	 car 	 1 	times
+frame	 344 	 car 	 1 	times
+frame	 345 	 car 	 1 	times
+frame	 346 	 car 	 1 	times
+frame	 347 	 car 	 1 	times
+frame	 348 	 car 	 1 	times
+frame	 350 	 car 	 1 	times
+frame	 351 	 car 	 1 	times
+frame	 352 	 car 	 1 	times
+frame	 353 	 car 	 2 	times
+frame	 354 	 car 	 1 	times
+frame	 371 	 car 	 1 	times
+frame	 372 	 car 	 1 	times
+frame	 373 	 car 	 1 	times
+frame	 374 	 car 	 1 	times
+frame	 375 	 car 	 1 	times
+frame	 376 	 car 	 1 	times
+frame	 377 	 car 	 2 	times
+frame	 378 	 car 	 1 	times
+frame	 379 	 car 	 1 	times
+frame	 380 	 car 	 2 	times
+frame	 381 	 car 	 1 	times
+frame	 382 	 car 	 2 	times
+frame	 383 	 car 	 1 	times
+frame	 384 	 car 	 1 	times
+frame	 385 	 car 	 1 	times
+frame	 386 	 car 	 1 	times
+frame	 387 	 car 	 1 	times
+frame	 388 	 car 	 1 	times
+frame	 389 	 car 	 1 	times
+frame	 390 	 car 	 1 	times
+frame	 391 	 car 	 1 	times
+frame	 392 	 car 	 1 	times
+frame	 393 	 car 	 1 	times
+frame	 394 	 car 	 1 	times
+frame	 395 	 car 	 1 	times
+frame	 396 	 car 	 1 	times
+frame	 397 	 car 	 1 	times
+frame	 398 	 car 	 1 	times
+frame	 399 	 car 	 1 	times
+frame	 400 	 car 	 1 	times
+frame	 401 	 car 	 1 	times
+frame	 402 	 car 	 1 	times
+frame	 403 	 car 	 1 	times
+frame	 404 	 car 	 1 	times
+frame	 405 	 car 	 1 	times
+frame	 406 	 car 	 1 	times
+frame	 407 	 car 	 1 	times
+frame	 408 	 car 	 1 	times
+frame	 409 	 car 	 1 	times
+frame	 410 	 car 	 1 	times
+frame	 411 	 car 	 1 	times
+frame	 412 	 car 	 1 	times
+frame	 413 	 car 	 1 	times
+frame	 414 	 car 	 1 	times
+frame	 415 	 car 	 2 	times
+frame	 416 	 car 	 3 	times
+frame	 417 	 car 	 2 	times
+frame	 418 	 car 	 2 	times
+frame	 419 	 car 	 2 	times
+frame	 420 	 car 	 2 	times
+frame	 421 	 car 	 1 	times
+frame	 422 	 car 	 1 	times
+frame	 425 	 car 	 1 	times
+frame	 427 	 car 	 1 	times
+frame	 426 	 car 	 1 	times
+frame	 428 	 car 	 1 	times
+frame	 429 	 car 	 2 	times
+frame	 430 	 car 	 1 	times
+frame	 431 	 car 	 2 	times
+frame	 432 	 car 	 1 	times
+frame	 433 	 car 	 1 	times
+frame	 434 	 car 	 1 	times
+frame	 435 	 car 	 2 	times
+frame	 436 	 car 	 1 	times
+frame	 439 	 car 	 1 	times
+frame	 441 	 car 	 1 	times
+frame	 443 	 car 	 1 	times
+frame	 446 	 car 	 1 	times
+frame	 447 	 car 	 1 	times
+frame	 444 	 car 	 1 	times
+frame	 449 	 car 	 1 	times
+frame	 450 	 car 	 1 	times
+frame	 452 	 car 	 1 	times
+frame	 453 	 car 	 1 	times
+frame	 454 	 car 	 1 	times
+frame	 455 	 car 	 1 	times
+frame	 457 	 car 	 1 	times
+frame	 459 	 car 	 1 	times
+frame	 460 	 car 	 1 	times
+frame	 461 	 car 	 1 	times
+frame	 462 	 car 	 1 	times
+frame	 463 	 car 	 1 	times
+frame	 464 	 car 	 1 	times
+frame	 465 	 car 	 1 	times
+frame	 466 	 car 	 1 	times
+frame	 467 	 car 	 1 	times
+frame	 468 	 car 	 1 	times
+frame	 469 	 car 	 2 	times
+frame	 470 	 car 	 2 	times
+frame	 471 	 car 	 1 	times
+frame	 472 	 car 	 1 	times
+frame	 473 	 car 	 1 	times
+frame	 474 	 car 	 2 	times
+frame	 475 	 car 	 2 	times
+frame	 476 	 car 	 1 	times
+frame	 477 	 car 	 2 	times
+frame	 478 	 car 	 1 	times
+frame	 479 	 car 	 2 	times
+frame	 480 	 car 	 1 	times
+frame	 481 	 car 	 2 	times
+frame	 482 	 car 	 1 	times
+frame	 483 	 car 	 1 	times
+frame	 484 	 car 	 1 	times
+frame	 485 	 car 	 1 	times
+frame	 486 	 car 	 1 	times
+frame	 487 	 car 	 2 	times
+frame	 488 	 car 	 1 	times
+frame	 489 	 car 	 1 	times
+frame	 490 	 car 	 1 	times
+frame	 491 	 car 	 1 	times
+frame	 492 	 car 	 1 	times
+frame	 493 	 car 	 1 	times
+frame	 494 	 car 	 1 	times
+frame	 495 	 car 	 1 	times
+frame	 496 	 car 	 2 	times
+frame	 497 	 car 	 2 	times
+frame	 498 	 car 	 1 	times
+frame	 499 	 car 	 1 	times
+frame	 500 	 car 	 1 	times
+frame	 501 	 car 	 1 	times
+frame	 502 	 car 	 1 	times
+frame	 503 	 car 	 1 	times
+frame	 504 	 car 	 2 	times
+frame	 505 	 car 	 1 	times
+frame	 506 	 car 	 1 	times
+frame	 507 	 car 	 2 	times
+frame	 508 	 car 	 1 	times
+frame	 509 	 car 	 1 	times
+frame	 510 	 car 	 2 	times
+frame	 511 	 car 	 1 	times
+frame	 512 	 car 	 1 	times
+frame	 513 	 car 	 2 	times
+frame	 514 	 car 	 1 	times
+frame	 515 	 car 	 2 	times
+frame	 516 	 car 	 2 	times
+frame	 517 	 car 	 1 	times
+frame	 518 	 car 	 1 	times
+frame	 519 	 car 	 1 	times
+frame	 520 	 car 	 1 	times
+frame	 521 	 car 	 1 	times
+frame	 522 	 car 	 1 	times
+frame	 523 	 car 	 1 	times
+frame	 524 	 car 	 1 	times
+frame	 525 	 car 	 2 	times
+frame	 526 	 car 	 1 	times
+frame	 527 	 car 	 2 	times
+frame	 528 	 car 	 1 	times
+frame	 529 	 car 	 2 	times
+frame	 530 	 car 	 1 	times
+frame	 531 	 car 	 2 	times
+frame	 532 	 car 	 1 	times
+frame	 533 	 car 	 2 	times
+frame	 534 	 car 	 1 	times
+frame	 535 	 car 	 2 	times
+frame	 536 	 car 	 2 	times
+frame	 537 	 car 	 2 	times
+frame	 538 	 car 	 2 	times
+frame	 539 	 car 	 1 	times
+frame	 540 	 car 	 3 	times
+frame	 541 	 car 	 1 	times
+frame	 542 	 car 	 2 	times
+frame	 543 	 car 	 1 	times
+frame	 544 	 car 	 2 	times
+frame	 545 	 car 	 1 	times
+frame	 546 	 car 	 1 	times
+frame	 547 	 car 	 1 	times
+frame	 548 	 car 	 1 	times
+frame	 549 	 car 	 1 	times
+frame	 550 	 car 	 1 	times
+frame	 551 	 car 	 1 	times
+frame	 552 	 car 	 3 	times
+frame	 553 	 car 	 1 	times
+frame	 554 	 car 	 1 	times
+frame	 555 	 car 	 1 	times
+frame	 556 	 car 	 1 	times
+frame	 557 	 car 	 2 	times
+frame	 558 	 car 	 1 	times
+frame	 559 	 car 	 1 	times
+frame	 560 	 car 	 1 	times
+frame	 561 	 car 	 2 	times
+frame	 562 	 car 	 2 	times
+frame	 563 	 car 	 1 	times
+frame	 564 	 car 	 2 	times
+frame	 565 	 car 	 2 	times
+frame	 566 	 car 	 1 	times
+frame	 567 	 car 	 1 	times
+frame	 568 	 car 	 2 	times
+frame	 569 	 car 	 1 	times
+frame	 570 	 car 	 1 	times
+frame	 571 	 car 	 1 	times
+frame	 572 	 car 	 2 	times
+frame	 573 	 car 	 1 	times
+frame	 574 	 car 	 1 	times
+frame	 575 	 car 	 2 	times
+frame	 576 	 car 	 2 	times
+frame	 577 	 car 	 1 	times
+frame	 578 	 car 	 1 	times
+frame	 579 	 car 	 2 	times
+frame	 580 	 car 	 2 	times
+frame	 581 	 car 	 1 	times
+frame	 582 	 car 	 2 	times
+frame	 583 	 car 	 1 	times
+frame	 584 	 car 	 1 	times
+frame	 585 	 car 	 1 	times
+frame	 586 	 car 	 1 	times
+frame	 587 	 car 	 2 	times
+frame	 588 	 car 	 2 	times
+frame	 589 	 car 	 1 	times
+frame	 590 	 car 	 2 	times
+frame	 591 	 car 	 2 	times
+frame	 592 	 car 	 1 	times
+frame	 593 	 car 	 1 	times
+frame	 594 	 car 	 1 	times
+frame	 595 	 car 	 3 	times
+frame	 596 	 car 	 2 	times
+frame	 597 	 car 	 1 	times
+frame	 598 	 car 	 1 	times
+frame	 599 	 car 	 1 	times
+frame	 600 	 car 	 1 	times
+frame	 601 	 car 	 1 	times
+frame	 602 	 car 	 1 	times
+frame	 603 	 car 	 1 	times
+frame	 604 	 car 	 1 	times
+frame	 605 	 car 	 1 	times
+frame	 606 	 car 	 1 	times
+frame	 607 	 car 	 1 	times
+frame	 608 	 car 	 2 	times
+frame	 609 	 car 	 2 	times
+frame	 610 	 car 	 1 	times
+frame	 611 	 car 	 2 	times
+frame	 612 	 car 	 1 	times
+frame	 613 	 car 	 1 	times
+frame	 614 	 car 	 1 	times
+frame	 615 	 car 	 1 	times
+frame	 616 	 car 	 1 	times
+frame	 617 	 car 	 1 	times
+frame	 618 	 car 	 1 	times
+frame	 619 	 car 	 2 	times
+frame	 620 	 car 	 2 	times
+frame	 621 	 car 	 1 	times
+frame	 622 	 car 	 2 	times
+frame	 623 	 car 	 1 	times
+frame	 624 	 car 	 2 	times
+frame	 625 	 car 	 1 	times
+frame	 626 	 car 	 1 	times
+frame	 627 	 car 	 2 	times
+frame	 628 	 car 	 2 	times
+frame	 629 	 car 	 3 	times
+frame	 630 	 car 	 3 	times
+frame	 631 	 car 	 2 	times
+frame	 632 	 car 	 3 	times
+frame	 633 	 car 	 2 	times
+frame	 634 	 car 	 2 	times
+frame	 635 	 car 	 3 	times
+frame	 636 	 car 	 2 	times
+frame	 637 	 car 	 2 	times
+frame	 638 	 car 	 4 	times
+frame	 639 	 car 	 3 	times
+frame	 640 	 car 	 3 	times
+frame	 641 	 car 	 3 	times
+frame	 642 	 car 	 3 	times
+frame	 643 	 car 	 4 	times
+frame	 644 	 car 	 3 	times
+frame	 645 	 car 	 2 	times
+frame	 646 	 car 	 4 	times
+frame	 647 	 car 	 3 	times
+frame	 648 	 car 	 3 	times
+frame	 649 	 car 	 5 	times
+frame	 650 	 car 	 2 	times
+frame	 651 	 car 	 2 	times
+frame	 652 	 car 	 2 	times
+frame	 653 	 car 	 2 	times
+frame	 654 	 car 	 3 	times
+frame	 655 	 car 	 2 	times
+frame	 656 	 car 	 2 	times
+frame	 657 	 car 	 3 	times
+frame	 658 	 car 	 3 	times
+frame	 659 	 car 	 4 	times
+frame	 660 	 car 	 2 	times
+frame	 661 	 car 	 3 	times
+frame	 662 	 car 	 4 	times
+frame	 663 	 car 	 5 	times
+frame	 664 	 car 	 4 	times
+frame	 665 	 car 	 5 	times
+frame	 666 	 car 	 4 	times
+frame	 667 	 car 	 4 	times
+frame	 668 	 car 	 6 	times
+frame	 669 	 car 	 4 	times
+frame	 670 	 car 	 2 	times
+frame	 671 	 car 	 5 	times
+frame	 672 	 car 	 3 	times
+frame	 673 	 car 	 3 	times
+frame	 674 	 car 	 3 	times
+frame	 675 	 car 	 2 	times
+frame	 676 	 car 	 1 	times
+frame	 677 	 car 	 1 	times
+frame	 693 	 car 	 1 	times
+frame	 700 	 car 	 1 	times
+frame	 701 	 car 	 2 	times
+frame	 702 	 car 	 2 	times
+frame	 703 	 car 	 2 	times
+frame	 704 	 car 	 2 	times
+frame	 705 	 car 	 2 	times
+frame	 706 	 car 	 2 	times
+frame	 707 	 car 	 2 	times
+frame	 708 	 car 	 2 	times
+frame	 709 	 car 	 2 	times
+frame	 710 	 car 	 2 	times
+frame	 711 	 car 	 2 	times
+frame	 712 	 car 	 2 	times
+frame	 713 	 car 	 2 	times
+frame	 714 	 car 	 2 	times
+frame	 715 	 car 	 1 	times
+frame	 716 	 car 	 2 	times
+frame	 717 	 car 	 1 	times
+frame	 718 	 car 	 2 	times
+frame	 719 	 car 	 2 	times
+frame	 720 	 car 	 2 	times
+frame	 721 	 car 	 2 	times
+frame	 722 	 car 	 2 	times
+frame	 723 	 car 	 2 	times
+frame	 724 	 car 	 2 	times
+frame	 725 	 car 	 2 	times
+frame	 726 	 car 	 2 	times
+frame	 727 	 car 	 1 	times
+frame	 728 	 car 	 1 	times
+frame	 729 	 car 	 1 	times
+frame	 730 	 car 	 3 	times
+frame	 731 	 car 	 3 	times
+frame	 732 	 car 	 3 	times
+frame	 733 	 car 	 4 	times
+frame	 734 	 car 	 4 	times
+frame	 735 	 car 	 3 	times
+frame	 736 	 car 	 2 	times
+frame	 737 	 car 	 3 	times
+frame	 738 	 car 	 3 	times
+frame	 739 	 car 	 2 	times
+frame	 740 	 car 	 2 	times
+frame	 741 	 car 	 2 	times
+frame	 742 	 car 	 3 	times
+frame	 743 	 car 	 2 	times
+frame	 744 	 car 	 3 	times
+frame	 745 	 car 	 3 	times
+frame	 746 	 car 	 3 	times
+frame	 747 	 car 	 2 	times
+frame	 748 	 car 	 2 	times
+frame	 749 	 car 	 3 	times
+frame	 750 	 car 	 2 	times
+frame	 751 	 car 	 2 	times
+frame	 752 	 car 	 2 	times
+frame	 753 	 car 	 2 	times
+frame	 754 	 car 	 2 	times
+frame	 755 	 car 	 2 	times
+frame	 756 	 car 	 2 	times
+frame	 757 	 car 	 2 	times
+frame	 758 	 car 	 3 	times
+frame	 759 	 car 	 3 	times
+frame	 760 	 car 	 4 	times
+frame	 761 	 car 	 3 	times
+frame	 762 	 car 	 3 	times
+frame	 763 	 car 	 2 	times
+frame	 764 	 car 	 2 	times
+frame	 765 	 car 	 2 	times
+frame	 766 	 car 	 3 	times
+frame	 767 	 car 	 3 	times
+frame	 768 	 car 	 3 	times
+frame	 769 	 car 	 3 	times
+frame	 770 	 car 	 5 	times
+frame	 771 	 car 	 4 	times
+frame	 772 	 car 	 3 	times
+frame	 773 	 car 	 4 	times
+frame	 774 	 car 	 3 	times
+frame	 775 	 car 	 3 	times
+frame	 776 	 car 	 4 	times
+frame	 777 	 car 	 4 	times
+frame	 778 	 car 	 5 	times
+frame	 779 	 car 	 4 	times
+frame	 780 	 car 	 6 	times
+frame	 781 	 car 	 5 	times
+frame	 782 	 car 	 3 	times
+frame	 783 	 car 	 2 	times
+frame	 784 	 car 	 4 	times
+frame	 785 	 car 	 2 	times
+frame	 786 	 car 	 4 	times
+frame	 787 	 car 	 4 	times
+frame	 788 	 car 	 3 	times
+frame	 789 	 car 	 6 	times
+frame	 790 	 car 	 3 	times
+frame	 791 	 car 	 4 	times
+frame	 792 	 car 	 3 	times
+frame	 793 	 car 	 3 	times
+frame	 794 	 car 	 3 	times
+frame	 795 	 car 	 2 	times
+frame	 796 	 car 	 3 	times
+frame	 797 	 car 	 4 	times
+frame	 798 	 car 	 3 	times
+frame	 799 	 car 	 4 	times
+frame	 800 	 car 	 3 	times
+frame	 801 	 car 	 4 	times
+frame	 802 	 car 	 3 	times
+frame	 803 	 car 	 2 	times
+frame	 804 	 car 	 4 	times
+frame	 805 	 car 	 3 	times
+frame	 806 	 car 	 3 	times
+frame	 807 	 car 	 4 	times
+frame	 808 	 car 	 2 	times
+frame	 809 	 car 	 3 	times
+frame	 810 	 car 	 3 	times
+frame	 811 	 car 	 2 	times
+frame	 812 	 car 	 3 	times
+frame	 813 	 car 	 4 	times
+frame	 814 	 car 	 4 	times
+frame	 815 	 car 	 2 	times
+frame	 816 	 car 	 2 	times
+frame	 817 	 car 	 3 	times
+frame	 818 	 car 	 3 	times
+frame	 819 	 car 	 2 	times
+frame	 820 	 car 	 3 	times
+frame	 821 	 car 	 2 	times
+frame	 822 	 car 	 2 	times
+frame	 823 	 car 	 2 	times
+frame	 824 	 car 	 3 	times
+frame	 825 	 car 	 2 	times
+frame	 826 	 car 	 3 	times
+frame	 827 	 car 	 3 	times
+frame	 828 	 car 	 2 	times
+frame	 829 	 car 	 3 	times
+frame	 830 	 car 	 2 	times
+frame	 831 	 car 	 2 	times
+frame	 832 	 car 	 4 	times
+frame	 833 	 car 	 3 	times
+frame	 834 	 car 	 2 	times
+frame	 835 	 car 	 2 	times
+frame	 836 	 car 	 2 	times
+frame	 837 	 car 	 2 	times
+frame	 838 	 car 	 2 	times
+frame	 839 	 car 	 2 	times
+frame	 840 	 car 	 3 	times
+frame	 841 	 car 	 2 	times
+frame	 842 	 car 	 2 	times
+frame	 843 	 car 	 2 	times
+frame	 844 	 car 	 3 	times
+frame	 845 	 car 	 2 	times
+frame	 846 	 car 	 2 	times
+frame	 847 	 car 	 3 	times
+frame	 848 	 car 	 3 	times
+frame	 849 	 car 	 3 	times
+frame	 850 	 car 	 3 	times
+frame	 851 	 car 	 2 	times
+frame	 852 	 car 	 3 	times
+frame	 853 	 car 	 3 	times
+frame	 854 	 car 	 2 	times
+frame	 855 	 car 	 2 	times
+frame	 856 	 car 	 2 	times
+frame	 857 	 car 	 4 	times
+frame	 858 	 car 	 4 	times
+frame	 859 	 car 	 3 	times
+frame	 860 	 car 	 3 	times
+frame	 861 	 car 	 3 	times
+frame	 862 	 car 	 3 	times
+frame	 863 	 car 	 4 	times
+frame	 864 	 car 	 4 	times
+frame	 865 	 car 	 4 	times
+frame	 866 	 car 	 4 	times
+frame	 867 	 car 	 3 	times
+frame	 868 	 car 	 3 	times
+frame	 869 	 car 	 4 	times
+frame	 870 	 car 	 4 	times
+frame	 871 	 car 	 3 	times
+frame	 872 	 car 	 3 	times
+frame	 873 	 car 	 3 	times
+frame	 874 	 car 	 4 	times
+frame	 875 	 car 	 4 	times
+frame	 876 	 car 	 4 	times
+frame	 877 	 car 	 3 	times
+frame	 878 	 car 	 4 	times
+frame	 879 	 car 	 4 	times
+frame	 880 	 car 	 3 	times
+frame	 881 	 car 	 4 	times
+frame	 882 	 car 	 3 	times
+frame	 883 	 car 	 3 	times
+frame	 884 	 car 	 3 	times
+frame	 885 	 car 	 3 	times
+frame	 886 	 car 	 3 	times
+frame	 887 	 car 	 3 	times
+frame	 888 	 car 	 4 	times
+frame	 889 	 car 	 4 	times
+frame	 890 	 car 	 3 	times
+frame	 891 	 car 	 3 	times
+frame	 892 	 car 	 3 	times
+frame	 893 	 car 	 3 	times
+frame	 894 	 car 	 4 	times
+frame	 895 	 car 	 3 	times
+frame	 896 	 car 	 3 	times
+frame	 897 	 car 	 4 	times
+frame	 898 	 car 	 4 	times
+frame	 899 	 car 	 3 	times
+frame	 900 	 car 	 3 	times
+frame	 901 	 car 	 3 	times
+frame	 902 	 car 	 3 	times
+frame	 903 	 car 	 3 	times
+frame	 904 	 car 	 3 	times
+frame	 905 	 car 	 3 	times
+frame	 906 	 car 	 3 	times
+frame	 907 	 car 	 3 	times
+frame	 908 	 car 	 3 	times
+frame	 909 	 car 	 4 	times
+frame	 910 	 car 	 3 	times
+frame	 911 	 car 	 3 	times
+frame	 912 	 car 	 3 	times
+frame	 913 	 car 	 3 	times
+frame	 914 	 car 	 3 	times
+frame	 915 	 car 	 3 	times
+frame	 916 	 car 	 3 	times
+frame	 917 	 car 	 3 	times
+frame	 918 	 car 	 4 	times
+frame	 919 	 car 	 3 	times
+frame	 920 	 car 	 3 	times
+frame	 921 	 car 	 2 	times
+frame	 922 	 car 	 2 	times
+frame	 923 	 car 	 2 	times
+frame	 924 	 car 	 3 	times
+frame	 925 	 car 	 2 	times
+frame	 926 	 car 	 2 	times
+frame	 927 	 car 	 2 	times
+frame	 928 	 car 	 2 	times
+frame	 929 	 car 	 3 	times
+frame	 930 	 car 	 3 	times
+frame	 931 	 car 	 2 	times
+frame	 932 	 car 	 2 	times
+frame	 933 	 car 	 2 	times
+frame	 934 	 car 	 2 	times
+frame	 935 	 car 	 2 	times
+frame	 936 	 car 	 2 	times
+frame	 937 	 car 	 2 	times
+frame	 938 	 car 	 2 	times
+frame	 939 	 car 	 2 	times
+frame	 940 	 car 	 2 	times
+frame	 941 	 car 	 2 	times
+frame	 942 	 car 	 2 	times
+frame	 943 	 car 	 2 	times
+frame	 944 	 car 	 2 	times
+frame	 945 	 car 	 2 	times
+frame	 946 	 car 	 2 	times
+frame	 947 	 car 	 2 	times
+frame	 948 	 car 	 2 	times
+frame	 949 	 car 	 2 	times
+frame	 950 	 car 	 2 	times
+frame	 951 	 car 	 3 	times
+frame	 952 	 car 	 3 	times
+frame	 953 	 car 	 2 	times
+frame	 954 	 car 	 3 	times
+frame	 955 	 car 	 3 	times
+frame	 956 	 car 	 3 	times
+frame	 957 	 car 	 3 	times
+frame	 958 	 car 	 3 	times
+frame	 959 	 car 	 2 	times
+frame	 960 	 car 	 2 	times
+frame	 961 	 car 	 2 	times
+frame	 962 	 car 	 3 	times
+frame	 963 	 car 	 3 	times
+frame	 964 	 car 	 2 	times
+frame	 965 	 car 	 2 	times
+frame	 966 	 car 	 4 	times
+frame	 967 	 car 	 2 	times
+frame	 968 	 car 	 2 	times
+frame	 969 	 car 	 3 	times
+frame	 970 	 car 	 4 	times
+frame	 971 	 car 	 4 	times
+frame	 972 	 car 	 4 	times
+frame	 973 	 car 	 3 	times
+frame	 974 	 car 	 3 	times
+frame	 975 	 car 	 3 	times
+frame	 976 	 car 	 3 	times
+frame	 977 	 car 	 3 	times
+frame	 978 	 car 	 3 	times
+frame	 979 	 car 	 3 	times
+frame	 980 	 car 	 3 	times
+frame	 981 	 car 	 2 	times
+frame	 982 	 car 	 2 	times
+frame	 983 	 car 	 3 	times
+frame	 984 	 car 	 4 	times
+frame	 985 	 car 	 4 	times
+frame	 986 	 car 	 4 	times
+frame	 987 	 car 	 3 	times
+frame	 988 	 car 	 4 	times
+frame	 989 	 car 	 3 	times
+frame	 990 	 car 	 3 	times
+frame	 991 	 car 	 3 	times
+frame	 992 	 car 	 3 	times
+frame	 993 	 car 	 3 	times
+frame	 994 	 car 	 4 	times
+frame	 995 	 car 	 3 	times
+frame	 996 	 car 	 1 	times
+frame	 997 	 car 	 3 	times
+frame	 998 	 car 	 2 	times
+frame	 999 	 car 	 2 	times
+frame	 1000 	 car 	 1 	times
+frame	 1001 	 car 	 2 	times
+frame	 1002 	 car 	 2 	times
+frame	 1003 	 car 	 2 	times
+frame	 1004 	 car 	 2 	times
+frame	 1005 	 car 	 2 	times
+frame	 1006 	 car 	 2 	times
+frame	 1007 	 car 	 1 	times
+frame	 1008 	 car 	 2 	times
+frame	 1009 	 car 	 1 	times
+frame	 1010 	 car 	 1 	times
+frame	 1011 	 car 	 1 	times
+frame	 1012 	 car 	 2 	times
+frame	 1013 	 car 	 2 	times
+frame	 1014 	 car 	 2 	times
+frame	 1015 	 car 	 2 	times
+frame	 1016 	 car 	 2 	times
+frame	 1017 	 car 	 1 	times
+frame	 1018 	 car 	 2 	times
+frame	 1019 	 car 	 2 	times
+frame	 1020 	 car 	 1 	times
+frame	 1088 	 car 	 1 	times
+frame	 1119 	 car 	 1 	times
+frame	 1126 	 car 	 1 	times
+frame	 1127 	 car 	 1 	times
+frame	 1128 	 car 	 1 	times
+frame	 1130 	 car 	 1 	times
+frame	 1129 	 car 	 1 	times
+frame	 1131 	 car 	 1 	times
+frame	 1132 	 car 	 2 	times
+frame	 1133 	 car 	 1 	times
+frame	 1134 	 car 	 2 	times
+frame	 1135 	 car 	 1 	times
+frame	 1136 	 car 	 1 	times
+frame	 1139 	 car 	 1 	times
+frame	 1259 	 car 	 1 	times
+frame	 1272 	 car 	 1 	times
+frame	 1292 	 car 	 1 	times
+frame	 1294 	 car 	 1 	times
+frame	 1295 	 car 	 1 	times
+frame	 1440 	 car 	 1 	times
+frame	 1475 	 car 	 1 	times
+frame	 1306 	 car 	 1 	times
+frame	 1492 	 car 	 1 	times
+frame	 1521 	 car 	 1 	times
+frame	 1518 	 car 	 1 	times
+frame	 1525 	 car 	 1 	times
+frame	 1526 	 car 	 1 	times
+frame	 1530 	 car 	 1 	times
+frame	 1533 	 car 	 1 	times
+frame	 1552 	 car 	 1 	times
+frame	 1535 	 car 	 1 	times
+frame	 1571 	 car 	 1 	times
+frame	 1584 	 car 	 1 	times
+frame	 1592 	 car 	 1 	times
+frame	 1593 	 car 	 1 	times
+frame	 1594 	 car 	 1 	times
+frame	 1607 	 car 	 2 	times
+frame	 1609 	 car 	 2 	times
+frame	 1611 	 car 	 1 	times
+frame	 1612 	 car 	 2 	times
+frame	 1618 	 car 	 1 	times
+frame	 1615 	 car 	 1 	times
+frame	 1619 	 car 	 2 	times
+frame	 1620 	 car 	 3 	times
+frame	 1621 	 car 	 2 	times
+frame	 1622 	 car 	 3 	times
+frame	 1623 	 car 	 2 	times
+frame	 1624 	 car 	 2 	times
+frame	 1625 	 car 	 3 	times
+frame	 1626 	 car 	 1 	times
+frame	 1627 	 car 	 2 	times
+frame	 1628 	 car 	 1 	times
+frame	 1630 	 car 	 2 	times
+frame	 1631 	 car 	 2 	times
+frame	 1632 	 car 	 1 	times
+frame	 1634 	 car 	 1 	times
+frame	 1637 	 car 	 1 	times
+frame	 1635 	 car 	 1 	times
+frame	 1638 	 car 	 1 	times
+frame	 1639 	 car 	 1 	times
+frame	 1640 	 car 	 1 	times
+frame	 1643 	 car 	 1 	times
+frame	 1647 	 car 	 1 	times
+frame	 1648 	 car 	 1 	times
+frame	 1649 	 car 	 1 	times
+frame	 1650 	 car 	 1 	times
+frame	 1651 	 car 	 2 	times
+frame	 1652 	 car 	 2 	times
+frame	 366 	 motorbike 	 1 	times
+frame	 371 	 motorbike 	 1 	times
+frame	 419 	 motorbike 	 1 	times
+frame	 451 	 motorbike 	 1 	times
+frame	 603 	 motorbike 	 1 	times
+frame	 604 	 motorbike 	 1 	times
+frame	 605 	 motorbike 	 1 	times
+frame	 606 	 motorbike 	 1 	times
+frame	 607 	 motorbike 	 1 	times
+frame	 626 	 motorbike 	 1 	times
+frame	 797 	 motorbike 	 1 	times
+frame	 814 	 motorbike 	 1 	times
+frame	 817 	 motorbike 	 1 	times
+frame	 818 	 motorbike 	 1 	times
+frame	 819 	 motorbike 	 2 	times
+frame	 820 	 motorbike 	 1 	times
+frame	 839 	 motorbike 	 1 	times
+frame	 847 	 motorbike 	 1 	times
+frame	 873 	 motorbike 	 1 	times
+frame	 874 	 motorbike 	 1 	times
+frame	 875 	 motorbike 	 1 	times
+frame	 876 	 motorbike 	 1 	times
+frame	 882 	 motorbike 	 1 	times
+frame	 883 	 motorbike 	 1 	times
+frame	 884 	 motorbike 	 1 	times
+frame	 887 	 motorbike 	 1 	times
+frame	 888 	 motorbike 	 1 	times
+frame	 890 	 motorbike 	 1 	times
+frame	 892 	 motorbike 	 1 	times
+frame	 893 	 motorbike 	 1 	times
+frame	 894 	 motorbike 	 1 	times
+frame	 895 	 motorbike 	 1 	times
+frame	 896 	 motorbike 	 1 	times
+frame	 897 	 motorbike 	 1 	times
+frame	 898 	 motorbike 	 1 	times
+frame	 899 	 motorbike 	 1 	times
+frame	 901 	 motorbike 	 1 	times
+frame	 902 	 motorbike 	 1 	times
+frame	 903 	 motorbike 	 1 	times
+frame	 904 	 motorbike 	 1 	times
+frame	 905 	 motorbike 	 1 	times
+frame	 906 	 motorbike 	 1 	times
+frame	 907 	 motorbike 	 1 	times
+frame	 908 	 motorbike 	 1 	times
+frame	 909 	 motorbike 	 1 	times
+frame	 910 	 motorbike 	 1 	times
+frame	 911 	 motorbike 	 1 	times
+frame	 912 	 motorbike 	 2 	times
+frame	 913 	 motorbike 	 1 	times
+frame	 914 	 motorbike 	 1 	times
+frame	 915 	 motorbike 	 1 	times
+frame	 916 	 motorbike 	 1 	times
+frame	 917 	 motorbike 	 1 	times
+frame	 918 	 motorbike 	 1 	times
+frame	 919 	 motorbike 	 1 	times
+frame	 920 	 motorbike 	 1 	times
+frame	 921 	 motorbike 	 1 	times
+frame	 922 	 motorbike 	 1 	times
+frame	 923 	 motorbike 	 1 	times
+frame	 924 	 motorbike 	 1 	times
+frame	 925 	 motorbike 	 1 	times
+frame	 926 	 motorbike 	 1 	times
+frame	 927 	 motorbike 	 1 	times
+frame	 928 	 motorbike 	 1 	times
+frame	 929 	 motorbike 	 1 	times
+frame	 930 	 motorbike 	 2 	times
+frame	 931 	 motorbike 	 1 	times
+frame	 932 	 motorbike 	 1 	times
+frame	 933 	 motorbike 	 1 	times
+frame	 934 	 motorbike 	 1 	times
+frame	 935 	 motorbike 	 1 	times
+frame	 936 	 motorbike 	 1 	times
+frame	 937 	 motorbike 	 1 	times
+frame	 938 	 motorbike 	 1 	times
+frame	 939 	 motorbike 	 1 	times
+frame	 940 	 motorbike 	 1 	times
+frame	 941 	 motorbike 	 1 	times
+frame	 942 	 motorbike 	 1 	times
+frame	 943 	 motorbike 	 1 	times
+frame	 944 	 motorbike 	 1 	times
+frame	 945 	 motorbike 	 1 	times
+frame	 946 	 motorbike 	 1 	times
+frame	 947 	 motorbike 	 1 	times
+frame	 948 	 motorbike 	 1 	times
+frame	 950 	 motorbike 	 1 	times
+frame	 951 	 motorbike 	 1 	times
+frame	 953 	 motorbike 	 1 	times
+frame	 954 	 motorbike 	 1 	times
+frame	 958 	 motorbike 	 1 	times
+frame	 959 	 motorbike 	 1 	times
+frame	 961 	 motorbike 	 1 	times
+frame	 962 	 motorbike 	 1 	times
+frame	 963 	 motorbike 	 1 	times
+frame	 964 	 motorbike 	 1 	times
+frame	 965 	 motorbike 	 1 	times
+frame	 966 	 motorbike 	 1 	times
+frame	 967 	 motorbike 	 1 	times
+frame	 968 	 motorbike 	 1 	times
+frame	 969 	 motorbike 	 1 	times
+frame	 970 	 motorbike 	 1 	times
+frame	 971 	 motorbike 	 1 	times
+frame	 974 	 motorbike 	 1 	times
+frame	 987 	 motorbike 	 1 	times
+frame	 989 	 motorbike 	 1 	times
+frame	 782 	 bus 	 1 	times
+frame	 1009 	 bus 	 1 	times
+frame	 1569 	 bus 	 1 	times
+frame	 1578 	 bus 	 1 	times
+frame	 1577 	 bus 	 1 	times
+frame	 1580 	 bus 	 2 	times
+frame	 1581 	 bus 	 1 	times
+frame	 1582 	 bus 	 1 	times
+frame	 1587 	 bus 	 1 	times
+frame	 1594 	 bus 	 1 	times
+frame	 1601 	 bus 	 1 	times
+frame	 1604 	 bus 	 1 	times
+frame	 1617 	 bus 	 1 	times
+frame	 1618 	 bus 	 1 	times
+frame	 1609 	 bus 	 1 	times
+frame	 1620 	 bus 	 1 	times
+frame	 1621 	 bus 	 1 	times
+frame	 1619 	 bus 	 1 	times
+frame	 1622 	 bus 	 2 	times
+frame	 1623 	 bus 	 1 	times
+frame	 1624 	 bus 	 1 	times
+frame	 1625 	 bus 	 1 	times
+frame	 1626 	 bus 	 1 	times
+frame	 1627 	 bus 	 1 	times
+frame	 1628 	 bus 	 1 	times
+frame	 1630 	 bus 	 1 	times
+frame	 1629 	 bus 	 1 	times
+frame	 1631 	 bus 	 1 	times
+frame	 1632 	 bus 	 1 	times
+frame	 1633 	 bus 	 1 	times
+frame	 1634 	 bus 	 1 	times
+frame	 1635 	 bus 	 1 	times
+frame	 1636 	 bus 	 1 	times
+frame	 1637 	 bus 	 1 	times
+frame	 1638 	 bus 	 1 	times
+frame	 1639 	 bus 	 1 	times
+frame	 1640 	 bus 	 1 	times
+frame	 1641 	 bus 	 1 	times
+frame	 1643 	 bus 	 1 	times
+frame	 1642 	 bus 	 1 	times
+frame	 1645 	 bus 	 1 	times
+frame	 1053 	 train 	 1 	times
+frame	 38 	 truck 	 1 	times
+frame	 40 	 truck 	 1 	times
+frame	 45 	 truck 	 1 	times
+frame	 46 	 truck 	 1 	times
+frame	 47 	 truck 	 1 	times
+frame	 48 	 truck 	 1 	times
+frame	 50 	 truck 	 2 	times
+frame	 51 	 truck 	 1 	times
+frame	 52 	 truck 	 1 	times
+frame	 53 	 truck 	 1 	times
+frame	 54 	 truck 	 1 	times
+frame	 55 	 truck 	 1 	times
+frame	 56 	 truck 	 1 	times
+frame	 57 	 truck 	 1 	times
+frame	 58 	 truck 	 1 	times
+frame	 59 	 truck 	 1 	times
+frame	 60 	 truck 	 1 	times
+frame	 61 	 truck 	 1 	times
+frame	 62 	 truck 	 1 	times
+frame	 63 	 truck 	 1 	times
+frame	 64 	 truck 	 1 	times
+frame	 65 	 truck 	 1 	times
+frame	 66 	 truck 	 1 	times
+frame	 67 	 truck 	 1 	times
+frame	 68 	 truck 	 1 	times
+frame	 69 	 truck 	 1 	times
+frame	 70 	 truck 	 1 	times
+frame	 71 	 truck 	 1 	times
+frame	 72 	 truck 	 1 	times
+frame	 73 	 truck 	 1 	times
+frame	 74 	 truck 	 1 	times
+frame	 75 	 truck 	 1 	times
+frame	 76 	 truck 	 2 	times
+frame	 77 	 truck 	 1 	times
+frame	 78 	 truck 	 1 	times
+frame	 80 	 truck 	 1 	times
+frame	 81 	 truck 	 1 	times
+frame	 85 	 truck 	 1 	times
+frame	 86 	 truck 	 1 	times
+frame	 87 	 truck 	 1 	times
+frame	 88 	 truck 	 1 	times
+frame	 89 	 truck 	 1 	times
+frame	 90 	 truck 	 1 	times
+frame	 91 	 truck 	 1 	times
+frame	 92 	 truck 	 1 	times
+frame	 93 	 truck 	 2 	times
+frame	 94 	 truck 	 1 	times
+frame	 95 	 truck 	 1 	times
+frame	 96 	 truck 	 1 	times
+frame	 97 	 truck 	 2 	times
+frame	 98 	 truck 	 1 	times
+frame	 99 	 truck 	 2 	times
+frame	 100 	 truck 	 2 	times
+frame	 101 	 truck 	 2 	times
+frame	 102 	 truck 	 1 	times
+frame	 103 	 truck 	 1 	times
+frame	 104 	 truck 	 1 	times
+frame	 105 	 truck 	 1 	times
+frame	 106 	 truck 	 2 	times
+frame	 107 	 truck 	 2 	times
+frame	 109 	 truck 	 1 	times
+frame	 110 	 truck 	 1 	times
+frame	 121 	 truck 	 1 	times
+frame	 134 	 truck 	 1 	times
+frame	 135 	 truck 	 1 	times
+frame	 136 	 truck 	 1 	times
+frame	 138 	 truck 	 1 	times
+frame	 139 	 truck 	 2 	times
+frame	 140 	 truck 	 1 	times
+frame	 142 	 truck 	 1 	times
+frame	 143 	 truck 	 1 	times
+frame	 144 	 truck 	 1 	times
+frame	 145 	 truck 	 1 	times
+frame	 146 	 truck 	 1 	times
+frame	 149 	 truck 	 1 	times
+frame	 157 	 truck 	 1 	times
+frame	 161 	 truck 	 1 	times
+frame	 162 	 truck 	 1 	times
+frame	 163 	 truck 	 1 	times
+frame	 164 	 truck 	 1 	times
+frame	 165 	 truck 	 1 	times
+frame	 166 	 truck 	 2 	times
+frame	 167 	 truck 	 2 	times
+frame	 168 	 truck 	 2 	times
+frame	 169 	 truck 	 2 	times
+frame	 170 	 truck 	 2 	times
+frame	 171 	 truck 	 1 	times
+frame	 172 	 truck 	 2 	times
+frame	 173 	 truck 	 2 	times
+frame	 174 	 truck 	 2 	times
+frame	 175 	 truck 	 2 	times
+frame	 176 	 truck 	 1 	times
+frame	 177 	 truck 	 1 	times
+frame	 179 	 truck 	 1 	times
+frame	 188 	 truck 	 1 	times
+frame	 181 	 truck 	 1 	times
+frame	 191 	 truck 	 1 	times
+frame	 203 	 truck 	 1 	times
+frame	 204 	 truck 	 1 	times
+frame	 205 	 truck 	 1 	times
+frame	 207 	 truck 	 1 	times
+frame	 206 	 truck 	 1 	times
+frame	 208 	 truck 	 2 	times
+frame	 210 	 truck 	 1 	times
+frame	 209 	 truck 	 1 	times
+frame	 215 	 truck 	 1 	times
+frame	 216 	 truck 	 1 	times
+frame	 235 	 truck 	 1 	times
+frame	 213 	 truck 	 1 	times
+frame	 236 	 truck 	 1 	times
+frame	 237 	 truck 	 1 	times
+frame	 240 	 truck 	 1 	times
+frame	 241 	 truck 	 2 	times
+frame	 242 	 truck 	 1 	times
+frame	 244 	 truck 	 1 	times
+frame	 243 	 truck 	 1 	times
+frame	 245 	 truck 	 2 	times
+frame	 246 	 truck 	 2 	times
+frame	 247 	 truck 	 1 	times
+frame	 248 	 truck 	 2 	times
+frame	 249 	 truck 	 1 	times
+frame	 250 	 truck 	 2 	times
+frame	 251 	 truck 	 1 	times
+frame	 253 	 truck 	 2 	times
+frame	 260 	 truck 	 1 	times
+frame	 262 	 truck 	 2 	times
+frame	 263 	 truck 	 1 	times
+frame	 267 	 truck 	 1 	times
+frame	 268 	 truck 	 1 	times
+frame	 266 	 truck 	 1 	times
+frame	 746 	 truck 	 2 	times
+frame	 748 	 truck 	 1 	times
+frame	 747 	 truck 	 1 	times
+frame	 751 	 truck 	 2 	times
+frame	 752 	 truck 	 2 	times
+frame	 753 	 truck 	 1 	times
+frame	 754 	 truck 	 2 	times
+frame	 755 	 truck 	 1 	times
+frame	 756 	 truck 	 2 	times
+frame	 757 	 truck 	 2 	times
+frame	 758 	 truck 	 2 	times
+frame	 760 	 truck 	 1 	times
+frame	 761 	 truck 	 2 	times
+frame	 762 	 truck 	 1 	times
+frame	 763 	 truck 	 2 	times
+frame	 764 	 truck 	 1 	times
+frame	 765 	 truck 	 1 	times
+frame	 766 	 truck 	 1 	times
+frame	 767 	 truck 	 1 	times
+frame	 768 	 truck 	 2 	times
+frame	 769 	 truck 	 1 	times
+frame	 770 	 truck 	 1 	times
+frame	 772 	 truck 	 1 	times
+frame	 773 	 truck 	 2 	times
+frame	 774 	 truck 	 1 	times
+frame	 775 	 truck 	 2 	times
+frame	 776 	 truck 	 2 	times
+frame	 777 	 truck 	 1 	times
+frame	 778 	 truck 	 2 	times
+frame	 779 	 truck 	 1 	times
+frame	 780 	 truck 	 2 	times
+frame	 781 	 truck 	 1 	times
+frame	 782 	 truck 	 2 	times
+frame	 783 	 truck 	 4 	times
+frame	 784 	 truck 	 2 	times
+frame	 785 	 truck 	 5 	times
+frame	 786 	 truck 	 3 	times
+frame	 787 	 truck 	 2 	times
+frame	 788 	 truck 	 1 	times
+frame	 789 	 truck 	 2 	times
+frame	 790 	 truck 	 3 	times
+frame	 791 	 truck 	 3 	times
+frame	 793 	 truck 	 2 	times
+frame	 792 	 truck 	 2 	times
+frame	 794 	 truck 	 4 	times
+frame	 795 	 truck 	 4 	times
+frame	 796 	 truck 	 4 	times
+frame	 797 	 truck 	 3 	times
+frame	 798 	 truck 	 2 	times
+frame	 799 	 truck 	 2 	times
+frame	 800 	 truck 	 2 	times
+frame	 801 	 truck 	 2 	times
+frame	 802 	 truck 	 2 	times
+frame	 803 	 truck 	 2 	times
+frame	 804 	 truck 	 2 	times
+frame	 805 	 truck 	 3 	times
+frame	 806 	 truck 	 3 	times
+frame	 807 	 truck 	 2 	times
+frame	 808 	 truck 	 3 	times
+frame	 809 	 truck 	 2 	times
+frame	 810 	 truck 	 2 	times
+frame	 811 	 truck 	 2 	times
+frame	 812 	 truck 	 2 	times
+frame	 813 	 truck 	 2 	times
+frame	 814 	 truck 	 2 	times
+frame	 815 	 truck 	 2 	times
+frame	 816 	 truck 	 2 	times
+frame	 817 	 truck 	 2 	times
+frame	 818 	 truck 	 2 	times
+frame	 819 	 truck 	 2 	times
+frame	 820 	 truck 	 2 	times
+frame	 821 	 truck 	 2 	times
+frame	 822 	 truck 	 2 	times
+frame	 823 	 truck 	 2 	times
+frame	 824 	 truck 	 2 	times
+frame	 825 	 truck 	 2 	times
+frame	 826 	 truck 	 2 	times
+frame	 827 	 truck 	 2 	times
+frame	 828 	 truck 	 2 	times
+frame	 829 	 truck 	 2 	times
+frame	 830 	 truck 	 2 	times
+frame	 831 	 truck 	 2 	times
+frame	 832 	 truck 	 2 	times
+frame	 833 	 truck 	 2 	times
+frame	 834 	 truck 	 2 	times
+frame	 835 	 truck 	 2 	times
+frame	 836 	 truck 	 2 	times
+frame	 837 	 truck 	 2 	times
+frame	 838 	 truck 	 1 	times
+frame	 839 	 truck 	 2 	times
+frame	 840 	 truck 	 2 	times
+frame	 841 	 truck 	 1 	times
+frame	 842 	 truck 	 2 	times
+frame	 843 	 truck 	 2 	times
+frame	 844 	 truck 	 1 	times
+frame	 845 	 truck 	 2 	times
+frame	 846 	 truck 	 2 	times
+frame	 847 	 truck 	 2 	times
+frame	 848 	 truck 	 1 	times
+frame	 849 	 truck 	 2 	times
+frame	 850 	 truck 	 2 	times
+frame	 851 	 truck 	 2 	times
+frame	 852 	 truck 	 1 	times
+frame	 853 	 truck 	 2 	times
+frame	 854 	 truck 	 2 	times
+frame	 855 	 truck 	 1 	times
+frame	 856 	 truck 	 1 	times
+frame	 857 	 truck 	 1 	times
+frame	 858 	 truck 	 1 	times
+frame	 859 	 truck 	 1 	times
+frame	 860 	 truck 	 1 	times
+frame	 861 	 truck 	 2 	times
+frame	 862 	 truck 	 1 	times
+frame	 863 	 truck 	 1 	times
+frame	 864 	 truck 	 1 	times
+frame	 866 	 truck 	 1 	times
+frame	 867 	 truck 	 1 	times
+frame	 868 	 truck 	 1 	times
+frame	 869 	 truck 	 2 	times
+frame	 870 	 truck 	 1 	times
+frame	 871 	 truck 	 2 	times
+frame	 872 	 truck 	 1 	times
+frame	 873 	 truck 	 1 	times
+frame	 874 	 truck 	 1 	times
+frame	 875 	 truck 	 2 	times
+frame	 876 	 truck 	 1 	times
+frame	 877 	 truck 	 2 	times
+frame	 878 	 truck 	 1 	times
+frame	 880 	 truck 	 1 	times
+frame	 879 	 truck 	 1 	times
+frame	 881 	 truck 	 1 	times
+frame	 882 	 truck 	 1 	times
+frame	 883 	 truck 	 1 	times
+frame	 886 	 truck 	 1 	times
+frame	 887 	 truck 	 1 	times
+frame	 888 	 truck 	 1 	times
+frame	 889 	 truck 	 1 	times
+frame	 890 	 truck 	 1 	times
+frame	 891 	 truck 	 1 	times
+frame	 885 	 truck 	 1 	times
+frame	 892 	 truck 	 1 	times
+frame	 893 	 truck 	 1 	times
+frame	 894 	 truck 	 1 	times
+frame	 895 	 truck 	 1 	times
+frame	 896 	 truck 	 1 	times
+frame	 897 	 truck 	 1 	times
+frame	 898 	 truck 	 1 	times
+frame	 899 	 truck 	 1 	times
+frame	 900 	 truck 	 2 	times
+frame	 901 	 truck 	 1 	times
+frame	 902 	 truck 	 2 	times
+frame	 903 	 truck 	 1 	times
+frame	 905 	 truck 	 1 	times
+frame	 1007 	 truck 	 1 	times
+frame	 1010 	 truck 	 1 	times
+frame	 1011 	 truck 	 1 	times
+frame	 1017 	 truck 	 1 	times
+frame	 1014 	 truck 	 1 	times
+frame	 1474 	 truck 	 1 	times
+frame	 1475 	 truck 	 1 	times
+frame	 1476 	 truck 	 1 	times
+frame	 1478 	 truck 	 1 	times
+frame	 1479 	 truck 	 1 	times
+frame	 1480 	 truck 	 1 	times
+frame	 1481 	 truck 	 1 	times
+frame	 1483 	 truck 	 1 	times
+frame	 1485 	 truck 	 1 	times
+frame	 1462 	 truck 	 1 	times
+frame	 1487 	 truck 	 1 	times
+frame	 1488 	 truck 	 1 	times
+frame	 1489 	 truck 	 1 	times
+frame	 1490 	 truck 	 1 	times
+frame	 1491 	 truck 	 1 	times
+frame	 1492 	 truck 	 1 	times
+frame	 1493 	 truck 	 1 	times
+frame	 1494 	 truck 	 1 	times
+frame	 1495 	 truck 	 1 	times
+frame	 1496 	 truck 	 1 	times
+frame	 1497 	 truck 	 1 	times
+frame	 1499 	 truck 	 1 	times
+frame	 1500 	 truck 	 1 	times
+frame	 1506 	 truck 	 1 	times
+frame	 1518 	 truck 	 1 	times
+frame	 1486 	 truck 	 1 	times
+frame	 1526 	 truck 	 1 	times
+frame	 1532 	 truck 	 1 	times
+frame	 1533 	 truck 	 1 	times
+frame	 1536 	 truck 	 1 	times
+frame	 1552 	 truck 	 1 	times
+frame	 1564 	 truck 	 1 	times
+frame	 1565 	 truck 	 1 	times
+frame	 1567 	 truck 	 1 	times
+frame	 1574 	 truck 	 1 	times
+frame	 1575 	 truck 	 1 	times
+frame	 1576 	 truck 	 1 	times
+frame	 1577 	 truck 	 1 	times
+frame	 1578 	 truck 	 1 	times
+frame	 1581 	 truck 	 1 	times
+frame	 1583 	 truck 	 1 	times
+frame	 1585 	 truck 	 1 	times
+frame	 1586 	 truck 	 1 	times
+frame	 1587 	 truck 	 1 	times
+frame	 1588 	 truck 	 1 	times
+frame	 1598 	 truck 	 1 	times
+frame	 1600 	 truck 	 1 	times
+frame	 1601 	 truck 	 1 	times
+frame	 1605 	 truck 	 1 	times
+frame	 1606 	 truck 	 1 	times
+frame	 1608 	 truck 	 1 	times
+frame	 1610 	 truck 	 1 	times
+frame	 1614 	 truck 	 1 	times
+frame	 1615 	 truck 	 1 	times
+frame	 1620 	 truck 	 1 	times
+frame	 1621 	 truck 	 1 	times
+frame	 1622 	 truck 	 1 	times
+frame	 1623 	 truck 	 1 	times
+frame	 1629 	 truck 	 1 	times
+frame	 1645 	 truck 	 1 	times
+frame	 146 	 bench 	 1 	times
+frame	 147 	 bench 	 1 	times
+frame	 155 	 bench 	 1 	times
+frame	 183 	 bench 	 1 	times
+frame	 185 	 bench 	 1 	times
+frame	 186 	 bench 	 1 	times
+frame	 189 	 bench 	 1 	times
+frame	 191 	 bench 	 1 	times
+frame	 193 	 bench 	 1 	times
+frame	 194 	 bench 	 1 	times
+frame	 196 	 bench 	 1 	times
+frame	 197 	 bench 	 1 	times
+frame	 199 	 bench 	 1 	times
+frame	 203 	 bench 	 1 	times
+frame	 204 	 bench 	 1 	times
+frame	 284 	 bench 	 1 	times
+frame	 285 	 bench 	 1 	times
+frame	 286 	 bench 	 1 	times
+frame	 287 	 bench 	 1 	times
+frame	 288 	 bench 	 1 	times
+frame	 289 	 bench 	 1 	times
+frame	 290 	 bench 	 1 	times
+frame	 292 	 bench 	 1 	times
+frame	 399 	 bench 	 1 	times
+frame	 400 	 bench 	 1 	times
+frame	 404 	 bench 	 1 	times
+frame	 407 	 bench 	 1 	times
+frame	 408 	 bench 	 1 	times
+frame	 409 	 bench 	 1 	times
+frame	 410 	 bench 	 1 	times
+frame	 411 	 bench 	 1 	times
+frame	 412 	 bench 	 1 	times
+frame	 413 	 bench 	 1 	times
+frame	 414 	 bench 	 1 	times
+frame	 415 	 bench 	 1 	times
+frame	 416 	 bench 	 1 	times
+frame	 417 	 bench 	 1 	times
+frame	 418 	 bench 	 1 	times
+frame	 419 	 bench 	 1 	times
+frame	 420 	 bench 	 1 	times
+frame	 421 	 bench 	 1 	times
+frame	 422 	 bench 	 1 	times
+frame	 423 	 bench 	 1 	times
+frame	 424 	 bench 	 1 	times
+frame	 425 	 bench 	 1 	times
+frame	 427 	 bench 	 1 	times
+frame	 428 	 bench 	 1 	times
+frame	 431 	 bench 	 1 	times
+frame	 432 	 bench 	 1 	times
+frame	 433 	 bench 	 1 	times
+frame	 434 	 bench 	 1 	times
+frame	 435 	 bench 	 1 	times
+frame	 1081 	 backpack 	 1 	times
+frame	 1057 	 handbag 	 1 	times
+frame	 1366 	 tvmonitor 	 1 	times
+frame	 1393 	 tvmonitor 	 1 	times
+frame	 1397 	 tvmonitor 	 1 	times
+frame	 1439 	 tvmonitor 	 1 	times
+frame	 1441 	 tvmonitor 	 1 	times
+frame	 1442 	 tvmonitor 	 1 	times
+frame	 1444 	 tvmonitor 	 1 	times
+frame	 1445 	 tvmonitor 	 1 	times

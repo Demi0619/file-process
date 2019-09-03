@@ -10,10 +10,10 @@ def grouper(n, iterable, fillvalue=None):
     return zip_longest(*args, fillvalue=fillvalue)
 
 
-f1 = open("summary/cam1_PRC_bus_stop.txt", 'r')
-f2 = open("summary/cam1_RAW_bus_stop.txt", 'r')
+f1 = open("summary/cam1_PRC_still.txt", 'r')
+f2 = open("summary/cam1_RAW_still.txt", 'r')
 f3 = open("data/coco.names", 'r')
-f4 = open("summary/cam1_bus_stop.txt", 'wt')
+f4 = open("summary/cam1_still.txt", 'wt')
 
 list1 = []
 list2 = []
@@ -28,14 +28,14 @@ for lines in f2:
 for lines in f3:
     for word in lines.split("\n"):
         list3.append(word)
-list3 = list(filter(None, list3))
+list3 = list(filter(None, list3))  # Remove empty elements
 # print(list3)
 
 object_prc = []
 object_raw = []
 axis_prc = []
 axis_raw = []
-threshold = int(input('Please input a threshold:\t'))
+threshold = int(input('Please input a threshold: '))
 
 for i in list3:
     # i = i.strip()
@@ -89,7 +89,7 @@ for i in list3:
                 match_frame += 1
                 frame_overall = dic_frame_prc[x][0]
                 total_detect = raw_inner
-                diff = [[0 for x in range(raw_inner)] for y in range(prc_inner)]
+                diff = [[0 for x in range(raw_inner)] for y in range(prc_inner)]  # Initialize diff with (m * n) 0s
                 index_p = tmp_p
                 index_r = tmp_r
                 for m in range(prc_inner):  # PRC frame inner loop
@@ -97,10 +97,11 @@ for i in list3:
                     index_p = tmp_p + m
                     for n in range(raw_inner):  # RAW frame inner loop
                         index_r = tmp_r + n
-                        diff[m][n] = abs(axis_prc[index_p][1] - axis_raw[index_r][1])**2 + \
-                                     abs(axis_prc[index_p][2] - axis_raw[index_r][2])**2 + \
-                                     abs(axis_prc[index_p][3] - axis_raw[index_r][3])**2 + \
-                                     abs(axis_prc[index_p][4] - axis_raw[index_r][4])**2
+                        # Calculate the axis difference
+                        diff[m][n] = abs(axis_prc[index_p][1] - axis_raw[index_r][1]) ** 2 + \
+                                     abs(axis_prc[index_p][2] - axis_raw[index_r][2]) ** 2 + \
+                                     abs(axis_prc[index_p][3] - axis_raw[index_r][3]) ** 2 + \
+                                     abs(axis_prc[index_p][4] - axis_raw[index_r][4]) ** 2
                         row.append(diff[m][n])
                     if min(row) > threshold:
                         total_detect += 1
@@ -109,16 +110,16 @@ for i in list3:
                 tmp_r = tmp_r + raw_inner
                 tmp_p = tmp_p + prc_inner
                 print("frame\t", frame_overall, "\tdetect\t", i, "\t", total_detect, "\ttimes", file=f4)
-            elif x == 0 and dic_frame_raw[y][0] < dic_frame_prc[x][0]:  # Only RAW detect the object
+            elif x == 0 and dic_frame_raw[y][0] < dic_frame_prc[x][0]:  # Only RAW detect the object (Top)
                 frame_overall = dic_frame_raw[y][0]
                 total_detect = raw_inner
                 print("frame\t", frame_overall, "\tdetect\t", i, "\t", total_detect, "\ttimes", file=f4)
             elif x == len(dic_frame_prc) - 1 and dic_frame_raw[y][0] > dic_frame_prc[x][
-                0]:  # Only RAW detect the object
+                0]:  # Only RAW detect the object (Bottom)
                 frame_overall = dic_frame_raw[y][0]
                 total_detect = raw_inner
                 print("frame\t", frame_overall, "\tdetect\t", i, "\t", total_detect, "\ttimes", file=f4)
-            elif x != 0 and x != len(dic_frame_prc) - 1:
+            elif x != len(dic_frame_prc) - 1:
                 if (dic_frame_raw[y][0] > dic_frame_prc[x][0]) and (
                         dic_frame_raw[y][0] < dic_frame_prc[x + 1][0]):  # Only RAW detect the object
                     frame_overall = dic_frame_raw[y][0]
